@@ -11,7 +11,20 @@ output_file = "./prediction_test/2023-teams-predictions.csv"
 df = pd.read_csv(training_data)
 
 # Select features and target
-X = df.drop(columns=["Date", "HomeTeam", "AwayTeam", "FTR"])
+X = df.drop(
+    columns=[
+        "Date",
+        "HomeTeam",
+        "AwayTeam",
+        "FTR",
+        "FTHG",
+        "FTAG",
+        "HR",
+        "AR",
+        "HST",
+        "AST",
+    ]
+)
 y = df["FTR"]
 
 # Split the data into training and testing sets
@@ -26,14 +39,28 @@ model.fit(X_train, y_train)
 # Make predictions on the test set for accuracy
 y_test_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_test_pred)
-# print(f"Model accuracy: {accuracy * 100:.2f}%")
+print(f"Model accuracy: {accuracy * 100:.2f}%")
 
 
 # Load new data (2023-teams.csv) for prediction
 new_data = pd.read_csv(prediction_file)
 
 # Prepare the new data (drop identifiers if they exist)
-X_new = new_data.drop(columns=["Date", "HomeTeam", "AwayTeam", "FTR"], errors="ignore")
+X_new = new_data.drop(
+    columns=[
+        "Date",
+        "HomeTeam",
+        "AwayTeam",
+        "FTR",
+        "FTHG",
+        "FTAG",
+        "HR",
+        "AR",
+        "HST",
+        "AST",
+    ],
+    errors="ignore",
+)
 
 # Make predictions on the new data
 new_data["FTR_Prediction"] = model.predict(X_new)
