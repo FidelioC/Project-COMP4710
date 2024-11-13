@@ -17,11 +17,11 @@ for filename in os.listdir(directory):
             "AwayTeam",
             "FTHG",
             "FTAG",
-            "FTR",
             "HST",
             "AST",
             "HR",
             "AR",
+            "FTR",
         ],
     )
 
@@ -35,7 +35,3 @@ combined_data = pd.concat(
 
 # Save the combined data to a new CSV file
 combined_data.to_csv("combined_file.csv", index=False)
-
-##########################
-# Load the combined dataset
-combined_data = pd.read_csv("combined_file.csv")

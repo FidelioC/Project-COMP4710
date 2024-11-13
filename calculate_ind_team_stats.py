@@ -1,70 +1,176 @@
 import pandas as pd
 from collections import defaultdict
+from dateutil import parser
 
-# Load the CSV data
-df = pd.read_csv(
-    "combined_file.csv",
-    usecols=["HomeTeam", "AwayTeam", "FTHG", "FTAG", "FTR", "HR", "AR", "HST", "AST"],
-)
 
-# Initialize dictionaries to store points, goals scored, goals conceded, red cards, and shots for each team
-team_points = defaultdict(int)
-team_goals_scored = defaultdict(int)
-team_goals_conceded = defaultdict(int)
-team_red_cards = defaultdict(int)
-team_shots = defaultdict(int)
+def get_stats_last_10(df_write, start_index, team_name):
+    total_count = 0
+    index = start_index - 1
+    total_team_points = 0
+    total_team_goal_scored = 0
+    total_team_goal_conceded = 0
+    total_team_shot_target = 0
+    total_team_red = 0
 
-# Iterate over each row to calculate points, goals, red cards, and shots
-for _, row in df.iterrows():
-    home_team = row["HomeTeam"]
-    away_team = row["AwayTeam"]
-    home_goals = row["FTHG"]
-    away_goals = row["FTAG"]
-    home_red_cards = row["HR"]
-    away_red_cards = row["AR"]
-    home_shots = row["HST"]
-    away_shots = row["AST"]
-    result = row["FTR"]
+    while total_count < 10 and index > 0:
+        row = df_write.loc[index]
+        if row["HomeTeam"] == team_name:
+            total_team_points += (
+                3 if row["FTR"] == "H" else 1 if row["FTR"] == "D" else 0
+            )
+            total_team_shot_target += int(row["HST"])
+            total_team_red += int(row["HR"])
+            total_team_goal_scored += int(row["FTHG"])
+            total_team_goal_conceded += int(row["FTAG"])
+            total_count += 1
+        elif row["AwayTeam"] == team_name:
+            total_team_points += (
+                3 if row["FTR"] == "A" else 1 if row["FTR"] == "D" else 0
+            )
+            total_team_shot_target += int(row["AST"])
+            total_team_red += int(row["AR"])
+            total_team_goal_scored += int(row["FTAG"])
+            total_team_goal_conceded += int(row["FTHG"])
+            total_count += 1
 
-    # Points calculation
-    if result == "H":  # Home team wins
-        team_points[home_team] += 3
-    elif result == "A":  # Away team wins
-        team_points[away_team] += 3
-    elif result == "D":  # Draw
-        team_points[home_team] += 1
-        team_points[away_team] += 1
+        index -= 1
+    return (
+        total_team_points,
+        total_team_goal_scored,
+        total_team_goal_conceded,
+        total_team_shot_target,
+        total_team_red,
+    )
 
-    # Goals scored and conceded calculation
-    team_goals_scored[home_team] += home_goals
-    team_goals_scored[away_team] += away_goals
-    team_goals_conceded[home_team] += away_goals
-    team_goals_conceded[away_team] += home_goals
 
-    # Red cards calculation
-    team_red_cards[home_team] += home_red_cards
-    team_red_cards[away_team] += away_red_cards
+def get_row_last_10(df_write, start_index):
+    """get row last 10 games stats"""
+    team_home = df_write.loc[start_index]["HomeTeam"]
+    team_away = df_write.loc[start_index]["AwayTeam"]
 
-    # Shots calculation
-    team_shots[home_team] += home_shots
-    team_shots[away_team] += away_shots
+    # ===== updating the home team =======
+    (
+        total_team_points,
+        total_team_goal_scored,
+        total_team_goal_conceded,
+        total_team_shot_target,
+        total_team_red,
+    ) = get_stats_last_10(df_write, start_index, team_home)
 
-# Combine all data into a single DataFrame
-result_df = pd.DataFrame(
-    {
-        "Team": team_points.keys(),
-        "Points": team_points.values(),
-        "Total Goals Scored": [team_goals_scored[team] for team in team_points.keys()],
-        "Total Goals Conceded": [
-            team_goals_conceded[team] for team in team_points.keys()
-        ],
-        "Total Red Cards": [team_red_cards[team] for team in team_points.keys()],
-        "Total Shots": [team_shots[team] for team in team_points.keys()],
-    }
-)
+    update_home_columns(
+        df_write,
+        start_index,
+        total_team_points,
+        total_team_shot_target,
+        total_team_red,
+        total_team_goal_scored,
+        total_team_goal_conceded,
+    )
 
-# Save to CSV
-result_df.to_csv("team_stats.csv", index=False)
+    # ===== updating the away team =======
+    (
+        total_team_points,
+        total_team_goal_scored,
+        total_team_goal_conceded,
+        total_team_shot_target,
+        total_team_red,
+    ) = get_stats_last_10(df_write, start_index, team_away)
 
-# Display the first few rows of the result
-print(result_df.head())
+    update_away_columns(
+        df_write,
+        start_index,
+        total_team_points,
+        total_team_shot_target,
+        total_team_red,
+        total_team_goal_scored,
+        total_team_goal_conceded,
+    )
+
+
+def update_home_columns(
+    df_write,
+    index,
+    total_team_points,
+    total_team_shot_target,
+    total_team_red,
+    total_team_goal_scored,
+    total_team_goal_conceded,
+):
+    """updating home stat columns"""
+    df_write.at[index, "HomeTeamPointLast10"] = total_team_points
+    df_write.at[index, "HomeTeamShotTargetLast10"] = total_team_shot_target
+    df_write.at[index, "HomeTeamRedLast10"] = total_team_red
+    df_write.at[index, "HomeTeamGoalScoredLast10"] = total_team_goal_scored
+    df_write.at[index, "HomeTeamGoalConcededLast10"] = total_team_goal_conceded
+
+
+def update_away_columns(
+    df_write,
+    index,
+    total_team_points,
+    total_team_shot_target,
+    total_team_red,
+    total_team_goal_scored,
+    total_team_goal_conceded,
+):
+    """updating away stat columns"""
+    df_write.at[index, "AwayTeamPointLast10"] = total_team_points
+    df_write.at[index, "AwayTeamShotTargetLast10"] = total_team_shot_target
+    df_write.at[index, "AwayTeamRedLast10"] = total_team_red
+    df_write.at[index, "AwayTeamGoalScoredLast10"] = total_team_goal_scored
+    df_write.at[index, "AwayTeamGoalConcededLast10"] = total_team_goal_conceded
+
+
+def update_all_stats_last10(df_write, date_end):
+    for index, _ in df_write[::-1].iterrows():
+        if df_write.loc[index]["Date"] == date_end:
+            return
+        # print(index)
+        get_row_last_10(df_write, index)
+
+
+def parse_date(date_str):
+    try:
+        # Parse the date using dateutil.parser, which automatically handles multiple formats
+        return parser.parse(date_str, dayfirst=True)
+    except (ValueError, TypeError):
+        # Return NaT (Not a Time) if the date parsing fails
+        return pd.NaT
+
+
+def main():
+    date_end = "24/05/15"
+    start_date = "2015-08-08"
+
+    # ======== add new columns ========== "
+    df_read = pd.read_csv("combined_file.csv")
+
+    df_read["HomeTeamPointLast10"] = 0
+    df_read["HomeTeamGoalScoredLast10"] = 0
+    df_read["HomeTeamGoalConcededLast10"] = 0
+    df_read["HomeTeamShotTargetLast10"] = 0
+    df_read["HomeTeamRedLast10"] = 0
+
+    df_read["AwayTeamPointLast10"] = 0
+    df_read["AwayTeamGoalScoredLast10"] = 0
+    df_read["AwayTeamGoalConcededLast10"] = 0
+    df_read["AwayTeamShotTargetLast10"] = 0
+    df_read["AwayTeamRedLast10"] = 0
+
+    df_read.to_csv("team_stats.csv", index=False)
+
+    df_write = pd.read_csv("team_stats.csv")
+
+    update_all_stats_last10(df_write, date_end)
+
+    df_write["Date"] = df_write["Date"].apply(parse_date)
+
+    # Filter rows with dates from 08/08/15 to the end
+    start_date = pd.to_datetime(start_date)
+    df_filtered = df_write[df_write["Date"] >= start_date].copy()
+
+    df_filtered.to_csv("team_stats.csv", index=False)
+
+
+if __name__ == "__main__":
+    main()
