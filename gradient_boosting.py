@@ -62,7 +62,7 @@ X_new = new_data.drop(columns=[
 )
 
 # Make predictions on the new data
-new_data["FTR_prediction"] = gb_model.predict(X_new)
+new_data["FTR_Prediction"] = gb_model.predict(X_new)
 
 # Save the results with predictions to a new CSV file
 new_data.to_csv(output_file, index=False)

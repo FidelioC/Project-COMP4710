@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HST,AST,HR,AR,HomeTeamPointLast10,HomeTeamGoalScoredLast10,HomeTeamGoalConcededLast10,HomeTeamShotTargetLast10,HomeTeamRedLast10,AwayTeamPointLast10,AwayTeamGoalScoredLast10,AwayTeamGoalConcededLast10,AwayTeamShotTargetLast10,AwayTeamRedLast10,FTR_prediction
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HST,AST,HR,AR,HomeTeamPointLast10,HomeTeamGoalScoredLast10,HomeTeamGoalConcededLast10,HomeTeamShotTargetLast10,HomeTeamRedLast10,AwayTeamPointLast10,AwayTeamGoalScoredLast10,AwayTeamGoalConcededLast10,AwayTeamShotTargetLast10,AwayTeamRedLast10,FTR_Prediction
 2022-08-05,Crystal Palace,Arsenal,0,2,A,2,2,0,0,28,26,19,85,0,37,34,25,100,3,A
 2022-08-06,Fulham,Liverpool,2,2,D,3,4,0,0,0,0,0,0,0,51,44,11,133,0,H
 2022-08-06,Bournemouth,Aston Villa,2,0,H,3,2,0,0,0,0,0,0,0,23,28,26,101,1,H
