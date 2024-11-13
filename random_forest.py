@@ -26,7 +26,7 @@ model.fit(X_train, y_train)
 # Make predictions on the test set for accuracy
 y_test_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_test_pred)
-print(f"Model accuracy: {accuracy * 100:.2f}%")
+# print(f"Model accuracy: {accuracy * 100:.2f}%")
 
 
 # Load new data (2023-teams.csv) for prediction

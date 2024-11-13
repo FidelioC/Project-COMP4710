@@ -2,10 +2,10 @@ import pandas as pd
 from collections import defaultdict
 from dateutil import parser
 
-input_file = "./prediction_test/combined_file.csv"
-output_file = "./prediction_test/team_stats.csv"
-date_end = "22/05/2022"  # date/month/year
-start_date = "2022-08-05"  # year - month - date
+input_file = "./training_data/combined_file.csv"
+output_file = "./training_data/team_stats.csv"
+date_end = "24/05/2015"  # date/month/year "24/05/2015" "13/08/2021"
+start_date = "2015-08-08"  # year - month - date "2015-08-08" "2022-08-05"
 
 
 def get_stats_last_10(df_write, start_index, team_name):
@@ -17,7 +17,7 @@ def get_stats_last_10(df_write, start_index, team_name):
     total_team_shot_target = 0
     total_team_red = 0
 
-    while total_count < 10 and index > 0:
+    while total_count < 20 and index > 0:
         row = df_write.loc[index]
         if row["HomeTeam"] == team_name:
             total_team_points += (
