@@ -2,6 +2,11 @@ import pandas as pd
 from collections import defaultdict
 from dateutil import parser
 
+input_file = "./prediction_test/combined_file.csv"
+output_file = "./prediction_test/team_stats.csv"
+date_end = "22/05/2022"  # date/month/year
+start_date = "2022-08-05"  # year - month - date
+
 
 def get_stats_last_10(df_write, start_index, team_name):
     total_count = 0
@@ -138,12 +143,9 @@ def parse_date(date_str):
         return pd.NaT
 
 
-def main():
-    date_end = "24/05/15"
-    start_date = "2015-08-08"
-
+def main(start_date):
     # ======== add new columns ========== "
-    df_read = pd.read_csv("combined_file.csv")
+    df_read = pd.read_csv(input_file)
 
     df_read["HomeTeamPointLast10"] = 0
     df_read["HomeTeamGoalScoredLast10"] = 0
@@ -157,9 +159,9 @@ def main():
     df_read["AwayTeamShotTargetLast10"] = 0
     df_read["AwayTeamRedLast10"] = 0
 
-    df_read.to_csv("team_stats.csv", index=False)
+    df_read.to_csv(output_file, index=False)
 
-    df_write = pd.read_csv("team_stats.csv")
+    df_write = pd.read_csv(output_file)
 
     update_all_stats_last10(df_write, date_end)
 
@@ -169,8 +171,8 @@ def main():
     start_date = pd.to_datetime(start_date)
     df_filtered = df_write[df_write["Date"] >= start_date].copy()
 
-    df_filtered.to_csv("team_stats.csv", index=False)
+    df_filtered.to_csv(output_file, index=False)
 
 
 if __name__ == "__main__":
-    main()
+    main(start_date)

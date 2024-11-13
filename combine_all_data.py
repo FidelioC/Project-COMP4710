@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-directory = "./english_premier/Datasets"
+directory = "./prediction_test/Datasets"
 data_frames = []
 
 for filename in os.listdir(directory):
@@ -34,4 +34,4 @@ combined_data = pd.concat(
 )
 
 # Save the combined data to a new CSV file
-combined_data.to_csv("combined_file.csv", index=False)
+combined_data.to_csv("./prediction_test/combined_file.csv", index=False)
