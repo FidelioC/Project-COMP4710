@@ -3,9 +3,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-training_data = "./training_data/team_stats_noh2h.csv"
-prediction_file = "./prediction_test/team_stats_noh2h.csv"
-output_file = "./prediction_test/2023-teams-predictions-no-h2h-randomforest.csv"
+training_data = "./training_data/team_stats_avg.csv"
+prediction_file = "./prediction_test/team_stats_avg.csv"
+output_file = "./prediction_test/2023-teams-predictions-avg-randomforest.csv"
 
 # Load data
 df = pd.read_csv(training_data)
