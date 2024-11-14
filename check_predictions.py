@@ -1,18 +1,13 @@
 import pandas as pd
 
 # Load the CSV file
-data = pd.read_csv("./prediction_test/2023-teams-predictions_noh2h.csv")
+data = pd.read_csv("./prediction_test/2023-teams-predictions-LSTM.csv")
 
 # Find rows where FTR does not match FTR_Prediction
-matches = data[data["FTR"] == data["FTR_Prediction"]]
+mismatches = data[data["FTR"] != data["FTR_Prediction"]]
 
-# Calculate the accuracy percentage
-total_rows = len(data)
-match_count = len(matches)
-accuracy_percentage = (match_count / total_rows) * 100
-
-# Print the results
-if total_rows > 0:
-    print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
+# Check if there are any mismatches and print them
+if not mismatches.empty:
+    print("Mismatched rows:\n", mismatches)
 else:
-    print("No data to calculate accuracy.")
+    print("All predictions match the actual results.")
