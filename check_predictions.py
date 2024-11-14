@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-data = pd.read_csv("./prediction_test/2023-teams-predictions_noh2h.csv")
+data = pd.read_csv("./prediction_test/2023-teams-predictions-no-h2h-randomforest.csv")
 
 # Find rows where FTR does not match FTR_Prediction
 matches = data[data["FTR"] == data["FTR_Prediction"]]
