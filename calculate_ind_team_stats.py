@@ -2,10 +2,10 @@ import pandas as pd
 from collections import defaultdict
 from dateutil import parser
 
-input_file = "./training_data/combined_file.csv"  # "./training_data/combined_file.csv" "./prediction_test/combined_file.csv"
-output_file = "./training_data/team_stats.csv"  # "./training_data/team_stats.csv" "./prediction_test/team_stats.csv"
-date_end = "24/05/15"  # date/month/year "24/05/15" "22/05/2022"
-start_date = "2015-08-08"  # year - month - date "2015-08-08" "2022-08-05"
+input_file = "./prediction_test/combined_file.csv"  # "./training_data/combined_file.csv" "./prediction_test/combined_file.csv"
+output_file = "./prediction_test/team_stats_noh2h.csv"  # "./training_data/team_stats.csv" "./prediction_test/team_stats.csv"
+date_end = "22/05/2022"  # date/month/year "24/05/15" "22/05/2022"
+start_date = "2022-08-05"  # year - month - date "2015-08-08" "2022-08-05"
 
 
 # ======= Team Stats Codes =========== #
@@ -308,22 +308,7 @@ def parse_date(date_str):
         return pd.NaT
 
 
-def main(start_date):
-    # ======== add new columns ========== "
-    df_read = pd.read_csv(input_file)
-
-    df_read["HomeTeamPointLast20"] = 0
-    df_read["HomeTeamGoalScoredLast20"] = 0
-    df_read["HomeTeamGoalConcededLast20"] = 0
-    df_read["HomeTeamShotTargetLast20"] = 0
-    df_read["HomeTeamRedLast20"] = 0
-
-    df_read["AwayTeamPointLast20"] = 0
-    df_read["AwayTeamGoalScoredLast20"] = 0
-    df_read["AwayTeamGoalConcededLast20"] = 0
-    df_read["AwayTeamShotTargetLast20"] = 0
-    df_read["AwayTeamRedLast20"] = 0
-
+def h2h_new_columns(df_read):
     df_read["HomeTeamPointH2HLast10"] = 0
     df_read["HomeTeamGoalScoredH2HLast10"] = 0
     df_read["HomeTeamGoalConcededH2HLast10"] = 0
@@ -336,12 +321,34 @@ def main(start_date):
     df_read["AwayTeamShotTargetH2HLast10"] = 0
     df_read["AwayTeamRedH2HLast10"] = 0
 
+
+def stats_new_columns(df_read):
+    df_read["HomeTeamPointLast20"] = 0
+    df_read["HomeTeamGoalScoredLast20"] = 0
+    df_read["HomeTeamGoalConcededLast20"] = 0
+    df_read["HomeTeamShotTargetLast20"] = 0
+    df_read["HomeTeamRedLast20"] = 0
+
+    df_read["AwayTeamPointLast20"] = 0
+    df_read["AwayTeamGoalScoredLast20"] = 0
+    df_read["AwayTeamGoalConcededLast20"] = 0
+    df_read["AwayTeamShotTargetLast20"] = 0
+    df_read["AwayTeamRedLast20"] = 0
+
+
+def main(start_date):
+    # ======== add new columns ========== "
+    df_read = pd.read_csv(input_file)
+
+    stats_new_columns(df_read)
+    # h2h_new_columns(df_read)
+
     df_read.to_csv(output_file, index=False)
 
     df_write = pd.read_csv(output_file)
 
     update_all_stats_last20(df_write, date_end)
-    update_h2h_stats_last10(df_write, date_end)
+    # update_h2h_stats_last10(df_write, date_end)
 
     df_write["Date"] = df_write["Date"].apply(parse_date)
 
