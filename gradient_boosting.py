@@ -5,9 +5,9 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
 
-training_data = "./training_data/team_stats_stats30_h2h5.csv"
-prediction_file = "./prediction_test/team_stats_stats30_h2h5.csv"
-output_file = "./prediction_test/gboost_stats30_h2h5.csv"
+training_data = "./training_data/team_stats_stats15_h2h10.csv"
+prediction_file = "./prediction_test/team_stats_stats15_h2h10.csv"
+output_file = "./prediction_test/gboost_stats15_h2h10.csv"
 
 
 # Load the dataset
@@ -40,9 +40,9 @@ gb_model.fit(X_train, Y_train)
 # Make prediction
 Y_pred = gb_model.predict(X_test)
 
-# Calculate accuracy and classification report
+# Calculate accuracy
 accuracy = accuracy_score(Y_test, Y_pred)
-print(f"Model accuracy: {accuracy * 100:.2f}%")
+# print(f"Model accuracy: {accuracy * 100:.2f}%")
 
 # Fetch new data (2022-2023)
 new_data = pd.read_csv(prediction_file)
