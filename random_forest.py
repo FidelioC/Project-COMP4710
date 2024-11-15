@@ -69,9 +69,9 @@ def main(training_data, prediction_file, output_file):
     print("Random forest finished")
 
 
-training_data = "./training_data/team_stats_stats.csv"
-prediction_file = "./prediction_test/team_stats_avg.csv"
-output_file = "./prediction_test/2023-teams-predictions-avg-randomforest.csv"
+# training_data = "./training_data/team_stats_stats.csv"
+# prediction_file = "./prediction_test/team_stats_avg.csv"
+# output_file = "./prediction_test/2023-teams-predictions-avg-randomforest.csv"
 
 
 @click.command()
