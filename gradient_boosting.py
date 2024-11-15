@@ -5,9 +5,9 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
 
-training_data = "./training_data/team_stats.csv"
-prediction_file = "./prediction_test/team_stats.csv"
-output_file = "./prediction_test/gboost-2023-teams-predictions.csv"
+training_data = "./training_data/team_stats_stats30_h2h5.csv"
+prediction_file = "./prediction_test/team_stats_stats30_h2h5.csv"
+output_file = "./prediction_test/gboost_stats30_h2h5.csv"
 
 
 # Load the dataset
