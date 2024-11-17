@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-directory = "./prediction_test/Datasets"
-output = "./prediction_test/combined_file.csv"
+directory = "./training_data/Datasets"
+output = "./training_data/combined_file_Referee.csv"
 data_frames = []
 
 for filename in os.listdir(directory):
@@ -25,6 +25,7 @@ for filename in os.listdir(directory):
                 "HR",
                 "AR",
                 "FTR",
+                "Referee",
             ],
         )
 
