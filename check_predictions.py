@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-data = pd.read_csv("./results/random_forest_stats20_weighted.csv")
+data = pd.read_csv("./results/PS_betting_results.csv")
 
 # Find rows where FTR does not match FTR_Prediction
 matches = data[data["FTR"] == data["FTR_Prediction"]]
@@ -9,6 +9,7 @@ matches = data[data["FTR"] == data["FTR_Prediction"]]
 # Calculate the accuracy percentage
 total_rows = len(data)
 match_count = len(matches)
+print(f"Match count: {match_count}. Total rows: {total_rows}")
 accuracy_percentage = (match_count / total_rows) * 100
 
 # Print the results
