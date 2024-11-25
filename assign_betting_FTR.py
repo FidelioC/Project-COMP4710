@@ -6,7 +6,7 @@ file_path = (
 )
 df = pd.read_csv(file_path)
 
-betting_site = "WH"
+betting_site = "B365"
 
 
 # Add the 'FTR_Prediction' column based on the highest B365H, B365D, and B365A values
@@ -16,6 +16,7 @@ def predict_ftr(row):
         row[f"{betting_site}H"], row[f"{betting_site}D"], row[f"{betting_site}A"]
     )
 
+    print(min_value)
     if min_value == row[f"{betting_site}H"]:
         return "H"  # Home team prediction
     elif min_value == row[f"{betting_site}D"]:
