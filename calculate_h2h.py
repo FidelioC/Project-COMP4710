@@ -5,12 +5,14 @@ def h2h_new_columns(df_read, num_game_h2h):
     df_read[f"HomeTeamGoalConcededH2HLast{num_game_h2h}"] = 0
     df_read[f"HomeTeamShotTargetH2HLast{num_game_h2h}"] = 0
     df_read[f"HomeTeamRedH2HLast{num_game_h2h}"] = 0
+    df_read[f"HomeTeamWin%H2HLast{num_game_h2h}"] = 0
 
     df_read[f"AwayTeamPointH2HLast{num_game_h2h}"] = 0
     df_read[f"AwayTeamGoalScoredH2HLast{num_game_h2h}"] = 0
     df_read[f"AwayTeamGoalConcededH2HLast{num_game_h2h}"] = 0
     df_read[f"AwayTeamShotTargetH2HLast{num_game_h2h}"] = 0
     df_read[f"AwayTeamRedH2HLast{num_game_h2h}"] = 0
+    df_read[f"AwayTeamWin%H2HLast{num_game_h2h}"] = 0
 
 
 def get_h2h_stats_last_10(df_write, start_index, team_name1, team_name2, num_game_h2h):
@@ -27,12 +29,14 @@ def get_h2h_stats_last_10(df_write, start_index, team_name1, team_name2, num_gam
     total_team1_goal_conceded = 0
     total_team1_shot_target = 0
     total_team1_red = 0
+    team1_wins = 0
 
     total_team2_points = 0
     total_team2_goal_scored = 0
     total_team2_goal_conceded = 0
     total_team2_shot_target = 0
     total_team2_red = 0
+    team2_wins = 0
 
     row = df_write.loc[index]
     print(f"{df_write.loc[index]["Date"]}, team1: {team_name1}, team2: {team_name2}")
@@ -61,6 +65,11 @@ def get_h2h_stats_last_10(df_write, start_index, team_name1, team_name2, num_gam
             total_team2_goal_scored += int(row["FTAG"])
             total_team2_goal_conceded += int(row["FTHG"])
 
+            if row["FTR"] == "H":
+                team1_wins += 1  # Team1 wins as the home team
+            elif row["FTR"] == "A":
+                team2_wins += 1  # Team2 wins as the away team
+
         elif row["HomeTeam"] == team_name2 and row["AwayTeam"] == team_name1:
             total_count += 1
             # print(f"{row["Date"]}, Home: {row["HomeTeam"]}, Away: {row["AwayTeam"]}")
@@ -83,7 +92,20 @@ def get_h2h_stats_last_10(df_write, start_index, team_name1, team_name2, num_gam
             total_team1_goal_scored += int(row["FTAG"])
             total_team1_goal_conceded += int(row["FTHG"])
 
+            if row["FTR"] == "H":
+                team2_wins += 1  # Team1 wins as the home team
+            elif row["FTR"] == "A":
+                team1_wins += 1  # Team2 wins as the away team
+
         index -= 1
+
+    # Calculate winning percentages
+    if total_count > 0:
+        win_percentage_team1 = (team1_wins / total_count) * 100
+        win_percentage_team2 = (team2_wins / total_count) * 100
+    else:
+        win_percentage_team1 = 0.0
+        win_percentage_team2 = 0.0
 
     return (
         total_team1_points,
@@ -96,6 +118,8 @@ def get_h2h_stats_last_10(df_write, start_index, team_name1, team_name2, num_gam
         total_team2_goal_conceded,
         total_team2_shot_target,
         total_team2_red,
+        win_percentage_team1,
+        win_percentage_team2,
     )
 
 
@@ -113,6 +137,8 @@ def get_h2h_last_10(df_write, start_index, num_game_h2h):
         total_team2_goal_conceded,
         total_team2_shot_target,
         total_team2_red,
+        team1_winpct,
+        team2_winpct,
     ) = get_h2h_stats_last_10(df_write, start_index, team1, team2, num_game_h2h)
 
     update_h2h_home_columns(
@@ -124,6 +150,7 @@ def get_h2h_last_10(df_write, start_index, num_game_h2h):
         total_team1_shot_target,
         total_team1_red,
         num_game_h2h,
+        team1_winpct,
     )
 
     update_h2h_away_columns(
@@ -135,6 +162,7 @@ def get_h2h_last_10(df_write, start_index, num_game_h2h):
         total_team2_shot_target,
         total_team2_red,
         num_game_h2h,
+        team2_winpct,
     )
 
 
@@ -147,6 +175,7 @@ def update_h2h_home_columns(
     total_team1_shot_target,
     total_team1_red,
     num_game_h2h,
+    team1_winpct,
 ):
     df_write.at[index, f"HomeTeamPointH2HLast{num_game_h2h}"] = total_team1_points
     df_write.at[index, f"HomeTeamGoalScoredH2HLast{num_game_h2h}"] = (
@@ -159,6 +188,7 @@ def update_h2h_home_columns(
         total_team1_shot_target
     )
     df_write.at[index, f"HomeTeamRedH2HLast{num_game_h2h}"] = total_team1_red
+    df_write.at[index, f"HomeTeamWin%H2HLast{num_game_h2h}"] = float(team1_winpct)
 
 
 def update_h2h_away_columns(
@@ -170,6 +200,7 @@ def update_h2h_away_columns(
     total_team2_shot_target,
     total_team2_red,
     num_game_h2h,
+    team2_winpct,
 ):
     df_write.at[index, f"AwayTeamPointH2HLast{num_game_h2h}"] = total_team2_points
     df_write.at[index, f"AwayTeamGoalScoredH2HLast{num_game_h2h}"] = (
@@ -182,6 +213,7 @@ def update_h2h_away_columns(
         total_team2_shot_target
     )
     df_write.at[index, f"AwayTeamRedH2HLast{num_game_h2h}"] = total_team2_red
+    df_write.at[index, f"AwayTeamWin%H2HLast{num_game_h2h}"] = float(team2_winpct)
 
 
 def update_h2h_stats_last10(df_write, date_end, num_game_h2h):

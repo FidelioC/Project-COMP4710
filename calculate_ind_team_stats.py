@@ -26,16 +26,16 @@ def main(input_file, output_file, num_game_stats, num_game_h2h, date_end, start_
     df_read = pd.read_csv(input_file)
 
     calculate_stats_points.stats_new_columns(df_read, num_game_stats)
-    # calculate_h2h.h2h_new_columns(df_read, num_game_h2h)
-    calculate_weighted.weighted_new_columns(df_read, num_game_stats)
+    calculate_h2h.h2h_new_columns(df_read, num_game_h2h)
+    # calculate_weighted.weighted_new_columns(df_read, num_game_stats)
 
     df_read.to_csv(output_file, index=False)
 
     df_write = pd.read_csv(output_file)
 
     calculate_stats_points.update_all_stats_last20(df_write, date_end, num_game_stats)
-    # calculate_h2h.update_h2h_stats_last10(df_write, date_end, num_game_h2h)
-    calculate_weighted.update_all_weight_last20(df_write, date_end, num_game_stats)
+    calculate_h2h.update_h2h_stats_last10(df_write, date_end, num_game_h2h)
+    # calculate_weighted.update_all_weight_last20(df_write, date_end, num_game_stats)
 
     df_write["Date"] = df_write["Date"].apply(parse_date)
 
