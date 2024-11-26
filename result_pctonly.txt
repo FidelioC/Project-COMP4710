@@ -1,0 +1,33 @@
+All Point Percentage: 66.37529137529138
+
+
+All GoalScored Percentage: 66.56976744186046
+
+
+All GoalConceded Percentage: 35.92004703115814
+
+
+All ShotsTarget Percentage: 67.35751295336787
+
+
+All Red Percentage: 46.953125
+
+
+All PointH2HLast10 Percentage: 66.25
+
+
+All GoalScoredH2HLast10 Percentage: 65.48157724628312
+
+
+All GoalConcededH2HLast10 Percentage: 34.51842275371687
+
+
+All ShotTargetH2HLast10 Percentage: 65.4320987654321
+
+
+All RedH2HLast10 Percentage: 48.81398252184769
+
+
+All Win%H2HLast10 Percentage: 66.25
+
+

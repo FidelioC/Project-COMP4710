@@ -12,6 +12,8 @@ max_rating = max(df["HomeTeamRatingLast20"].max(), df["AwayTeamRatingLast20"].ma
 
 # print(max_shot_target, max_H2H_pct, max_rating)
 ftr_predictions = []  # Temporary list to store predictions
+total_home_value = 0
+total_away_value = 0
 
 for index, row in df.iterrows():
     HomeShotsTarget = row["HomeTeamShotTargetLast20"] / max_shot_target
@@ -23,7 +25,7 @@ for index, row in df.iterrows():
 
     total_home_value = HomeShotsTarget + HomeTeamH2HPct + HomeTeamRating
 
-    total_away_value = AwayShotsTarget + AwayTeamH2HPct + AwayTeamRating
+    total_away_value = AwayShotsTarget + AwayTeamRating + AwayTeamRating
 
     print(
         f"Hometeam: {row["HomeTeam"]}, AwayTeam: {row["AwayTeam"]}, totalHomeValue: {total_home_value}, totalAwayValue: {total_away_value}"
@@ -33,6 +35,8 @@ for index, row in df.iterrows():
         ftr_predictions.append("H")
     elif total_home_value < total_away_value:
         ftr_predictions.append("A")
+    else:
+        ftr_predictions.append("D")
 
 df["FTR_Prediction"] = ftr_predictions
 

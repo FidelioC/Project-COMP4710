@@ -1,0 +1,372 @@
+All Point Percentage: 66.37529137529138
+Team: Aston Villa, Win%PointBetter: 36.84210526315789
+Team: Chelsea, Win%PointBetter: 59.66850828729282
+Team: Everton, Win%PointBetter: 43.44262295081967
+Team: Leicester, Win%PointBetter: 53.5483870967742
+Team: Man United, Win%PointBetter: 51.955307262569825
+Team: Crystal Palace, Win%PointBetter: 37.83783783783784
+Team: Arsenal, Win%PointBetter: 57.6271186440678
+Team: Southampton, Win%PointBetter: 34.5679012345679
+Team: Liverpool, Win%PointBetter: 68.08510638297872
+Team: Man City, Win%PointBetter: 72.38095238095238
+Team: Sunderland, Win%PointBetter: 35.714285714285715
+Team: Swansea, Win%PointBetter: 25.64102564102564
+Team: Tottenham, Win%PointBetter: 61.6580310880829
+Team: West Brom, Win%PointBetter: 28.57142857142857
+Team: Stoke, Win%PointBetter: 40.0
+Team: West Ham, Win%PointBetter: 42.016806722689076
+Team: Norwich, Win%PointBetter: 20.0
+Team: Watford, Win%PointBetter: 28.846153846153843
+Team: Newcastle, Win%PointBetter: 37.03703703703704
+Team: Bournemouth, Win%PointBetter: 40.35087719298245
+Team: Hull, Win%PointBetter: 25.0
+Team: Middlesbrough, Win%PointBetter: 0.0
+Team: Burnley, Win%PointBetter: 32.25806451612903
+Team: Brighton, Win%PointBetter: 22.0
+Team: Huddersfield, Win%PointBetter: 40.0
+Team: Fulham, Win%PointBetter: 16.666666666666664
+Team: Wolves, Win%PointBetter: 36.734693877551024
+Team: Sheffield United, Win%PointBetter: 41.17647058823529
+Team: Leeds, Win%PointBetter: 47.05882352941176
+Team: Brentford, Win%PointBetter: 40.0
+
+
+All GoalScored Percentage: 66.56976744186046
+Team: Aston Villa, Win%GoalScoredBetter: 41.37931034482759
+Team: Chelsea, Win%GoalScoredBetter: 57.2972972972973
+Team: Everton, Win%GoalScoredBetter: 41.80327868852459
+Team: Leicester, Win%GoalScoredBetter: 51.49700598802395
+Team: Tottenham, Win%GoalScoredBetter: 61.904761904761905
+Team: Crystal Palace, Win%GoalScoredBetter: 41.77215189873418
+Team: Arsenal, Win%GoalScoredBetter: 55.3072625698324
+Team: Southampton, Win%GoalScoredBetter: 38.46153846153847
+Team: Liverpool, Win%GoalScoredBetter: 66.83417085427136
+Team: Man City, Win%GoalScoredBetter: 71.10091743119266
+Team: Man United, Win%GoalScoredBetter: 55.69620253164557
+Team: Sunderland, Win%GoalScoredBetter: 22.22222222222222
+Team: Swansea, Win%GoalScoredBetter: 32.35294117647059
+Team: West Brom, Win%GoalScoredBetter: 32.142857142857146
+Team: Stoke, Win%GoalScoredBetter: 30.0
+Team: West Ham, Win%GoalScoredBetter: 42.10526315789473
+Team: Norwich, Win%GoalScoredBetter: 30.76923076923077
+Team: Watford, Win%GoalScoredBetter: 31.48148148148148
+Team: Newcastle, Win%GoalScoredBetter: 32.075471698113205
+Team: Bournemouth, Win%GoalScoredBetter: 40.0
+Team: Hull, Win%GoalScoredBetter: 33.33333333333333
+Team: Middlesbrough, Win%GoalScoredBetter: 50.0
+Team: Burnley, Win%GoalScoredBetter: 32.5
+Team: Brighton, Win%GoalScoredBetter: 17.94871794871795
+Team: Huddersfield, Win%GoalScoredBetter: 100.0
+Team: Cardiff, Win%GoalScoredBetter: 50.0
+Team: Fulham, Win%GoalScoredBetter: 36.36363636363637
+Team: Wolves, Win%GoalScoredBetter: 33.33333333333333
+Team: Sheffield United, Win%GoalScoredBetter: 28.57142857142857
+Team: Leeds, Win%GoalScoredBetter: 46.34146341463415
+Team: Brentford, Win%GoalScoredBetter: 44.44444444444444
+
+
+All GoalConceded Percentage: 35.92004703115814
+Team: Aston Villa, Win%GoalConcededBetter: 19.41747572815534
+Team: Swansea, Win%GoalConcededBetter: 28.205128205128204
+Team: Watford, Win%GoalConcededBetter: 21.641791044776117
+Team: Sunderland, Win%GoalConcededBetter: 14.545454545454545
+Team: Tottenham, Win%GoalConcededBetter: 44.44444444444444
+Team: Norwich, Win%GoalConcededBetter: 17.391304347826086
+Team: West Ham, Win%GoalConcededBetter: 29.78723404255319
+Team: Newcastle, Win%GoalConcededBetter: 28.030303030303028
+Team: Liverpool, Win%GoalConcededBetter: 43.54838709677419
+Team: West Brom, Win%GoalConcededBetter: 20.0
+Team: Everton, Win%GoalConcededBetter: 29.464285714285715
+Team: Leicester, Win%GoalConcededBetter: 34.61538461538461
+Team: Crystal Palace, Win%GoalConcededBetter: 22.900763358778626
+Team: Man City, Win%GoalConcededBetter: 53.57142857142857
+Team: Stoke, Win%GoalConcededBetter: 21.12676056338028
+Team: Chelsea, Win%GoalConcededBetter: 42.857142857142854
+Team: Southampton, Win%GoalConcededBetter: 26.119402985074625
+Team: Man United, Win%GoalConcededBetter: 39.285714285714285
+Team: Bournemouth, Win%GoalConcededBetter: 28.971962616822427
+Team: Arsenal, Win%GoalConcededBetter: 39.0625
+Team: Hull, Win%GoalConcededBetter: 22.58064516129032
+Team: Middlesbrough, Win%GoalConcededBetter: 6.666666666666667
+Team: Burnley, Win%GoalConcededBetter: 27.173913043478258
+Team: Brighton, Win%GoalConcededBetter: 29.508196721311474
+Team: Huddersfield, Win%GoalConcededBetter: 11.11111111111111
+Team: Cardiff, Win%GoalConcededBetter: 20.0
+Team: Fulham, Win%GoalConcededBetter: 10.256410256410255
+Team: Wolves, Win%GoalConcededBetter: 32.6530612244898
+Team: Sheffield United, Win%GoalConcededBetter: 28.57142857142857
+Team: Leeds, Win%GoalConcededBetter: 30.909090909090907
+Team: Brentford, Win%GoalConcededBetter: 21.428571428571427
+
+
+All ShotsTarget Percentage: 67.35751295336787
+Team: Aston Villa, Win%ShotsTargetBetter: 40.35087719298245
+Team: Chelsea, Win%ShotsTargetBetter: 59.44444444444444
+Team: Watford, Win%ShotsTargetBetter: 30.76923076923077
+Team: Leicester, Win%ShotsTargetBetter: 53.62318840579711
+Team: Tottenham, Win%ShotsTargetBetter: 62.08791208791209
+Team: Norwich, Win%ShotsTargetBetter: 28.57142857142857
+Team: Arsenal, Win%ShotsTargetBetter: 57.738095238095234
+Team: Southampton, Win%ShotsTargetBetter: 38.095238095238095
+Team: Liverpool, Win%ShotsTargetBetter: 65.40284360189574
+Team: Man City, Win%ShotsTargetBetter: 71.75925925925925
+Team: Man United, Win%ShotsTargetBetter: 54.65116279069767
+Team: Swansea, Win%ShotsTargetBetter: 36.666666666666664
+Team: Crystal Palace, Win%ShotsTargetBetter: 45.83333333333333
+Team: West Ham, Win%ShotsTargetBetter: 40.33613445378151
+Team: Stoke, Win%ShotsTargetBetter: 30.555555555555557
+Team: Sunderland, Win%ShotsTargetBetter: 26.666666666666668
+Team: Everton, Win%ShotsTargetBetter: 43.103448275862064
+Team: Newcastle, Win%ShotsTargetBetter: 38.59649122807017
+Team: Bournemouth, Win%ShotsTargetBetter: 43.333333333333336
+Team: West Brom, Win%ShotsTargetBetter: 30.76923076923077
+Team: Burnley, Win%ShotsTargetBetter: 44.11764705882353
+Team: Middlesbrough, Win%ShotsTargetBetter: 30.0
+Team: Hull, Win%ShotsTargetBetter: 18.181818181818183
+Team: Brighton, Win%ShotsTargetBetter: 30.952380952380953
+Team: Huddersfield, Win%ShotsTargetBetter: 0.0
+Team: Fulham, Win%ShotsTargetBetter: 18.75
+Team: Wolves, Win%ShotsTargetBetter: 36.95652173913043
+Team: Cardiff, Win%ShotsTargetBetter: 33.33333333333333
+Team: Sheffield United, Win%ShotsTargetBetter: 53.84615384615385
+Team: Leeds, Win%ShotsTargetBetter: 44.44444444444444
+Team: Brentford, Win%ShotsTargetBetter: 55.55555555555556
+
+
+All Red Percentage: 46.953125
+Team: Aston Villa, Win%RedBetter: 23.728813559322035
+Team: Chelsea, Win%RedBetter: 53.2608695652174
+Team: Everton, Win%RedBetter: 31.03448275862069
+Team: Man United, Win%RedBetter: 56.94444444444444
+Team: Norwich, Win%RedBetter: 17.94871794871795
+Team: West Ham, Win%RedBetter: 36.607142857142854
+Team: Newcastle, Win%RedBetter: 29.292929292929294
+Team: Liverpool, Win%RedBetter: 63.829787234042556
+Team: West Brom, Win%RedBetter: 17.307692307692307
+Team: Crystal Palace, Win%RedBetter: 13.513513513513514
+Team: Sunderland, Win%RedBetter: 17.142857142857142
+Team: Southampton, Win%RedBetter: 33.33333333333333
+Team: Stoke, Win%RedBetter: 30.952380952380953
+Team: Arsenal, Win%RedBetter: 53.333333333333336
+Team: Tottenham, Win%RedBetter: 50.847457627118644
+Team: Watford, Win%RedBetter: 22.115384615384613
+Team: Swansea, Win%RedBetter: 0.0
+Team: Leicester, Win%RedBetter: 39.24050632911392
+Team: Bournemouth, Win%RedBetter: 35.0
+Team: Burnley, Win%RedBetter: 20.0
+Team: Middlesbrough, Win%RedBetter: 14.285714285714285
+Team: Hull, Win%RedBetter: 20.0
+Team: Man City, Win%RedBetter: 69.33333333333334
+Team: Huddersfield, Win%RedBetter: 12.5
+Team: Brighton, Win%RedBetter: 25.609756097560975
+Team: Cardiff, Win%RedBetter: 20.0
+Team: Fulham, Win%RedBetter: 15.384615384615385
+Team: Wolves, Win%RedBetter: 34.48275862068966
+Team: Sheffield United, Win%RedBetter: 35.0
+Team: Leeds, Win%RedBetter: 34.61538461538461
+Team: Brentford, Win%RedBetter: 28.57142857142857
+
+
+All PointH2HLast10 Percentage: 66.25
+Team: Chelsea, Win%PointH2HLast10Better: 56.56565656565656
+Team: Everton, Win%PointH2HLast10Better: 42.10526315789473
+Team: Leicester, Win%PointH2HLast10Better: 53.93258426966292
+Team: Man United, Win%PointH2HLast10Better: 48.924731182795696
+Team: Norwich, Win%PointH2HLast10Better: 22.22222222222222
+Team: Arsenal, Win%PointH2HLast10Better: 57.668711656441715
+Team: Man City, Win%PointH2HLast10Better: 73.11827956989248
+Team: Swansea, Win%PointH2HLast10Better: 44.44444444444444
+Team: Tottenham, Win%PointH2HLast10Better: 61.146496815286625
+Team: Crystal Palace, Win%PointH2HLast10Better: 32.608695652173914
+Team: Aston Villa, Win%PointH2HLast10Better: 22.58064516129032
+Team: Liverpool, Win%PointH2HLast10Better: 65.07936507936508
+Team: Stoke, Win%PointH2HLast10Better: 40.625
+Team: West Brom, Win%PointH2HLast10Better: 26.08695652173913
+Team: Newcastle, Win%PointH2HLast10Better: 31.57894736842105
+Team: Southampton, Win%PointH2HLast10Better: 37.333333333333336
+Team: West Ham, Win%PointH2HLast10Better: 44.827586206896555
+Team: Sunderland, Win%PointH2HLast10Better: 40.0
+Team: Watford, Win%PointH2HLast10Better: 30.555555555555557
+Team: Bournemouth, Win%PointH2HLast10Better: 20.0
+Team: Middlesbrough, Win%PointH2HLast10Better: 10.0
+Team: Burnley, Win%PointH2HLast10Better: 23.684210526315788
+Team: Hull, Win%PointH2HLast10Better: 0.0
+Team: Brighton, Win%PointH2HLast10Better: 34.375
+Team: Huddersfield, Win%PointH2HLast10Better: 25.0
+Team: Fulham, Win%PointH2HLast10Better: 21.428571428571427
+Team: Wolves, Win%PointH2HLast10Better: 38.095238095238095
+Team: Cardiff, Win%PointH2HLast10Better: 100.0
+Team: Sheffield United, Win%PointH2HLast10Better: 18.181818181818183
+Team: Leeds, Win%PointH2HLast10Better: 38.46153846153847
+Team: Brentford, Win%PointH2HLast10Better: 60.0
+
+
+All GoalScoredH2HLast10 Percentage: 65.48157724628312
+Team: Chelsea, Win%GoalScoredH2HLast10Better: 56.70103092783505
+Team: Everton, Win%GoalScoredH2HLast10Better: 42.25352112676056
+Team: Leicester, Win%GoalScoredH2HLast10Better: 53.608247422680414
+Team: Man United, Win%GoalScoredH2HLast10Better: 51.075268817204304
+Team: Norwich, Win%GoalScoredH2HLast10Better: 30.0
+Team: Arsenal, Win%GoalScoredH2HLast10Better: 56.25
+Team: Southampton, Win%GoalScoredH2HLast10Better: 34.69387755102041
+Team: Stoke, Win%GoalScoredH2HLast10Better: 29.629629629629626
+Team: Man City, Win%GoalScoredH2HLast10Better: 73.46938775510205
+Team: Swansea, Win%GoalScoredH2HLast10Better: 43.75
+Team: Tottenham, Win%GoalScoredH2HLast10Better: 60.0
+Team: Crystal Palace, Win%GoalScoredH2HLast10Better: 35.0
+Team: Aston Villa, Win%GoalScoredH2HLast10Better: 33.33333333333333
+Team: Liverpool, Win%GoalScoredH2HLast10Better: 64.73684210526316
+Team: West Brom, Win%GoalScoredH2HLast10Better: 25.0
+Team: Newcastle, Win%GoalScoredH2HLast10Better: 36.206896551724135
+Team: West Ham, Win%GoalScoredH2HLast10Better: 44.0
+Team: Sunderland, Win%GoalScoredH2HLast10Better: 30.76923076923077
+Team: Watford, Win%GoalScoredH2HLast10Better: 27.027027027027028
+Team: Bournemouth, Win%GoalScoredH2HLast10Better: 25.71428571428571
+Team: Middlesbrough, Win%GoalScoredH2HLast10Better: 14.285714285714285
+Team: Burnley, Win%GoalScoredH2HLast10Better: 25.71428571428571
+Team: Hull, Win%GoalScoredH2HLast10Better: 0.0
+Team: Brighton, Win%GoalScoredH2HLast10Better: 31.428571428571427
+Team: Huddersfield, Win%GoalScoredH2HLast10Better: 22.22222222222222
+Team: Fulham, Win%GoalScoredH2HLast10Better: 20.0
+Team: Wolves, Win%GoalScoredH2HLast10Better: 26.666666666666668
+Team: Cardiff, Win%GoalScoredH2HLast10Better: 100.0
+Team: Sheffield United, Win%GoalScoredH2HLast10Better: 28.57142857142857
+Team: Leeds, Win%GoalScoredH2HLast10Better: 50.0
+Team: Brentford, Win%GoalScoredH2HLast10Better: 60.0
+
+
+All GoalConcededH2HLast10 Percentage: 34.51842275371687
+Team: Swansea, Win%GoalConcededH2HLast10Better: 24.637681159420293
+Team: Watford, Win%GoalConcededH2HLast10Better: 22.31404958677686
+Team: Sunderland, Win%GoalConcededH2HLast10Better: 18.64406779661017
+Team: Tottenham, Win%GoalConcededH2HLast10Better: 37.5
+Team: Crystal Palace, Win%GoalConcededH2HLast10Better: 25.174825174825177
+Team: West Ham, Win%GoalConcededH2HLast10Better: 33.33333333333333
+Team: Newcastle, Win%GoalConcededH2HLast10Better: 24.793388429752067
+Team: Liverpool, Win%GoalConcededH2HLast10Better: 46.666666666666664
+Team: West Brom, Win%GoalConcededH2HLast10Better: 21.296296296296298
+Team: Aston Villa, Win%GoalConcededH2HLast10Better: 24.418604651162788
+Team: Stoke, Win%GoalConcededH2HLast10Better: 21.666666666666668
+Team: Man City, Win%GoalConcededH2HLast10Better: 34.78260869565217
+Team: Leicester, Win%GoalConcededH2HLast10Better: 32.72727272727273
+Team: Everton, Win%GoalConcededH2HLast10Better: 21.91780821917808
+Team: Norwich, Win%GoalConcededH2HLast10Better: 16.666666666666664
+Team: Southampton, Win%GoalConcededH2HLast10Better: 24.770642201834864
+Team: Arsenal, Win%GoalConcededH2HLast10Better: 23.076923076923077
+Team: Man United, Win%GoalConcededH2HLast10Better: 51.515151515151516
+Team: Chelsea, Win%GoalConcededH2HLast10Better: 31.03448275862069
+Team: Bournemouth, Win%GoalConcededH2HLast10Better: 32.432432432432435
+Team: Burnley, Win%GoalConcededH2HLast10Better: 24.087591240875913
+Team: Hull, Win%GoalConcededH2HLast10Better: 26.666666666666668
+Team: Middlesbrough, Win%GoalConcededH2HLast10Better: 0.0
+Team: Brighton, Win%GoalConcededH2HLast10Better: 29.166666666666668
+Team: Huddersfield, Win%GoalConcededH2HLast10Better: 5.555555555555555
+Team: Wolves, Win%GoalConcededH2HLast10Better: 34.883720930232556
+Team: Cardiff, Win%GoalConcededH2HLast10Better: 11.11111111111111
+Team: Fulham, Win%GoalConcededH2HLast10Better: 12.903225806451612
+Team: Sheffield United, Win%GoalConcededH2HLast10Better: 22.857142857142858
+Team: Leeds, Win%GoalConcededH2HLast10Better: 23.076923076923077
+Team: Brentford, Win%GoalConcededH2HLast10Better: 44.44444444444444
+
+
+All ShotTargetH2HLast10 Percentage: 65.4320987654321
+Team: Chelsea, Win%ShotTargetH2HLast10Better: 56.08465608465608
+Team: Watford, Win%ShotTargetH2HLast10Better: 36.734693877551024
+Team: Sunderland, Win%ShotTargetH2HLast10Better: 0.0
+Team: Norwich, Win%ShotTargetH2HLast10Better: 13.333333333333334
+Team: Arsenal, Win%ShotTargetH2HLast10Better: 58.152173913043484
+Team: Southampton, Win%ShotTargetH2HLast10Better: 34.55882352941176
+Team: Liverpool, Win%ShotTargetH2HLast10Better: 63.22869955156951
+Team: Man City, Win%ShotTargetH2HLast10Better: 71.16279069767441
+Team: Man United, Win%ShotTargetH2HLast10Better: 55.333333333333336
+Team: Swansea, Win%ShotTargetH2HLast10Better: 42.42424242424242
+Team: Tottenham, Win%ShotTargetH2HLast10Better: 60.215053763440864
+Team: West Ham, Win%ShotTargetH2HLast10Better: 45.07042253521127
+Team: Crystal Palace, Win%ShotTargetH2HLast10Better: 41.42857142857143
+Team: Leicester, Win%ShotTargetH2HLast10Better: 50.0
+Team: Aston Villa, Win%ShotTargetH2HLast10Better: 27.27272727272727
+Team: West Brom, Win%ShotTargetH2HLast10Better: 29.411764705882355
+Team: Newcastle, Win%ShotTargetH2HLast10Better: 36.0
+Team: Stoke, Win%ShotTargetH2HLast10Better: 21.428571428571427
+Team: Everton, Win%ShotTargetH2HLast10Better: 44.85294117647059
+Team: Bournemouth, Win%ShotTargetH2HLast10Better: 26.53061224489796
+Team: Hull, Win%ShotTargetH2HLast10Better: 22.22222222222222
+Team: Middlesbrough, Win%ShotTargetH2HLast10Better: 7.142857142857142
+Team: Burnley, Win%ShotTargetH2HLast10Better: 29.411764705882355
+Team: Brighton, Win%ShotTargetH2HLast10Better: 21.428571428571427
+Team: Huddersfield, Win%ShotTargetH2HLast10Better: 12.5
+Team: Fulham, Win%ShotTargetH2HLast10Better: 11.11111111111111
+Team: Cardiff, Win%ShotTargetH2HLast10Better: 50.0
+Team: Wolves, Win%ShotTargetH2HLast10Better: 28.57142857142857
+Team: Sheffield United, Win%ShotTargetH2HLast10Better: 18.75
+Team: Leeds, Win%ShotTargetH2HLast10Better: 51.85185185185185
+Team: Brentford, Win%ShotTargetH2HLast10Better: 57.14285714285714
+
+
+All RedH2HLast10 Percentage: 48.81398252184769
+Team: Chelsea, Win%RedH2HLast10Better: 59.61538461538461
+Team: Sunderland, Win%RedH2HLast10Better: 27.586206896551722
+Team: Man United, Win%RedH2HLast10Better: 41.509433962264154
+Team: Norwich, Win%RedH2HLast10Better: 10.526315789473683
+Team: Liverpool, Win%RedH2HLast10Better: 44.642857142857146
+Team: Aston Villa, Win%RedH2HLast10Better: 34.285714285714285
+Team: Tottenham, Win%RedH2HLast10Better: 44.680851063829785
+Team: Man City, Win%RedH2HLast10Better: 63.63636363636363
+Team: Leicester, Win%RedH2HLast10Better: 29.577464788732392
+Team: Newcastle, Win%RedH2HLast10Better: 25.510204081632654
+Team: Swansea, Win%RedH2HLast10Better: 46.666666666666664
+Team: Everton, Win%RedH2HLast10Better: 33.33333333333333
+Team: West Ham, Win%RedH2HLast10Better: 42.10526315789473
+Team: Arsenal, Win%RedH2HLast10Better: 47.14285714285714
+Team: Southampton, Win%RedH2HLast10Better: 27.86885245901639
+Team: Crystal Palace, Win%RedH2HLast10Better: 16.666666666666664
+Team: Stoke, Win%RedH2HLast10Better: 43.333333333333336
+Team: West Brom, Win%RedH2HLast10Better: 15.151515151515152
+Team: Watford, Win%RedH2HLast10Better: 22.916666666666664
+Team: Hull, Win%RedH2HLast10Better: 31.25
+Team: Middlesbrough, Win%RedH2HLast10Better: 30.0
+Team: Burnley, Win%RedH2HLast10Better: 53.84615384615385
+Team: Bournemouth, Win%RedH2HLast10Better: 31.25
+Team: Huddersfield, Win%RedH2HLast10Better: 33.33333333333333
+Team: Fulham, Win%RedH2HLast10Better: 0.0
+Team: Wolves, Win%RedH2HLast10Better: 30.303030303030305
+Team: Brighton, Win%RedH2HLast10Better: 26.666666666666668
+Team: Sheffield United, Win%RedH2HLast10Better: 57.14285714285714
+Team: Leeds, Win%RedH2HLast10Better: 26.08695652173913
+Team: Brentford, Win%RedH2HLast10Better: 0.0
+
+
+All Win%H2HLast10 Percentage: 66.25
+Team: Chelsea, Win%Win%H2HLast10Better: 56.56565656565656
+Team: Everton, Win%Win%H2HLast10Better: 42.10526315789473
+Team: Leicester, Win%Win%H2HLast10Better: 53.93258426966292
+Team: Man United, Win%Win%H2HLast10Better: 48.924731182795696
+Team: Norwich, Win%Win%H2HLast10Better: 22.22222222222222
+Team: Arsenal, Win%Win%H2HLast10Better: 57.668711656441715
+Team: Man City, Win%Win%H2HLast10Better: 73.11827956989248
+Team: Swansea, Win%Win%H2HLast10Better: 44.44444444444444
+Team: Tottenham, Win%Win%H2HLast10Better: 61.146496815286625
+Team: Crystal Palace, Win%Win%H2HLast10Better: 32.608695652173914
+Team: Aston Villa, Win%Win%H2HLast10Better: 22.58064516129032
+Team: Liverpool, Win%Win%H2HLast10Better: 65.07936507936508
+Team: Stoke, Win%Win%H2HLast10Better: 40.625
+Team: West Brom, Win%Win%H2HLast10Better: 26.08695652173913
+Team: Newcastle, Win%Win%H2HLast10Better: 31.57894736842105
+Team: Southampton, Win%Win%H2HLast10Better: 37.333333333333336
+Team: West Ham, Win%Win%H2HLast10Better: 44.827586206896555
+Team: Sunderland, Win%Win%H2HLast10Better: 40.0
+Team: Watford, Win%Win%H2HLast10Better: 30.555555555555557
+Team: Bournemouth, Win%Win%H2HLast10Better: 20.0
+Team: Middlesbrough, Win%Win%H2HLast10Better: 10.0
+Team: Burnley, Win%Win%H2HLast10Better: 23.684210526315788
+Team: Hull, Win%Win%H2HLast10Better: 0.0
+Team: Brighton, Win%Win%H2HLast10Better: 34.375
+Team: Huddersfield, Win%Win%H2HLast10Better: 25.0
+Team: Fulham, Win%Win%H2HLast10Better: 21.428571428571427
+Team: Wolves, Win%Win%H2HLast10Better: 38.095238095238095
+Team: Cardiff, Win%Win%H2HLast10Better: 100.0
+Team: Sheffield United, Win%Win%H2HLast10Better: 18.181818181818183
+Team: Leeds, Win%Win%H2HLast10Better: 38.46153846153847
+Team: Brentford, Win%Win%H2HLast10Better: 60.0
+
+
