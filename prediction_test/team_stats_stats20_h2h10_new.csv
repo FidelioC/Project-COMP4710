@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,HomeTeamShotTargetLast20,HomeTeamRatingLast20,AwayTeamShotTargetLast20,AwayTeamRatingLast20,HomeTeamWin%H2HLast10,AwayTeamWin%H2HLast10,FTR
+2022-08-05,Crystal Palace,Arsenal,85,16.5,100,19.4,20,20,A
+2022-08-06,Fulham,Liverpool,67,6.5,133,29.3,30,60,D
+2022-08-06,Bournemouth,Aston Villa,59,9.6,101,12.2,75,25,H
+2022-08-06,Leeds,Wolves,78,12,79,10.3,37.5,37.5,H
+2022-08-06,Newcastle,Nottingham,91,21.5,0,0,0,0,H
+2022-08-06,Tottenham,Southampton,110,23.6,97,7.7,40,30,H
+2022-08-06,Everton,Chelsea,65,13.3,109,19.5,40,20,A
+2022-08-07,Leicester,Brentford,82,17,82,17.1,100,0,D
+2022-08-07,Man United,Brighton,97,12.9,80,16.7,60,40,A
+2022-08-07,West Ham,Man City,73,12.8,124,26.6,0,70,A
+2022-08-13,Aston Villa,Everton,98,10.9,64,12.2,70,20,H
+2022-08-13,Arsenal,Leicester,96,20.8,83,16.6,70,30,H
+2022-08-13,Brighton,Newcastle,79,18.3,93,22.3,40,20,D
+2022-08-13,Man City,Bournemouth,117,27.4,57,11.4,100,0,H
+2022-08-13,Southampton,Leeds,97,7,75,14.1,40,20,D
+2022-08-13,Wolves,Fulham,79,8.6,67,6.6,50,20,D
+2022-08-13,Brentford,Man United,81,16.5,100,11.7,0,100,H
+2022-08-14,Nottingham,West Ham,0,0,68,11,0,0,H
+2022-08-14,Chelsea,Tottenham,111,21.1,108,24.6,70,20,D
+2022-08-15,Liverpool,Crystal Palace,133,28,81,15.4,100,0,D
+2022-08-20,Tottenham,Wolves,110,23.8,75,8.7,60,20,H
+2022-08-20,Crystal Palace,Aston Villa,78,14.7,93,12.9,30,40,H
+2022-08-20,Everton,Nottingham,67,11.3,6,3,0,0,D
+2022-08-20,Fulham,Brentford,63,6.9,84,18.5,0,0,H
+2022-08-20,Leicester,Southampton,80,15.3,95,6.7,50,10,A
+2022-08-20,Bournemouth,Arsenal,56,11,101,21.7,11.11111111,66.66666667,A
+2022-08-21,Leeds,Chelsea,75,13.8,109,19.9,10,70,H
+2022-08-21,West Ham,Brighton,68,10,82,18,0,40,A
+2022-08-21,Newcastle,Man City,93,21.6,121,27.7,0,90,D
+2022-08-22,Man United,Liverpool,98,10.2,131,26.2,10,60,H
+2022-08-27,Southampton,Man United,88,9.1,97,12,0,30,A
+2022-08-27,Brentford,Everton,88,17.1,72,11.2,100,0,D
+2022-08-27,Brighton,Leeds,82,19.6,77,15.9,33.33333333,0,H
+2022-08-27,Chelsea,Leicester,106,18.5,80,13.8,40,10,H
+2022-08-27,Liverpool,Bournemouth,123,23.8,55,9.6,75,12.5,H
+2022-08-27,Man City,Crystal Palace,129,26.5,86,16.9,40,20,H
+2022-08-27,Arsenal,Fulham,102,23.1,71,9,50,10,H
+2022-08-28,Aston Villa,West Ham,95,11.6,66,8.5,10,70,A
+2022-08-28,Wolves,Newcastle,76,7.3,96,20.2,30,20,D
+2022-08-28,Nottingham,Tottenham,11,4,111,24.8,0,0,A
+2022-08-30,Crystal Palace,Brentford,83,15.1,85,16.8,0,0,D
+2022-08-30,Fulham,Brighton,72,8.3,81,21.3,0,0,H
+2022-08-30,Southampton,Chelsea,90,8,108,19.3,10,70,H
+2022-08-30,Leeds,Everton,71,14.8,69,11.3,10,60,D
+2022-08-31,Arsenal,Aston Villa,108,23.7,94,10.4,80,20,H
+2022-08-31,Bournemouth,Wolves,52,9.2,76,7.6,0,100,D
+2022-08-31,Man City,Nottingham,128,26.8,12,3.7,0,0,H
+2022-08-31,West Ham,Tottenham,63,10.8,111,25.9,30,50,D
+2022-08-31,Liverpool,Newcastle,128,24,93,19.5,60,0,H
+2022-09-01,Leicester,Man United,83,12.6,100,13.6,30,30,A
+2022-09-03,Everton,Liverpool,71,11.1,123,24.9,10,60,D
+2022-09-03,Brentford,Leeds,87,16.4,76,14.6,0,50,H
+2022-09-03,Chelsea,West Ham,109,18,66,10.6,40,40,H
+2022-09-03,Newcastle,Crystal Palace,93,17.3,82,15.1,50,10,D
+2022-09-03,Nottingham,Bournemouth,13,3.6,48,8.9,0,0,A
+2022-09-03,Tottenham,Fulham,110,24.6,72,10.1,80,10,H
+2022-09-03,Wolves,Southampton,73,7.5,87,10.1,70,10,H
+2022-09-03,Aston Villa,Man City,96,9.4,132,27.8,0,90,D
+2022-09-04,Brighton,Leicester,79,19.7,78,11.1,20,50,H
+2022-09-04,Man United,Arsenal,97,15.4,109,24.9,30,40,H
+2022-09-16,Aston Villa,Southampton,96,9.3,84,9.1,30,60,H
+2022-09-16,Nottingham,Fulham,16,3.3,72,9.5,0,0,A
+2022-09-17,Wolves,Man City,72,9.7,129,26.1,20,70,A
+2022-09-17,Newcastle,Bournemouth,96,16.8,48,11.6,50,33.33333333,D
+2022-09-17,Tottenham,Leicester,118,25.4,76,10,70,30,H
+2022-09-18,Brentford,Arsenal,93,18,107,22.5,50,50,A
+2022-09-18,Everton,West Ham,72,11.4,66,9.6,20,70,H
+2022-10-01,Arsenal,Tottenham,110,23.7,118,26.3,50,40,H
+2022-10-01,Bournemouth,Brentford,49,11.5,93,16.5,0,0,D
+2022-10-01,Crystal Palace,Chelsea,88,14.3,105,18.5,10,90,A
+2022-10-01,Fulham,Newcastle,72,11.3,92,15.9,40,40,A
+2022-10-01,Liverpool,Brighton,127,23.1,87,21.2,60,10,D
+2022-10-01,Southampton,Everton,74,8.2,74,13.1,40,50,A
+2022-10-01,West Ham,Wolves,67,8.3,71,8.8,50,40,H
+2022-10-02,Man City,Man United,127,26.9,95,17,60,30,H
+2022-10-02,Leeds,Aston Villa,76,13.6,95,11.3,20,40,D
+2022-10-03,Leicester,Nottingham,79,8.5,19,3.2,0,0,H
+2022-10-08,Bournemouth,Leicester,44,11.9,83,10.7,25,12.5,H
+2022-10-08,Chelsea,Wolves,105,20.3,74,8,30,20,H
+2022-10-08,Man City,Southampton,133,27.4,71,7.3,60,0,H
+2022-10-08,Newcastle,Brentford,98,17.4,95,15.8,50,0,H
+2022-10-08,Brighton,Tottenham,92,20.9,114,23.8,40,50,A
+2022-10-09,Crystal Palace,Leeds,91,13.3,75,13.3,16.66666667,50,H
+2022-10-09,West Ham,Fulham,69,10.6,69,10.8,40,30,H
+2022-10-09,Arsenal,Liverpool,111,24.6,126,22,0,80,H
+2022-10-09,Everton,Man United,77,15.3,96,15.6,20,40,A
+2022-10-10,Nottingham,Aston Villa,22,2.9,93,11.1,0,0,D
+2022-10-14,Brentford,Brighton,97,14.4,95,19.1,0,100,H
+2022-10-15,Leicester,Crystal Palace,84,9.5,91,14.5,40,20,D
+2022-10-15,Fulham,Bournemouth,68,9.6,45,13.7,0,100,D
+2022-10-15,Wolves,Nottingham,71,7.1,25,3.8,0,0,H
+2022-10-15,Tottenham,Everton,114,24.7,76,13.7,50,10,H
+2022-10-16,Aston Villa,Chelsea,86,11.1,107,20.8,10,80,A
+2022-10-16,Leeds,Arsenal,76,12.3,116,25.8,10,80,A
+2022-10-16,Man United,Newcastle,91,17,100,18.7,60,20,D
+2022-10-16,Southampton,West Ham,70,6.7,73,12.4,30,40,D
+2022-10-16,Liverpool,Man City,114,19.4,133,28.2,20,20,H
+2022-10-18,Brighton,Nottingham,98,17.7,27,3.5,0,0,D
+2022-10-18,Crystal Palace,Wolves,88,14.5,68,9.3,62.5,25,H
+2022-10-19,Bournemouth,Southampton,51,14,73,7.1,25,37.5,A
+2022-10-19,Brentford,Chelsea,94,15.6,104,22.6,50,50,D
+2022-10-19,Liverpool,West Ham,111,20.5,72,12.5,80,20,H
+2022-10-19,Newcastle,Everton,100,18.2,74,12.6,40,40,H
+2022-10-19,Man United,Tottenham,90,16.9,114,25.5,70,30,H
+2022-10-20,Fulham,Aston Villa,69,10.2,86,10.1,30,30,H
+2022-10-20,Leicester,Leeds,86,9.4,76,10.9,40,30,H
+2022-10-22,Nottingham,Liverpool,27,4.3,109,21.2,0,0,H
+2022-10-22,Everton,Crystal Palace,70,11.3,84,15.7,60,20,H
+2022-10-22,Man City,Brighton,129,25.4,102,16.9,90,10,H
+2022-10-22,Chelsea,Man United,106,21.1,98,18.3,0,30,D
+2022-10-23,Aston Villa,Brentford,91,9.3,95,15.2,0,50,H
+2022-10-23,Leeds,Fulham,77,9.9,77,12,50,37.5,A
+2022-10-23,Southampton,Arsenal,69,9.5,117,26.7,20,50,D
+2022-10-23,Wolves,Leicester,69,8.4,84,11.5,20,40,A
+2022-10-23,Tottenham,Newcastle,112,23.1,98,19.5,70,10,A
+2022-10-24,West Ham,Bournemouth,71,11.3,52,12.5,33.33333333,33.33333333,H
+2022-10-29,Leicester,Man City,86,13.4,129,26.2,10,90,A
+2022-10-29,Bournemouth,Tottenham,55,11.7,111,20.9,0,85.71428571,A
+2022-10-29,Brentford,Wolves,92,13.4,66,7.6,50,50,D
+2022-10-29,Brighton,Chelsea,104,15.5,100,20.9,0,40,H
+2022-10-29,Crystal Palace,Southampton,85,14.7,66,9.8,40,30,H
+2022-10-29,Newcastle,Aston Villa,102,20.9,97,11.3,30,40,H
+2022-10-29,Fulham,Everton,76,14.8,73,13.2,10,80,D
+2022-10-29,Liverpool,Leeds,113,19.3,75,8.5,80,0,A
+2022-10-30,Arsenal,Nottingham,117,25.6,34,7,0,0,H
+2022-10-30,Man United,West Ham,98,18.2,74,13.3,70,20,H
+2022-11-05,Leeds,Bournemouth,75,10.5,55,10.5,0,0,H
+2022-11-05,Man City,Fulham,128,26.7,75,14.3,80,0,H
+2022-11-05,Nottingham,Brentford,36,6.7,89,13.2,0,0,D
+2022-11-05,Wolves,Brighton,65,8,109,16.6,37.5,37.5,A
+2022-11-05,Everton,Leicester,74,12.9,88,12.5,50,20,A
+2022-11-06,Chelsea,Arsenal,93,18.6,123,26.5,40,40,A
+2022-11-06,Aston Villa,Man United,89,10.5,96,19.3,20,50,H
+2022-11-06,Southampton,Newcastle,69,8.9,105,21.9,10,50,A
+2022-11-06,West Ham,Crystal Palace,74,12.4,83,15.9,40,20,A
+2022-11-06,Tottenham,Liverpool,113,21.8,120,17,0,50,A
+2022-11-12,Man City,Brentford,128,27.3,84,12.4,100,0,A
+2022-11-12,Bournemouth,Everton,59,9.7,75,11.8,37.5,37.5,H
+2022-11-12,Liverpool,Southampton,122,18.4,71,8.2,90,10,H
+2022-11-12,Nottingham,Crystal Palace,43,7.1,86,18,0,0,H
+2022-11-12,Tottenham,Leeds,118,19.9,76,12.4,80,10,H
+2022-11-12,West Ham,Leicester,75,11.1,94,14.1,50,20,A
+2022-11-12,Newcastle,Chelsea,102,23,92,17.3,20,80,H
+2022-11-12,Wolves,Arsenal,68,7.2,119,27.3,20,50,A
+2022-11-13,Brighton,Aston Villa,114,18.2,90,12.2,12.5,62.5,A
+2022-11-13,Fulham,Man United,74,13.8,95,18.4,0,80,A
+2022-12-26,Brentford,Tottenham,87,14.4,126,20.8,0,50,D
+2022-12-26,Crystal Palace,Fulham,84,16.2,80,12.2,42.85714286,28.57142857,A
+2022-12-26,Everton,Wolves,74,10.5,66,6.8,40,40,A
+2022-12-26,Leicester,Newcastle,98,16.3,101,24,60,40,A
+2022-12-26,Southampton,Brighton,73,7.3,111,16.1,20,10,A
+2022-12-26,Aston Villa,Liverpool,86,14.4,124,19.4,10,90,A
+2022-12-26,Arsenal,West Ham,119,27.9,73,10.5,80,0,H
+2022-12-27,Chelsea,Bournemouth,89,15.3,66,11.6,62.5,37.5,H
+2022-12-27,Man United,Nottingham,95,19.3,45,9.8,0,0,H
+2022-12-28,Leeds,Man City,76,11.4,129,24.8,30,50,A
+2022-12-30,West Ham,Brentford,75,9.2,90,13.8,0,100,A
+2022-12-30,Liverpool,Leicester,129,20.6,91,14.7,70,30,H
+2022-12-31,Wolves,Man United,69,9,102,21.4,20,50,A
+2022-12-31,Bournemouth,Crystal Palace,69,10.8,77,15,25,25,A
+2022-12-31,Fulham,Southampton,88,14.7,72,6.9,20,30,H
+2022-12-31,Man City,Everton,130,25.2,76,9.4,90,0,D
+2022-12-31,Newcastle,Leeds,99,25.1,75,10.1,40,30,D
+2022-12-31,Brighton,Arsenal,114,17.7,117,28.4,44.44444444,33.33333333,A
+2023-01-01,Tottenham,Aston Villa,127,19.9,85,12.9,90,10,A
+2023-01-01,Nottingham,Chelsea,48,9.1,88,17,0,0,D
+2023-01-02,Brentford,Liverpool,92,15.8,124,21.6,0,50,H
+2023-01-03,Arsenal,Newcastle,117,29,102,24.1,70,30,D
+2023-01-03,Everton,Brighton,72,9.4,114,15.9,60,30,A
+2023-01-03,Leicester,Fulham,85,13.6,87,16.2,14.28571429,42.85714286,A
+2023-01-03,Man United,Bournemouth,103,22.3,68,9.4,62.5,25,H
+2023-01-04,Southampton,Nottingham,72,6,53,9.5,0,0,A
+2023-01-04,Leeds,West Ham,74,10.4,77,8.7,50,40,D
+2023-01-04,Aston Villa,Wolves,85,15.1,68,8.6,20,60,D
+2023-01-04,Crystal Palace,Tottenham,78,16.2,126,17.6,20,70,A
+2023-01-05,Chelsea,Man City,85,16.3,127,24,20,80,A
+2023-01-12,Fulham,Chelsea,86,18.4,81,14.8,0,60,H
+2023-01-13,Aston Villa,Leeds,85,14.9,78,10.2,40,20,H
+2023-01-14,Man United,Man City,106,24.1,121,24.4,30,60,H
+2023-01-14,Brighton,Liverpool,113,17.2,127,19.8,10,50,H
+2023-01-14,Everton,Southampton,71,8.6,68,5.7,60,30,A
+2023-01-14,Nottingham,Leicester,54,11.8,84,12,0,100,H
+2023-01-14,Wolves,West Ham,68,8.5,74,8.4,40,60,H
+2023-01-14,Brentford,Bournemouth,94,17.2,69,8.6,0,0,H
+2023-01-15,Chelsea,Crystal Palace,87,13,75,15.1,100,0,H
+2023-01-15,Newcastle,Fulham,100,23.2,84,19.6,50,40,H
+2023-01-15,Tottenham,Arsenal,126,18.9,112,27.5,40,50,A
+2023-01-18,Crystal Palace,Man United,76,13.3,105,24.7,40,40,D
+2023-01-19,Man City,Tottenham,117,22.4,125,16.7,30,60,H
+2023-01-21,Liverpool,Chelsea,123,17.8,85,14.6,20,20,D
+2023-01-21,Bournemouth,Nottingham,65,7.2,59,14.1,100,0,D
+2023-01-21,Leicester,Brighton,84,11.2,116,18.5,40,30,D
+2023-01-21,Southampton,Aston Villa,71,7.8,81,16.8,50,40,A
+2023-01-21,West Ham,Everton,76,7.9,69,7.6,60,30,H
+2023-01-21,Crystal Palace,Newcastle,76,13.5,101,24.1,10,40,D
+2023-01-22,Leeds,Brentford,82,9.4,91,18.9,40,20,D
+2023-01-22,Man City,Wolves,115,22.8,68,11.2,70,20,H
+2023-01-22,Arsenal,Man United,113,28.1,104,24.3,40,30,H
+2023-01-23,Fulham,Tottenham,84,18.5,115,15,10,80,A
+2023-02-03,Chelsea,Fulham,79,14.1,86,16.5,60,10,D
+2023-02-04,Everton,Arsenal,69,6.8,116,28.8,40,50,H
+2023-02-04,Aston Villa,Leicester,84,18.6,80,10.9,30,40,A
+2023-02-04,Brentford,Southampton,86,18.3,74,7.5,50,50,H
+2023-02-04,Brighton,Bournemouth,114,17.8,67,7.7,25,50,H
+2023-02-04,Man United,Crystal Palace,104,21.9,74,12.8,30,40,H
+2023-02-04,Wolves,Liverpool,64,10,121,17.1,0,100,H
+2023-02-04,Newcastle,West Ham,102,23.1,78,9.8,50,30,D
+2023-02-05,Nottingham,Leeds,64,14.1,82,9.1,0,0,H
+2023-02-05,Tottenham,Man City,110,16.1,117,24.1,60,30,H
+2023-02-08,Man United,Leeds,104,23.4,80,8.3,70,10,D
+2023-02-11,West Ham,Chelsea,78,10.4,76,13.5,30,50,D
+2023-02-11,Arsenal,Brentford,110,26.1,87,20,60,40,D
+2023-02-11,Crystal Palace,Brighton,75,11.9,113,19.1,20,10,D
+2023-02-11,Fulham,Nottingham,87,16.4,66,16.1,100,0,H
+2023-02-11,Leicester,Tottenham,80,13.2,108,17.7,20,80,H
+2023-02-11,Southampton,Wolves,78,6.3,64,12.5,0,80,A
+2023-02-11,Bournemouth,Newcastle,66,6.6,94,22,28.57142857,42.85714286,D
+2023-02-12,Leeds,Man United,78,8,107,22,0,70,A
+2023-02-12,Man City,Aston Villa,120,21.3,86,17.3,90,0,H
+2023-02-13,Liverpool,Everton,117,15.4,69,9.1,60,10,H
+2023-02-15,Arsenal,Man City,115,24.5,122,22.6,0,100,A
+2023-02-18,Aston Villa,Arsenal,84,15.8,109,22.1,20,80,A
+2023-02-18,Brentford,Crystal Palace,82,19.3,73,11.4,0,0,D
+2023-02-18,Brighton,Fulham,116,18.4,81,17.5,0,25,A
+2023-02-18,Chelsea,Southampton,77,13.2,76,6,60,20,A
+2023-02-18,Everton,Leeds,66,8.3,79,7.5,50,10,H
+2023-02-18,Nottingham,Man City,61,15,118,23.1,0,100,D
+2023-02-18,Wolves,Bournemouth,65,14.3,70,7,50,0,A
+2023-02-18,Newcastle,Liverpool,100,21.2,119,16.9,0,70,A
+2023-02-19,Man United,Leicester,108,23.2,85,15.1,30,30,H
+2023-02-19,Tottenham,West Ham,108,15.8,75,10,40,30,H
+2023-02-24,Fulham,Wolves,80,19.4,66,13.5,20,50,D
+2023-02-25,Everton,Aston Villa,64,10.3,84,14.5,20,70,A
+2023-02-25,Leeds,Southampton,73,6.4,78,7.8,20,40,H
+2023-02-25,Leicester,Arsenal,87,14.2,108,22.7,30,70,A
+2023-02-25,West Ham,Nottingham,73,9.5,57,14.7,0,100,H
+2023-02-25,Bournemouth,Man City,70,9.2,119,22.4,0,100,A
+2023-02-25,Crystal Palace,Liverpool,68,11.5,122,18.5,0,90,D
+2023-02-26,Tottenham,Chelsea,107,17.2,79,11.8,20,60,H
+2023-03-01,Arsenal,Everton,102,23.6,62,9.5,40,50,H
+2023-03-01,Liverpool,Wolves,121,17.8,64,13.1,90,10,H
+2023-03-04,Man City,Newcastle,115,22.7,98,19.3,80,0,H
+2023-03-04,Arsenal,Bournemouth,98,24.2,70,8.5,70,10,H
+2023-03-04,Aston Villa,Crystal Palace,86,16.3,66,11,40,40,H
+2023-03-04,Brighton,West Ham,116,16.7,76,11,40,0,H
+2023-03-04,Chelsea,Leeds,78,10.5,75,9,70,10,H
+2023-03-04,Wolves,Tottenham,61,12.3,106,18.6,20,60,H
+2023-03-04,Southampton,Leicester,75,7.6,82,12.8,20,50,H
+2023-03-05,Nottingham,Everton,59,13.9,65,8.3,0,0,D
+2023-03-05,Liverpool,Man United,115,19.2,110,23.7,60,20,H
+2023-03-06,Brentford,Fulham,82,18.8,82,18.5,0,100,H
+2023-03-11,Bournemouth,Liverpool,72,7.4,117,20.4,11.11111111,77.77777778,H
+2023-03-11,Everton,Brentford,65,8.6,83,20.3,0,80,H
+2023-03-11,Leeds,Brighton,72,8.2,123,18.2,0,42.85714286,D
+2023-03-11,Leicester,Chelsea,80,11.9,77,12.1,10,40,A
+2023-03-11,Tottenham,Nottingham,102,17,62,13.6,100,0,H
+2023-03-11,Crystal Palace,Man City,62,10.3,114,24.2,20,40,A
+2023-03-12,Fulham,Arsenal,84,17.1,104,25.1,10,60,A
+2023-03-12,Man United,Southampton,112,21.9,73,9.4,30,0,D
+2023-03-12,West Ham,Aston Villa,74,10.5,84,18,80,0,D
+2023-03-12,Newcastle,Wolves,94,17.5,64,13.9,20,30,H
+2023-03-15,Brighton,Crystal Palace,121,17.6,53,8.7,10,20,H
+2023-03-15,Southampton,Brentford,76,10.2,84,18.7,40,60,A
+2023-03-17,Nottingham,Newcastle,64,12.8,100,18.7,0,100,A
+2023-03-18,Aston Villa,Bournemouth,87,17.5,71,9.7,20,80,H
+2023-03-18,Brentford,Leicester,81,20,83,10.5,0,80,D
+2023-03-18,Southampton,Tottenham,76,9,98,18.2,30,50,D
+2023-03-18,Wolves,Leeds,67,13.2,70,8.5,33.33333333,44.44444444,A
+2023-03-18,Chelsea,Everton,80,14.1,69,10.5,20,40,D
+2023-03-19,Arsenal,Crystal Palace,104,25.7,53,8.1,20,20,H
+2023-04-01,Man City,Liverpool,111,24.5,115,18.8,10,30,H
+2023-04-01,Arsenal,Leeds,100,26.3,73,10.8,80,10,H
+2023-04-01,Bournemouth,Fulham,71,8.7,79,15.4,50,0,H
+2023-04-01,Brighton,Brentford,122,19.1,81,19.5,80,20,D
+2023-04-01,Crystal Palace,Leicester,52,6.6,77,10.6,20,40,H
+2023-04-01,Nottingham,Wolves,64,11.4,71,11.8,0,100,D
+2023-04-01,Chelsea,Aston Villa,84,13.4,93,18.9,80,10,A
+2023-04-02,West Ham,Southampton,77,10,77,9.7,30,30,H
+2023-04-02,Newcastle,Man United,98,20,110,20.4,10,60,H
+2023-04-03,Everton,Tottenham,67,10.8,98,17.9,10,50,D
+2023-04-04,Bournemouth,Brighton,77,11,126,18.7,40,40,A
+2023-04-04,Leeds,Nottingham,74,10,68,11.6,0,100,H
+2023-04-04,Leicester,Aston Villa,72,9.2,88,20.4,40,30,A
+2023-04-04,Chelsea,Liverpool,85,12.4,109,17,20,20,D
+2023-04-05,Man United,Brentford,103,18.9,82,18.8,80,20,H
+2023-04-05,West Ham,Newcastle,75,12.6,97,20.9,30,40,A
+2023-04-08,Man United,Everton,102,19.6,71,10.7,40,20,H
+2023-04-08,Aston Villa,Nottingham,91,21.8,66,10.2,0,0,H
+2023-04-08,Brentford,Newcastle,80,17.2,95,22,0,60,A
+2023-04-08,Fulham,West Ham,80,14,72,11,30,50,A
+2023-04-08,Leicester,Bournemouth,71,8.2,76,10.1,11.11111111,33.33333333,A
+2023-04-08,Tottenham,Brighton,97,17.1,126,19.9,60,40,H
+2023-04-08,Wolves,Chelsea,70,12.1,84,11.9,20,30,H
+2023-04-08,Southampton,Man City,80,8.5,109,25.8,0,60,A
+2023-04-09,Leeds,Crystal Palace,76,12.1,60,9,42.85714286,28.57142857,A
+2023-04-09,Liverpool,Arsenal,110,16.5,99,26.9,70,10,D
+2023-04-15,Aston Villa,Newcastle,87,23.1,93,22.7,40,30,H
+2023-04-15,Chelsea,Brighton,80,11.2,126,18.7,30,10,A
+2023-04-15,Everton,Fulham,72,10.2,81,12.6,70,10,A
+2023-04-15,Southampton,Crystal Palace,73,8.1,64,10.8,30,40,A
+2023-04-15,Tottenham,Bournemouth,93,18.7,77,12.2,87.5,0,A
+2023-04-15,Wolves,Brentford,72,13.7,83,15.5,40,40,H
+2023-04-15,Man City,Leicester,109,26.1,70,7.1,90,10,H
+2023-04-16,West Ham,Arsenal,69,13.3,100,25.5,0,90,D
+2023-04-16,Nottingham,Man United,66,9.3,111,21.1,0,100,A
+2023-04-17,Leeds,Liverpool,81,11.3,114,15.8,10,70,A
+2023-04-21,Arsenal,Southampton,102,24.1,74,6.9,40,20,D
+2023-04-22,Fulham,Leeds,84,14.2,79,10.1,44.44444444,44.44444444,H
+2023-04-22,Brentford,Aston Villa,81,13.9,87,24.3,40,20,D
+2023-04-22,Crystal Palace,Everton,64,13,79,9,20,60,D
+2023-04-22,Leicester,Wolves,73,6.1,77,15.9,50,20,H
+2023-04-22,Liverpool,Nottingham,114,17.2,66,8,0,100,H
+2023-04-23,Bournemouth,West Ham,80,14.6,68,13,30,40,A
+2023-04-23,Newcastle,Tottenham,93,20.8,99,17.1,20,60,H
+2023-04-25,Wolves,Crystal Palace,75,14.5,63,12.8,22.22222222,66.66666667,H
+2023-04-25,Aston Villa,Fulham,78,23.3,81,15.8,30,40,H
+2023-04-25,Leeds,Leicester,75,9.3,77,8.1,30,50,D
+2023-04-26,Nottingham,Brighton,64,7.1,129,19.7,0,0,H
+2023-04-26,Chelsea,Brentford,80,9.9,83,13.5,40,40,A
+2023-04-26,West Ham,Liverpool,75,15.3,113,18.7,20,80,A
+2023-04-26,Man City,Arsenal,107,27.4,98,22.9,100,0,H
+2023-04-27,Everton,Newcastle,78,9.5,97,21.5,30,50,A
+2023-04-27,Southampton,Bournemouth,77,7.6,82,13.5,44.44444444,22.22222222,A
+2023-04-27,Tottenham,Man United,97,15.7,109,21.8,30,70,D
+2023-04-29,Crystal Palace,West Ham,61,11.7,73,14,30,40,H
+2023-04-29,Brentford,Nottingham,81,15,67,8.9,0,0,H
+2023-04-29,Brighton,Wolves,129,18.5,74,16.4,44.44444444,33.33333333,H
+2023-04-30,Bournemouth,Leeds,80,15.6,74,9.1,0,100,H
+2023-04-30,Fulham,Man City,76,14.2,112,27.7,0,90,A
+2023-04-30,Man United,Aston Villa,111,21.1,81,24.2,40,30,H
+2023-04-30,Newcastle,Southampton,100,22.7,75,6.7,60,10,H
+2023-04-30,Liverpool,Tottenham,107,20.1,97,15.1,60,0,H
+2023-05-01,Leicester,Everton,75,8.4,79,8.3,20,50,D
+2023-05-02,Arsenal,Chelsea,98,20.5,77,9.3,50,40,H
+2023-05-03,Liverpool,Fulham,105,21.3,71,12.8,50,30,H
+2023-05-03,Man City,West Ham,116,28.7,72,13,70,0,H
+2023-05-04,Brighton,Man United,135,19.2,114,21.8,50,50,H
+2023-05-06,Bournemouth,Chelsea,81,17.5,80,8.1,33.33333333,66.66666667,A
+2023-05-06,Man City,Leeds,118,29,75,8.6,60,20,H
+2023-05-06,Tottenham,Crystal Palace,99,13.7,67,13.7,70,20,H
+2023-05-06,Wolves,Aston Villa,71,15,78,22.4,50,20,H
+2023-05-06,Liverpool,Brentford,101,22.4,87,16.5,40,20,H
+2023-05-07,Newcastle,Arsenal,98,23.4,104,21.5,20,70,A
+2023-05-07,West Ham,Man United,72,12,116,20.1,20,70,H
+2023-05-08,Fulham,Leicester,72,11.5,73,8.4,50,12.5,H
+2023-05-08,Brighton,Everton,132,21.1,85,9,40,50,A
+2023-05-08,Nottingham,Southampton,63,8.3,73,6.4,100,0,H
+2023-05-13,Leeds,Newcastle,76,7.6,99,21.6,20,40,D
+2023-05-13,Aston Villa,Tottenham,79,20,94,15.3,20,80,H
+2023-05-13,Chelsea,Nottingham,83,10.5,65,9.8,0,0,D
+2023-05-13,Crystal Palace,Bournemouth,69,12.9,76,16.3,33.33333333,22.22222222,H
+2023-05-13,Man United,Wolves,111,17.8,71,16.7,50,20,H
+2023-05-13,Southampton,Fulham,73,5.5,72,13.2,30,30,A
+2023-05-14,Brentford,West Ham,80,14.8,70,14,100,0,H
+2023-05-14,Everton,Man City,87,10.9,118,30,0,90,A
+2023-05-14,Arsenal,Brighton,105,22.4,129,18.5,40,40,A
+2023-05-15,Leicester,Liverpool,76,7.6,97,23.6,30,70,A
+2023-05-18,Newcastle,Brighton,101,20.3,133,20.4,20,30,H
+2023-05-20,Tottenham,Brentford,88,13.9,85,16.1,40,0,A
+2023-05-20,Bournemouth,Man United,72,14.9,112,19.1,22.22222222,66.66666667,A
+2023-05-20,Fulham,Crystal Palace,65,14.9,68,14.6,37.5,37.5,D
+2023-05-20,Liverpool,Aston Villa,97,24.7,77,21.5,90,10,D
+2023-05-20,Wolves,Everton,67,15.3,84,10.5,50,30,D
+2023-05-20,Nottingham,Arsenal,64,10.3,100,20.4,0,100,H
+2023-05-21,West Ham,Leeds,70,13,79,8.1,40,50,H
+2023-05-21,Brighton,Southampton,131,18.1,70,5.2,20,20,H
+2023-05-21,Man City,Chelsea,113,30.3,84,10.3,80,20,H
+2023-05-22,Newcastle,Leicester,105,21.8,78,6.8,40,60,D
+2023-05-24,Brighton,Man City,134,19.7,112,31,10,90,D
+2023-05-25,Man United,Chelsea,111,20.1,88,9.4,20,0,H
+2023-05-28,Arsenal,Wolves,99,18.3,69,14.7,60,20,H
+2023-05-28,Aston Villa,Brighton,76,20.4,133,18.7,66.66666667,11.11111111,H
+2023-05-28,Brentford,Man City,83,17.7,113,29.3,20,80,H
+2023-05-28,Chelsea,Newcastle,91,8.4,104,20.7,80,20,D
+2023-05-28,Crystal Palace,Nottingham,69,14.8,61,11.8,0,100,D
+2023-05-28,Everton,Bournemouth,87,10.1,74,14,33.33333333,44.44444444,H
+2023-05-28,Leeds,Tottenham,76,7.1,94,12.5,10,80,A
+2023-05-28,Leicester,West Ham,77,7.3,74,14.7,30,40,H
+2023-05-28,Man United,Fulham,114,21.4,67,14.3,80,0,H
+2023-05-28,Southampton,Liverpool,68,4.3,96,23.9,10,90,D

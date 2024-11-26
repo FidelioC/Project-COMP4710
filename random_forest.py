@@ -16,12 +16,6 @@ def main(training_data, prediction_file, output_file):
             "HomeTeam",
             "AwayTeam",
             "FTR",
-            "FTHG",
-            "FTAG",
-            "HR",
-            "AR",
-            "HST",
-            "AST",
         ]
     )
     # Encode categorical columns using one-hot encoding
@@ -53,12 +47,6 @@ def main(training_data, prediction_file, output_file):
             "HomeTeam",
             "AwayTeam",
             "FTR",
-            "FTHG",
-            "FTAG",
-            "HR",
-            "AR",
-            "HST",
-            "AST",
         ],
         errors="ignore",
     )

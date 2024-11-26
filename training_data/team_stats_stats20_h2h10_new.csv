@@ -1,0 +1,2321 @@
+Date,HomeTeam,AwayTeam,FTR,HomeTeamShotTargetLast20,HomeTeamRatingLast20,AwayTeamShotTargetLast20,AwayTeamRatingLast20,HomeTeamWin%H2HLast10,AwayTeamWin%H2HLast10
+2015-08-08,Bournemouth,Aston Villa,A,0,0,76,12,0,0
+2015-08-08,Chelsea,Swansea,D,97,23.7,83,16.6,75,0
+2015-08-08,Everton,Watford,D,81,16.2,88,10.6,100,0
+2015-08-08,Leicester,Sunderland,H,75,19.7,70,12.1,33.33333333,16.66666667
+2015-08-08,Man United,Tottenham,H,95,18.7,97,17.9,40,20
+2015-08-08,Norwich,Crystal Palace,A,81,6.6,73,18,25,0
+2015-08-09,Arsenal,West Ham,A,127,23.7,74,8,90,0
+2015-08-09,Newcastle,Southampton,D,76,7.4,83,12.7,40,40
+2015-08-09,Stoke,Liverpool,A,76,17,110,16.5,40,40
+2015-08-10,West Brom,Man City,A,68,15.9,128,23.1,0,90
+2015-08-14,Aston Villa,Man United,A,76,14,91,20,0,80
+2015-08-15,Southampton,Everton,A,87,12.8,84,15.6,20,40
+2015-08-15,Sunderland,Norwich,A,72,10.9,83,5.6,16.66666667,50
+2015-08-15,Swansea,Newcastle,H,89,16.3,74,7.4,62.5,12.5
+2015-08-15,Tottenham,Stoke,D,97,16.5,74,15.7,50,30
+2015-08-15,Watford,West Brom,D,90,10.4,66,13.8,0,0
+2015-08-15,West Ham,Leicester,A,74,10.5,81,21.1,33.33333333,50
+2015-08-16,Crystal Palace,Arsenal,A,77,19.3,126,21.4,0,83.33333333
+2015-08-16,Man City,Chelsea,H,129,24.6,99,22.6,30,40
+2015-08-17,Liverpool,Bournemouth,H,102,17.3,2,0,0,0
+2015-08-22,Crystal Palace,Aston Villa,H,81,17.7,74,13.2,50,16.66666667
+2015-08-22,Leicester,Tottenham,D,84,22.6,96,15.5,25,62.5
+2015-08-22,Man United,Newcastle,D,91,21.2,72,6.8,60,20
+2015-08-22,Norwich,Stoke,D,84,8.2,79,14.8,33.33333333,33.33333333
+2015-08-22,Sunderland,Swansea,D,70,10.2,89,17.8,12.5,25
+2015-08-22,West Ham,Bournemouth,A,74,9.4,4,0,0,0
+2015-08-23,Everton,Man City,A,85,17.6,125,25.4,40,40
+2015-08-23,Watford,Southampton,D,90,10.9,85,10.9,0,0
+2015-08-23,West Brom,Chelsea,A,63,14.2,95,20.5,30,50
+2015-08-24,Arsenal,Liverpool,D,127,22.2,98,18.8,40,20
+2015-08-29,Aston Villa,Sunderland,D,75,12,71,10.1,40,20
+2015-08-29,Bournemouth,Leicester,D,11,3,83,22,0,0
+2015-08-29,Chelsea,Crystal Palace,A,95,21.4,80,18.8,83.33333333,16.66666667
+2015-08-29,Liverpool,West Ham,A,102,17.6,73,8.6,70,20
+2015-08-29,Man City,Watford,H,132,26.7,86,10.6,0,0
+2015-08-29,Newcastle,Arsenal,A,67,7,126,21.2,10,70
+2015-08-29,Stoke,West Brom,A,78,14.8,66,12.1,50,20
+2015-08-29,Tottenham,Everton,D,97,15.2,82,15.9,40,30
+2015-08-30,Southampton,Norwich,H,89,11,88,8.2,33.33333333,33.33333333
+2015-08-30,Swansea,Man United,H,95,17.4,99,20.3,25,62.5
+2015-09-12,Arsenal,Stoke,H,132,21.7,80,12.9,50,30
+2015-09-12,Crystal Palace,Man City,A,82,20.3,133,27.5,16.66666667,83.33333333
+2015-09-12,Everton,Chelsea,H,81,15.6,93,19.3,30,60
+2015-09-12,Man United,Liverpool,H,96,18.3,98,15.9,60,30
+2015-09-12,Norwich,Bournemouth,H,85,7.6,13,4,0,0
+2015-09-12,Watford,Swansea,H,80,10.1,99,18.7,0,0
+2015-09-12,West Brom,Southampton,D,71,14.5,94,12.4,40,30
+2015-09-13,Leicester,Aston Villa,H,82,21.3,77,12.3,25,50
+2015-09-13,Sunderland,Tottenham,A,70,10.4,95,14.4,0,70
+2015-09-14,West Ham,Newcastle,H,72,10.6,64,6.5,30,40
+2015-09-19,Aston Villa,West Brom,A,79,11.1,68,13.7,30,30
+2015-09-19,Bournemouth,Sunderland,H,15,3.7,69,9.2,0,0
+2015-09-19,Chelsea,Arsenal,H,93,17.2,136,22.9,50,20
+2015-09-19,Man City,West Ham,A,135,28.6,73,12.9,70,10
+2015-09-19,Newcastle,Watford,A,63,5.6,79,11.7,50,0
+2015-09-19,Stoke,Leicester,D,81,11.8,87,22.9,50,50
+2015-09-19,Swansea,Everton,D,101,17.3,88,17,0,62.5
+2015-09-20,Liverpool,Norwich,D,95,13.9,87,9.5,87.5,0
+2015-09-20,Southampton,Man United,A,92,12.7,94,19.3,20,60
+2015-09-20,Tottenham,Crystal Palace,H,95,16,81,18.4,33.33333333,33.33333333
+2015-09-26,Leicester,Arsenal,A,87,22.1,135,20.4,0,62.5
+2015-09-26,Liverpool,Aston Villa,H,96,13.5,81,10.3,50,30
+2015-09-26,Man United,Sunderland,H,91,20.6,70,8.4,70,10
+2015-09-26,Newcastle,Chelsea,D,65,5.1,95,18.4,40,40
+2015-09-26,Southampton,Swansea,H,95,11.1,97,16.3,50,16.66666667
+2015-09-26,Stoke,Bournemouth,H,82,11.2,20,6.6,0,0
+2015-09-26,Tottenham,Man City,H,93,17.4,138,26.1,10,80
+2015-09-26,West Ham,Norwich,D,70,14.9,83,10.2,50,25
+2015-09-27,Watford,Crystal Palace,A,82,14.2,83,16.9,0,0
+2015-09-28,West Brom,Everton,A,69,15.9,89,16.7,30,40
+2015-10-03,Aston Villa,Stoke,A,81,9.1,82,13.4,20,40
+2015-10-03,Bournemouth,Watford,D,26,6.3,81,12.8,0,0
+2015-10-03,Chelsea,Southampton,A,92,17.4,95,13.3,60,10
+2015-10-03,Crystal Palace,West Brom,H,83,18,69,14,33.33333333,33.33333333
+2015-10-03,Man City,Newcastle,H,138,24,69,5.5,100,0
+2015-10-03,Norwich,Leicester,A,88,9.9,90,20.4,0,0
+2015-10-03,Sunderland,West Ham,D,69,7.5,76,14.9,30,30
+2015-10-04,Arsenal,Man United,H,140,21.6,91,21.6,10,60
+2015-10-04,Everton,Liverpool,D,89,18.1,101,14.8,10,30
+2015-10-04,Swansea,Tottenham,D,98,15.2,96,19,0,87.5
+2015-10-17,Chelsea,Aston Villa,H,90,15.6,81,8.3,60,20
+2015-10-17,Crystal Palace,West Ham,A,88,19.8,77,14.7,75,25
+2015-10-17,Everton,Man United,A,90,17.8,93,19.7,40,40
+2015-10-17,Man City,Bournemouth,H,140,24.6,32,6.9,0,0
+2015-10-17,Southampton,Leicester,D,95,15,91,21.5,37.5,25
+2015-10-17,Tottenham,Liverpool,D,99,18.4,101,14.4,40,50
+2015-10-17,Watford,Arsenal,A,78,13,141,22.1,0,100
+2015-10-17,West Brom,Sunderland,H,70,13,70,7.8,60,10
+2015-10-18,Newcastle,Norwich,H,72,5.1,84,9.5,37.5,25
+2015-10-19,Swansea,Stoke,A,94,14.2,81,14.8,37.5,37.5
+2015-10-24,Arsenal,Everton,H,143,23.3,91,15.9,50,10
+2015-10-24,Aston Villa,Swansea,A,79,7.1,94,13.1,12.5,50
+2015-10-24,Leicester,Crystal Palace,H,96,20.8,84,17.7,0,100
+2015-10-24,Norwich,West Brom,A,87,8.2,68,14.4,50,37.5
+2015-10-24,Stoke,Watford,A,81,16.7,73,11.6,0,0
+2015-10-24,West Ham,Chelsea,H,76,16.7,90,16.8,10,70
+2015-10-25,Bournemouth,Tottenham,A,33,6.6,96,17.7,0,0
+2015-10-25,Liverpool,Southampton,D,99,13.7,99,15,50,50
+2015-10-25,Man United,Man City,D,90,20.7,150,25.8,30,60
+2015-10-25,Sunderland,Newcastle,H,69,6.9,73,7.5,50,20
+2015-10-31,Chelsea,Liverpool,A,87,15.1,93,13.5,30,40
+2015-10-31,Crystal Palace,Man United,D,85,16.2,86,19.8,0,83.33333333
+2015-10-31,Man City,Norwich,H,142,24.4,86,7.8,62.5,12.5
+2015-10-31,Newcastle,Stoke,D,79,7.1,79,15.1,40,50
+2015-10-31,Swansea,Arsenal,A,93,14.3,139,23.8,50,37.5
+2015-10-31,Watford,West Ham,H,73,14,76,18.5,50,0
+2015-10-31,West Brom,Leicester,A,71,16.5,96,21.7,50,50
+2015-11-01,Everton,Sunderland,H,91,14.6,69,9.2,40,30
+2015-11-01,Southampton,Bournemouth,H,99,14.4,36,6.1,0,0
+2015-11-02,Tottenham,Aston Villa,H,99,19.1,74,6.3,80,10
+2015-11-07,Bournemouth,Newcastle,A,38,5.8,81,7.5,0,0
+2015-11-07,Leicester,Watford,H,96,22.9,68,15.7,0,0
+2015-11-07,Man United,West Brom,H,84,18.8,72,14.9,50,20
+2015-11-07,Norwich,Swansea,H,84,6.8,93,13.5,50,16.66666667
+2015-11-07,Stoke,Chelsea,H,79,15,86,13.3,10,70
+2015-11-07,Sunderland,Southampton,A,76,8.3,96,16.3,20,40
+2015-11-07,West Ham,Everton,D,78,17.2,90,15.7,0,70
+2015-11-08,Arsenal,Tottenham,D,135,25,104,20.6,40,40
+2015-11-08,Aston Villa,Man City,D,68,5.1,142,25.3,20,80
+2015-11-08,Liverpool,Crystal Palace,A,95,15,86,15.4,33.33333333,50
+2015-11-21,Chelsea,Norwich,H,80,11.7,86,9.4,75,0
+2015-11-21,Everton,Aston Villa,H,91,15.4,65,5.6,40,20
+2015-11-21,Man City,Liverpool,A,129,24.1,98,14,40,30
+2015-11-21,Newcastle,Leicester,A,78,10.1,95,23.6,50,12.5
+2015-11-21,Southampton,Stoke,A,97,17.9,77,16.7,16.66666667,16.66666667
+2015-11-21,Swansea,Bournemouth,D,87,11.4,43,5.3,0,0
+2015-11-21,Watford,Man United,A,70,14.8,83,20.1,0,100
+2015-11-21,West Brom,Arsenal,H,72,13.7,136,23.5,10,70
+2015-11-22,Tottenham,West Ham,H,104,20,79,16.7,50,30
+2015-11-23,Crystal Palace,Sunderland,A,87,16.9,76,7.4,50,25
+2015-11-28,Aston Villa,Watford,A,66,4.7,69,13.3,50,0
+2015-11-28,Bournemouth,Everton,D,47,6,99,16.5,0,0
+2015-11-28,Crystal Palace,Newcastle,H,91,15.3,78,9.4,0,50
+2015-11-28,Leicester,Man United,D,98,24.5,82,21.3,12.5,87.5
+2015-11-28,Man City,Southampton,H,128,21.7,96,16.6,60,20
+2015-11-28,Sunderland,Stoke,H,76,9.5,79,18.5,50,20
+2015-11-29,Liverpool,Swansea,H,105,15.5,87,11.6,50,12.5
+2015-11-29,Norwich,Arsenal,D,80,8.5,129,21.7,12.5,75
+2015-11-29,Tottenham,Chelsea,D,114,21.2,86,13.2,10,40
+2015-11-29,West Ham,West Brom,D,76,15.4,67,15.4,20,20
+2015-12-05,Arsenal,Sunderland,H,127,20.4,78,11.6,60,0
+2015-12-05,Chelsea,Bournemouth,A,85,12.9,57,6.5,0,0
+2015-12-05,Man United,West Ham,D,77,20.6,79,15.1,80,0
+2015-12-05,Southampton,Aston Villa,D,100,15.2,65,4.1,30,40
+2015-12-05,Stoke,Man City,H,80,16.9,134,22.7,10,50
+2015-12-05,Swansea,Leicester,A,84,9.8,95,23.2,50,50
+2015-12-05,Watford,Norwich,H,72,15.4,78,8.8,0,0
+2015-12-05,West Brom,Tottenham,D,65,15.2,115,20.8,10,40
+2015-12-06,Newcastle,Liverpool,H,77,8.7,101,17.5,30,50
+2015-12-07,Everton,Crystal Palace,D,97,16.4,94,16.8,50,33.33333333
+2015-12-12,Bournemouth,Man United,H,62,9.1,76,19.8,0,0
+2015-12-12,Crystal Palace,Southampton,H,95,16.5,99,14.9,0,66.66666667
+2015-12-12,Man City,Swansea,H,135,20.3,80,9.2,75,12.5
+2015-12-12,Norwich,Everton,D,75,8.2,93,15.5,12.5,37.5
+2015-12-12,Sunderland,Watford,A,77,10.7,69,16.9,0,0
+2015-12-12,West Ham,Stoke,D,78,14.8,82,18.4,20,40
+2015-12-13,Aston Villa,Arsenal,A,64,4.2,133,21.9,20,70
+2015-12-13,Liverpool,West Brom,D,97,15.7,65,14.6,40,40
+2015-12-13,Tottenham,Newcastle,A,110,19.8,73,11,50,30
+2015-12-14,Leicester,Chelsea,H,96,24.1,88,11.4,25,75
+2015-12-19,Chelsea,Sunderland,H,89,10.3,73,9.5,70,20
+2015-12-19,Everton,Leicester,A,89,15.4,99,25,25,0
+2015-12-19,Man United,Norwich,A,77,18.3,74,8.4,75,25
+2015-12-19,Newcastle,Aston Villa,D,73,13.3,62,3.7,60,10
+2015-12-19,Southampton,Tottenham,A,98,13.8,116,18.3,30,60
+2015-12-19,Stoke,Crystal Palace,A,77,17.9,97,18,25,50
+2015-12-19,West Brom,Bournemouth,A,63,14.3,67,11.5,0,0
+2015-12-20,Swansea,West Ham,D,81,7.5,85,14.5,16.66666667,50
+2015-12-20,Watford,Liverpool,H,71,18.7,96,15.7,0,100
+2015-12-21,Arsenal,Man City,H,128,22.8,136,21,30,30
+2015-12-26,Aston Villa,West Ham,D,65,4,80,14.1,40,30
+2015-12-26,Bournemouth,Crystal Palace,D,74,13.8,99,19.6,0,0
+2015-12-26,Chelsea,Watford,D,89,11.9,75,20.2,100,0
+2015-12-26,Liverpool,Leicester,H,92,14,97,25.9,62.5,12.5
+2015-12-26,Man City,Sunderland,H,138,18.9,73,8.7,40,40
+2015-12-26,Newcastle,Everton,A,74,13.3,89,13.7,30,60
+2015-12-26,Southampton,Arsenal,H,100,12.4,124,24.1,10,50
+2015-12-26,Stoke,Man United,H,79,16.4,70,16.4,10,70
+2015-12-26,Swansea,West Brom,H,79,7.9,62,12.9,62.5,37.5
+2015-12-26,Tottenham,Norwich,H,117,19.5,73,10.8,37.5,25
+2015-12-28,Arsenal,Bournemouth,H,125,22,78,13.9,0,0
+2015-12-28,Crystal Palace,Swansea,D,95,18.8,78,9.5,25,25
+2015-12-28,Everton,Stoke,A,92,15.8,73,17.9,30,40
+2015-12-28,Man United,Chelsea,D,72,14.9,88,12.1,30,40
+2015-12-28,Norwich,Aston Villa,H,74,9.9,68,4.5,12.5,62.5
+2015-12-28,Watford,Tottenham,A,75,19.7,124,21.1,0,50
+2015-12-28,West Brom,Newcastle,H,62,11.6,70,12.3,30,40
+2015-12-28,West Ham,Southampton,H,83,13.8,102,14.4,30,30
+2015-12-29,Leicester,Man City,D,97,23.5,136,19.6,33.33333333,50
+2015-12-30,Sunderland,Liverpool,A,73,7.8,92,15.9,10,50
+2016-01-02,Arsenal,Newcastle,H,123,23,64,11.2,80,0
+2016-01-02,Leicester,Bournemouth,D,101,22.4,81,12.9,0,0
+2016-01-02,Man United,Swansea,H,70,14,72,10.1,55.55555556,33.33333333
+2016-01-02,Norwich,Southampton,H,75,12,95,13,28.57142857,42.85714286
+2016-01-02,Sunderland,Aston Villa,H,73,7.3,67,4,10,40
+2016-01-02,Watford,Man City,A,72,18,130,18.8,0,33.33333333
+2016-01-02,West Brom,Stoke,H,62,13.5,75,19.4,30,40
+2016-01-02,West Ham,Liverpool,H,85,15.6,95,17.5,30,60
+2016-01-03,Crystal Palace,Chelsea,A,91,18.1,88,11.7,28.57142857,71.42857143
+2016-01-03,Everton,Tottenham,D,90,14.1,124,22,30,40
+2016-01-12,Aston Villa,Crystal Palace,H,65,3.7,88,16.2,14.28571429,57.14285714
+2016-01-12,Bournemouth,West Ham,A,81,12.9,94,17.2,100,0
+2016-01-12,Newcastle,Man United,D,66,10.3,75,15.8,20,50
+2016-01-13,Chelsea,West Brom,D,84,13.9,62,15.3,50,30
+2016-01-13,Liverpool,Arsenal,D,93,16.2,113,24,20,40
+2016-01-13,Man City,Everton,D,129,19.5,92,13.9,50,30
+2016-01-13,Southampton,Watford,H,95,11.7,73,16.4,0,0
+2016-01-13,Stoke,Norwich,H,69,17.9,71,14.1,28.57142857,28.57142857
+2016-01-13,Swansea,Sunderland,A,74,8.7,70,9.5,22.22222222,11.11111111
+2016-01-13,Tottenham,Leicester,A,125,21.3,96,21.3,55.55555556,22.22222222
+2016-01-16,Aston Villa,Leicester,D,65,6.2,90,22.2,44.44444444,33.33333333
+2016-01-16,Bournemouth,Norwich,H,83,11.9,67,13,0,100
+2016-01-16,Chelsea,Everton,D,83,13.4,89,13.5,60,40
+2016-01-16,Man City,Crystal Palace,H,127,18.9,82,14.7,85.71428571,14.28571429
+2016-01-16,Newcastle,West Ham,H,68,10.2,95,18.7,40,30
+2016-01-16,Southampton,West Brom,H,97,13.6,66,15.2,30,30
+2016-01-16,Tottenham,Sunderland,H,126,19.2,70,12.1,80,0
+2016-01-17,Liverpool,Man United,A,96,15.5,78,14.9,30,60
+2016-01-17,Stoke,Arsenal,D,72,19.2,112,22.8,30,50
+2016-01-18,Swansea,Watford,H,69,8.2,69,15,0,100
+2016-01-23,Crystal Palace,Tottenham,A,81,13.1,130,20.7,28.57142857,42.85714286
+2016-01-23,Leicester,Stoke,H,89,21.3,71,19,33.33333333,33.33333333
+2016-01-23,Man United,Southampton,A,77,16.5,98,15.3,70,10
+2016-01-23,Norwich,Liverpool,A,64,11.8,98,14.2,0,77.77777778
+2016-01-23,Sunderland,Bournemouth,D,70,11,89,13.8,0,100
+2016-01-23,Watford,Newcastle,H,66,13.5,76,12.6,33.33333333,33.33333333
+2016-01-23,West Brom,Aston Villa,D,66,13.7,69,6.9,40,20
+2016-01-23,West Ham,Man City,D,95,17,123,19.6,20,60
+2016-01-24,Arsenal,Chelsea,A,108,21.8,87,13.6,20,50
+2016-01-24,Everton,Swansea,A,89,13.2,65,9.8,55.55555556,0
+2016-02-02,Arsenal,Southampton,D,104,19.5,95,17,40,20
+2016-02-02,Crystal Palace,Bournemouth,A,78,11.9,87,13.8,0,0
+2016-02-02,Leicester,Liverpool,H,92,22.2,97,15.7,11.11111111,66.66666667
+2016-02-02,Man United,Stoke,H,70,14.8,72,17,60,20
+2016-02-02,Norwich,Tottenham,A,62,10.7,135,21.6,22.22222222,44.44444444
+2016-02-02,Sunderland,Man City,A,73,11.3,117,19.2,30,50
+2016-02-02,West Brom,Swansea,D,60,13.5,61,12.4,33.33333333,66.66666667
+2016-02-02,West Ham,Aston Villa,H,94,16.5,71,7.4,20,40
+2016-02-03,Everton,Newcastle,H,90,11.8,78,11.5,70,20
+2016-02-03,Watford,Chelsea,D,71,15.2,88,15.1,0,66.66666667
+2016-02-06,Aston Villa,Norwich,H,67,7,63,9.8,55.55555556,22.22222222
+2016-02-06,Liverpool,Sunderland,D,98,14.7,72,10.2,60,10
+2016-02-06,Man City,Leicester,A,114,19.9,96,23.5,42.85714286,28.57142857
+2016-02-06,Newcastle,West Brom,H,81,10.6,62,13.1,40,30
+2016-02-06,Southampton,West Ham,H,90,16.4,95,17.8,30,30
+2016-02-06,Stoke,Everton,A,67,15.8,94,13.7,50,20
+2016-02-06,Swansea,Crystal Palace,D,61,12,75,10.3,20,20
+2016-02-06,Tottenham,Watford,H,135,22.9,74,14.8,66.66666667,0
+2016-02-07,Bournemouth,Arsenal,A,89,15.4,106,18.7,0,100
+2016-02-07,Chelsea,Man United,D,83,15.2,71,16.4,30,30
+2016-02-13,Bournemouth,Stoke,A,91,14.6,66,13.9,0,100
+2016-02-13,Chelsea,Newcastle,H,86,14.7,84,12.6,40,40
+2016-02-13,Crystal Palace,Watford,A,75,10.4,68,13.3,100,0
+2016-02-13,Everton,West Brom,A,91,15.3,61,11.8,50,20
+2016-02-13,Norwich,West Ham,D,63,8.8,94,16.2,20,40
+2016-02-13,Sunderland,Man United,H,72,10.5,75,15.8,10,80
+2016-02-13,Swansea,Southampton,A,61,12.4,88,17.9,14.28571429,57.14285714
+2016-02-14,Arsenal,Leicester,H,99,19.5,97,24.2,66.66666667,0
+2016-02-14,Aston Villa,Liverpool,A,66,9.4,99,14,30,50
+2016-02-14,Man City,Tottenham,A,111,18.7,140,23.6,80,20
+2016-02-27,Leicester,Norwich,H,95,22.3,64,8.9,100,0
+2016-02-27,Southampton,Chelsea,A,85,19.5,84,16.7,20,50
+2016-02-27,Stoke,Aston Villa,H,68,15.7,64,9.1,40,20
+2016-02-27,Watford,Bournemouth,D,67,14.8,88,13,0,0
+2016-02-27,West Brom,Crystal Palace,H,56,13.6,78,9.1,28.57142857,42.85714286
+2016-02-27,West Ham,Sunderland,H,97,15.5,75,12.5,30,30
+2016-02-28,Tottenham,Swansea,H,137,24.7,60,11.2,77.77777778,0
+2016-02-28,Man United,Arsenal,H,78,14.1,103,20.9,50,20
+2016-03-01,Aston Villa,Everton,A,61,8.2,95,14,10,50
+2016-03-01,Bournemouth,Southampton,H,85,13.2,80,17.8,0,100
+2016-03-01,Leicester,West Brom,D,91,23,57,15.4,66.66666667,33.33333333
+2016-03-01,Norwich,Chelsea,A,58,8.2,84,18.1,0,77.77777778
+2016-03-01,Sunderland,Crystal Palace,D,75,11.7,77,8.1,40,40
+2016-03-02,Arsenal,Swansea,A,96,18.7,60,10.5,44.44444444,44.44444444
+2016-03-02,Liverpool,Man City,H,101,16,107,16.4,40,30
+2016-03-02,Man United,Watford,H,76,15.7,66,14.6,100,0
+2016-03-02,Stoke,Newcastle,H,66,16.8,83,11.7,40,40
+2016-03-02,West Ham,Tottenham,H,93,17.2,143,25.4,30,50
+2016-03-05,Chelsea,Stoke,D,83,20.1,63,18.4,60,20
+2016-03-05,Everton,West Ham,A,98,15.6,90,18.7,60,0
+2016-03-05,Man City,Aston Villa,H,101,15.5,64,7.9,70,20
+2016-03-05,Newcastle,Bournemouth,A,81,10.4,83,14.9,100,0
+2016-03-05,Southampton,Sunderland,D,76,16.1,78,11.4,40,20
+2016-03-05,Swansea,Norwich,H,60,12.4,58,7.3,14.28571429,57.14285714
+2016-03-05,Tottenham,Arsenal,D,134,23.5,95,16.8,30,40
+2016-03-05,Watford,Leicester,A,67,13.1,91,22.2,0,100
+2016-03-06,Crystal Palace,Liverpool,A,74,7.8,96,17.2,57.14285714,28.57142857
+2016-03-06,West Brom,Man United,H,58,15.2,74,17.3,20,60
+2016-03-12,Bournemouth,Swansea,H,87,17,61,14.7,0,0
+2016-03-12,Norwich,Man City,D,55,6.7,99,16.2,11.11111111,66.66666667
+2016-03-12,Stoke,Southampton,A,66,17.5,75,15.7,28.57142857,14.28571429
+2016-03-13,Aston Villa,Tottenham,A,64,7,141,22.2,10,80
+2016-03-14,Leicester,Newcastle,H,91,22.6,80,9.5,22.22222222,44.44444444
+2016-03-19,Chelsea,West Ham,D,87,19.3,91,20.2,70,20
+2016-03-19,Crystal Palace,Leicester,A,77,7.1,89,24,66.66666667,33.33333333
+2016-03-19,Everton,Arsenal,A,102,14.4,93,15.9,10,50
+2016-03-19,Swansea,Aston Villa,H,61,13.4,63,6.7,55.55555556,11.11111111
+2016-03-19,Watford,Stoke,A,70,11.8,67,16.1,100,0
+2016-03-19,West Brom,Norwich,A,59,16.7,52,6.8,44.44444444,44.44444444
+2016-03-20,Man City,Man United,A,91,16.3,68,15.9,60,30
+2016-03-20,Newcastle,Sunderland,D,76,8.3,79,11.6,10,60
+2016-03-20,Southampton,Liverpool,H,76,17.3,97,19,40,50
+2016-03-20,Tottenham,Bournemouth,H,140,23.4,88,18.5,100,0
+2016-04-02,Arsenal,Watford,H,91,17.3,71,10.4,100,0
+2016-04-02,Aston Villa,Chelsea,A,63,5.8,88,19,20,70
+2016-04-02,Bournemouth,Man City,A,86,17.3,92,14,0,100
+2016-04-02,Liverpool,Tottenham,D,103,17.2,142,24.1,50,30
+2016-04-02,Norwich,Newcastle,H,50,9.2,76,8.4,22.22222222,44.44444444
+2016-04-02,Stoke,Swansea,D,71,17.4,59,15.4,44.44444444,33.33333333
+2016-04-02,Sunderland,West Brom,D,80,11.3,55,15.4,10,60
+2016-04-02,West Ham,Crystal Palace,D,92,19.5,77,6,40,60
+2016-04-03,Leicester,Southampton,H,87,24.2,79,18.9,22.22222222,33.33333333
+2016-04-03,Man United,Everton,H,70,17.2,101,13,50,40
+2016-04-09,Aston Villa,Bournemouth,A,67,5.5,83,15.5,100,0
+2016-04-09,Crystal Palace,Norwich,H,77,6.3,51,11.2,20,20
+2016-04-09,Man City,West Brom,H,94,16.3,49,14.9,90,0
+2016-04-09,Southampton,Newcastle,H,77,17.3,75,7.5,40,30
+2016-04-09,Swansea,Chelsea,H,62,15.4,94,20.4,0,66.66666667
+2016-04-09,Watford,Everton,D,68,9.1,97,11.9,0,66.66666667
+2016-04-09,West Ham,Arsenal,D,95,19,98,18.6,10,90
+2016-04-10,Liverpool,Stoke,H,108,16.8,74,17,50,30
+2016-04-10,Sunderland,Leicester,A,78,11.4,85,25.6,14.28571429,42.85714286
+2016-04-10,Tottenham,Man United,H,143,23.3,71,19.1,20,40
+2016-04-13,Crystal Palace,Everton,D,79,8.2,96,11.5,28.57142857,42.85714286
+2016-04-16,Chelsea,Man City,A,92,19,95,17.1,40,30
+2016-04-16,Everton,Southampton,D,97,11.4,82,18.9,50,20
+2016-04-16,Man United,Aston Villa,H,69,17.2,65,4.6,90,0
+2016-04-16,Newcastle,Swansea,H,77,6.5,64,17.1,11.11111111,66.66666667
+2016-04-16,Norwich,Sunderland,A,53,10.3,76,10.3,57.14285714,14.28571429
+2016-04-16,West Brom,Watford,A,51,13.9,69,9,0,0
+2016-04-17,Arsenal,Crystal Palace,D,100,18,78,8.5,85.71428571,0
+2016-04-17,Bournemouth,Liverpool,A,82,17.3,107,18.1,0,100
+2016-04-17,Leicester,West Ham,D,85,25.8,97,18.5,57.14285714,28.57142857
+2016-04-18,Stoke,Tottenham,A,73,15.1,139,24,30,40
+2016-04-19,Newcastle,Man City,D,83,8.7,100,19.4,0,100
+2016-04-20,Liverpool,Everton,H,109,19.7,90,11.2,30,0
+2016-04-20,Man United,Crystal Palace,H,67,18.9,72,8.4,71.42857143,0
+2016-04-20,West Ham,Watford,H,97,17.9,68,11,0,66.66666667
+2016-04-21,Arsenal,West Brom,H,103,17.3,54,12.3,70,10
+2016-04-23,Aston Villa,Southampton,A,60,4.4,78,18.6,30,30
+2016-04-23,Bournemouth,Chelsea,A,77,15.5,89,17.1,100,0
+2016-04-23,Liverpool,Newcastle,D,113,21,84,9,50,30
+2016-04-23,Man City,Stoke,H,96,18,72,13.9,50,20
+2016-04-24,Leicester,Swansea,H,84,25.2,65,16,66.66666667,33.33333333
+2016-04-24,Sunderland,Arsenal,D,75,12.3,107,18.7,0,70
+2016-04-25,Tottenham,West Brom,D,141,25.2,52,11.3,40,10
+2016-04-30,Arsenal,Norwich,H,107,17.9,57,9.3,66.66666667,11.11111111
+2016-04-30,Everton,Bournemouth,H,84,10.1,76,14.1,0,0
+2016-04-30,Newcastle,Crystal Palace,H,86,8.9,67,7.6,42.85714286,14.28571429
+2016-04-30,Stoke,Sunderland,D,70,12.3,73,12.2,20,50
+2016-04-30,Watford,Aston Villa,H,66,9.8,65,3.5,33.33333333,33.33333333
+2016-04-30,West Brom,West Ham,A,51,11,98,19.4,10,20
+2016-05-01,Man United,Leicester,D,75,20.3,88,25.4,77.77777778,11.11111111
+2016-05-01,Southampton,Man City,H,80,19.9,98,20,20,60
+2016-05-01,Swansea,Liverpool,H,64,14.5,115,20.3,11.11111111,55.55555556
+2016-05-02,Chelsea,Tottenham,D,92,18.7,140,23.9,40,10
+2016-05-07,Aston Villa,Newcastle,D,65,3.3,86,11.1,10,50
+2016-05-07,Bournemouth,West Brom,D,73,12.4,54,10.1,100,0
+2016-05-07,Crystal Palace,Stoke,H,65,6.7,70,12.1,60,20
+2016-05-07,Leicester,Everton,H,86,24.8,85,12.1,11.11111111,22.22222222
+2016-05-07,Norwich,Man United,A,59,8.4,80,20,33.33333333,66.66666667
+2016-05-07,Sunderland,Chelsea,H,74,12.2,91,18.1,10,80
+2016-05-07,West Ham,Swansea,A,100,20.7,66,16.4,42.85714286,14.28571429
+2016-05-08,Liverpool,Watford,H,117,18.6,65,11.5,66.66666667,33.33333333
+2016-05-08,Man City,Arsenal,D,98,17.8,106,19.1,30,30
+2016-05-08,Tottenham,Southampton,A,137,22.9,84,21.5,70,20
+2016-05-10,West Ham,Man United,H,98,19,77,21.2,0,70
+2016-05-11,Liverpool,Chelsea,D,114,20.1,94,16.5,40,30
+2016-05-11,Norwich,Watford,H,59,7.5,62,10.6,0,100
+2016-05-11,Sunderland,Everton,H,76,14.3,87,11.1,30,50
+2016-05-15,Arsenal,Aston Villa,H,103,18.5,58,3.5,70,20
+2016-05-15,Chelsea,Leicester,D,94,15.8,89,25,66.66666667,33.33333333
+2016-05-15,Everton,Norwich,H,88,9.9,61,9.6,33.33333333,11.11111111
+2016-05-15,Newcastle,Tottenham,H,85,11.2,137,20.6,40,40
+2016-05-15,Southampton,Crystal Palace,H,82,22.6,66,9,57.14285714,14.28571429
+2016-05-15,Stoke,West Ham,H,68,10.8,102,20.1,30,20
+2016-05-15,Swansea,Man City,D,70,17.9,95,17.5,11.11111111,77.77777778
+2016-05-15,Watford,Sunderland,D,64,9.3,81,16.2,100,0
+2016-05-15,West Brom,Liverpool,D,56,9.8,119,19.4,40,30
+2016-05-17,Man United,Bournemouth,H,77,19.9,70,12.3,0,100
+2016-08-13,Burnley,Swansea,A,73,10.7,69,17.5,0,100
+2016-08-13,Crystal Palace,West Brom,A,70,8.4,54,10,37.5,37.5
+2016-08-13,Everton,Tottenham,D,89,12,132,18.5,20,40
+2016-08-13,Hull,Leicester,H,82,9.9,91,24.6,0,50
+2016-08-13,Man City,Sunderland,H,91,16.6,82,16,50,30
+2016-08-13,Middlesbrough,Stoke,D,110,6.9,69,12.6,50,50
+2016-08-13,Southampton,Watford,D,82,23.9,67,9.7,50,0
+2016-08-14,Arsenal,Liverpool,A,106,19.7,118,18.7,40,20
+2016-08-14,Bournemouth,Man United,A,66,10.9,76,20.8,50,50
+2016-08-15,Chelsea,West Ham,H,96,15.2,105,18.5,60,20
+2016-08-19,Man United,Southampton,H,81,22.5,84,22.7,60,20
+2016-08-20,Burnley,Liverpool,H,73,9.8,119,19.9,0,100
+2016-08-20,Leicester,Arsenal,D,92,21.8,105,18.3,0,70
+2016-08-20,Stoke,Man City,A,65,12.3,90,18.2,20,50
+2016-08-20,Swansea,Hull,A,75,18.8,82,12.2,50,25
+2016-08-20,Tottenham,Crystal Palace,H,133,17.5,72,7.7,50,25
+2016-08-20,Watford,Chelsea,A,67,9.7,99,16.7,0,50
+2016-08-20,West Brom,Everton,A,52,11.6,92,11.8,20,50
+2016-08-21,Sunderland,Middlesbrough,A,82,14.6,107,7.2,40,30
+2016-08-21,West Ham,Bournemouth,H,103,16.4,66,10,50,50
+2016-08-27,Chelsea,Burnley,H,99,18.1,71,11.9,75,0
+2016-08-27,Crystal Palace,Bournemouth,D,70,7.2,71,8.7,0,50
+2016-08-27,Everton,Stoke,H,96,13.9,65,11.1,30,40
+2016-08-27,Hull,Man United,A,81,14,80,23.1,0,87.5
+2016-08-27,Leicester,Swansea,H,91,21.3,74,17.6,75,25
+2016-08-27,Southampton,Sunderland,D,81,21,81,13.3,40,20
+2016-08-27,Tottenham,Liverpool,D,134,18.7,122,18.4,20,50
+2016-08-27,Watford,Arsenal,A,66,9.1,106,17.2,0,100
+2016-08-28,Man City,West Ham,H,91,19.5,95,17.9,60,20
+2016-08-28,West Brom,Middlesbrough,D,51,10.7,108,9.7,33.33333333,50
+2016-09-10,Arsenal,Southampton,H,108,19.1,81,19.7,30,20
+2016-09-10,Bournemouth,West Brom,H,70,8.8,47,10.3,50,0
+2016-09-10,Burnley,Hull,D,64,11.1,81,13,100,0
+2016-09-10,Liverpool,Leicester,H,119,17.6,95,21.6,60,20
+2016-09-10,Man United,Man City,A,85,24.6,91,20.9,30,60
+2016-09-10,Middlesbrough,Crystal Palace,A,107,9.9,74,7.6,100,0
+2016-09-10,Stoke,Tottenham,A,62,10,133,17.9,30,40
+2016-09-10,West Ham,Watford,A,92,16.1,71,8,25,50
+2016-09-11,Swansea,Chelsea,D,72,15.7,107,19.4,10,60
+2016-09-12,Sunderland,Everton,A,78,12.9,103,15.6,40,40
+2016-09-16,Chelsea,Liverpool,A,107,18.8,126,19.1,30,30
+2016-09-17,Everton,Middlesbrough,H,108,17.5,108,9.1,60,10
+2016-09-17,Hull,Arsenal,A,81,12.8,107,20.2,12.5,75
+2016-09-17,Leicester,Burnley,H,93,20.1,62,11,50,0
+2016-09-17,Man City,Bournemouth,H,93,22.2,67,10.6,100,0
+2016-09-17,West Brom,West Ham,H,49,9.7,93,14.6,10,30
+2016-09-18,Crystal Palace,Stoke,H,75,10.1,58,8.8,66.66666667,16.66666667
+2016-09-18,Southampton,Swansea,H,81,18,72,15.5,62.5,12.5
+2016-09-18,Tottenham,Sunderland,H,130,18.9,78,11.9,80,0
+2016-09-18,Watford,Man United,H,77,10.4,87,22.2,0,100
+2016-09-24,Arsenal,Chelsea,H,115,21.9,105,16.9,10,60
+2016-09-24,Bournemouth,Everton,H,64,9.6,112,19,0,50
+2016-09-24,Liverpool,Hull,H,124,20.3,75,11.8,37.5,25
+2016-09-24,Man United,Leicester,H,88,20.5,94,20.4,70,10
+2016-09-24,Middlesbrough,Tottenham,A,103,8.3,128,20,20,50
+2016-09-24,Stoke,West Brom,D,60,8,55,11.3,40,40
+2016-09-24,Sunderland,Crystal Palace,A,75,10.7,80,12.4,33.33333333,33.33333333
+2016-09-24,Swansea,Man City,A,70,13.6,102,23.4,10,70
+2016-09-25,West Ham,Southampton,A,95,13.1,85,18.9,30,30
+2016-09-26,Burnley,Watford,H,60,10.5,77,12.3,0,0
+2016-09-30,Everton,Crystal Palace,D,107,17.7,81,14.6,37.5,25
+2016-10-01,Hull,Chelsea,A,73,10.5,103,15.3,0,75
+2016-10-01,Sunderland,West Brom,D,77,9.7,51,11.7,10,50
+2016-10-01,Swansea,Liverpool,A,71,12.6,134,21.5,20,50
+2016-10-01,Watford,Bournemouth,D,77,11.4,61,11.4,0,0
+2016-10-01,West Ham,Middlesbrough,D,90,11.6,101,7.5,60,30
+2016-10-02,Burnley,Arsenal,A,59,12.3,109,22.8,0,75
+2016-10-02,Leicester,Southampton,D,91,19,91,20.5,30,30
+2016-10-02,Man United,Stoke,D,90,21.4,62,7.9,60,20
+2016-10-02,Tottenham,Man City,H,127,21,104,24.7,30,70
+2016-10-15,Arsenal,Swansea,H,107,24.2,71,11,40,50
+2016-10-15,Bournemouth,Hull,H,59,11.5,72,9.5,0,0
+2016-10-15,Chelsea,Leicester,H,107,16.7,85,17.3,60,30
+2016-10-15,Crystal Palace,West Ham,A,81,14.6,90,11.2,50,33.33333333
+2016-10-15,Man City,Everton,D,106,22.7,104,16.9,50,20
+2016-10-15,Stoke,Sunderland,H,65,8.1,77,9.6,10,50
+2016-10-15,West Brom,Tottenham,D,58,11.1,125,22.1,10,40
+2016-10-16,Middlesbrough,Watford,A,100,7.7,84,11.3,50,50
+2016-10-16,Southampton,Burnley,H,94,19.4,57,11.8,50,50
+2016-10-17,Liverpool,Man United,D,135,22.7,92,20.7,20,70
+2016-10-22,Arsenal,Middlesbrough,D,107,24.9,100,7,40,20
+2016-10-22,Bournemouth,Tottenham,D,67,13.3,130,21.1,0,100
+2016-10-22,Burnley,Everton,H,53,10.4,100,16.9,25,75
+2016-10-22,Hull,Stoke,A,70,8.3,65,9.9,12.5,50
+2016-10-22,Leicester,Crystal Palace,H,82,16.2,77,13.5,50,50
+2016-10-22,Liverpool,West Brom,H,129,21.6,61,11.5,30,30
+2016-10-22,Swansea,Watford,D,75,10.1,83,13.5,50,50
+2016-10-22,West Ham,Sunderland,H,88,13,73,8.6,30,30
+2016-10-23,Chelsea,Man United,H,108,18.2,87,19.6,30,20
+2016-10-23,Man City,Southampton,D,110,22,103,20.8,60,20
+2016-10-29,Crystal Palace,Liverpool,A,82,12.5,129,22.6,50,37.5
+2016-10-29,Man United,Burnley,D,87,17.9,50,12.9,50,25
+2016-10-29,Middlesbrough,Bournemouth,H,101,7.1,65,13.3,0,0
+2016-10-29,Sunderland,Arsenal,A,71,7.5,107,24.3,0,70
+2016-10-29,Tottenham,Leicester,D,120,20.2,83,16.7,50,30
+2016-10-29,Watford,Hull,H,84,13.3,72,7.6,0,0
+2016-10-29,West Brom,Man City,A,57,9.8,111,21,0,90
+2016-10-30,Everton,West Ham,H,101,15.3,88,14.5,60,10
+2016-10-30,Southampton,Chelsea,A,103,19.9,110,19.4,20,50
+2016-10-31,Stoke,Swansea,H,68,12,76,9.6,40,30
+2016-11-05,Bournemouth,Sunderland,A,64,11.8,66,6.8,50,0
+2016-11-05,Burnley,Crystal Palace,H,50,12.6,83,11.4,0,50
+2016-11-05,Chelsea,Everton,H,115,20.9,99,17.2,60,30
+2016-11-05,Man City,Middlesbrough,D,110,22.2,98,9.5,40,40
+2016-11-05,West Ham,Stoke,D,88,13.1,70,13.8,20,30
+2016-11-06,Arsenal,Tottenham,D,110,25,123,19.4,40,30
+2016-11-06,Hull,Southampton,H,69,6.7,103,18.3,0,100
+2016-11-06,Leicester,West Brom,A,79,16.6,55,9.4,50,25
+2016-11-06,Liverpool,Watford,H,134,23.7,81,15.5,75,25
+2016-11-06,Swansea,Man United,A,80,8.7,95,16.7,30,60
+2016-11-19,Crystal Palace,Man City,A,84,10.4,114,21.1,12.5,87.5
+2016-11-19,Everton,Swansea,D,97,15.9,78,7.1,50,10
+2016-11-19,Man United,Arsenal,D,97,18.3,108,24.3,60,10
+2016-11-19,Southampton,Liverpool,D,105,16.3,142,24.7,40,50
+2016-11-19,Stoke,Bournemouth,A,69,13.9,66,10.8,100,0
+2016-11-19,Sunderland,Hull,H,67,8.7,66,9,50,37.5
+2016-11-19,Tottenham,West Ham,H,115,18.7,85,12.6,40,40
+2016-11-19,Watford,Leicester,H,85,14.3,74,14.1,0,100
+2016-11-20,Middlesbrough,Chelsea,A,90,9.8,117,22.1,20,80
+2016-11-21,West Brom,Burnley,H,58,11,53,14.8,50,0
+2016-11-26,Burnley,Man City,A,52,13.4,116,22.3,25,25
+2016-11-26,Chelsea,Tottenham,H,115,23.6,113,19.8,30,10
+2016-11-26,Hull,West Brom,D,65,8.2,64,13.7,33.33333333,16.66666667
+2016-11-26,Leicester,Middlesbrough,D,75,13,83,8.9,16.66666667,50
+2016-11-26,Liverpool,Sunderland,H,137,23.8,67,11.1,50,10
+2016-11-26,Swansea,Crystal Palace,H,77,7.5,82,9.4,16.66666667,16.66666667
+2016-11-27,Arsenal,Bournemouth,H,106,22.7,64,12.6,100,0
+2016-11-27,Man United,West Ham,D,99,17.3,82,11.5,60,10
+2016-11-27,Southampton,Everton,H,101,15.7,102,15.5,20,50
+2016-11-27,Watford,Stoke,A,84,16.2,73,12.7,50,50
+2016-12-03,Crystal Palace,Southampton,H,81,8.4,103,16.8,12.5,62.5
+2016-12-03,Man City,Chelsea,A,114,23.2,112,24.6,40,30
+2016-12-03,Stoke,Burnley,H,68,14.8,53,12.6,25,25
+2016-12-03,Sunderland,Leicester,H,61,9.8,75,11.8,12.5,50
+2016-12-03,Tottenham,Swansea,H,111,18.1,85,9.2,80,0
+2016-12-03,West Brom,Watford,H,66,13.3,84,15,0,50
+2016-12-03,West Ham,Arsenal,A,78,11.2,97,24,10,80
+2016-12-04,Bournemouth,Liverpool,H,67,11.9,138,24.5,0,100
+2016-12-04,Everton,Man United,D,96,14.2,105,16.6,40,50
+2016-12-05,Middlesbrough,Hull,H,81,9.2,68,8.3,50,50
+2016-12-10,Arsenal,Stoke,H,101,24.6,67,16.6,50,20
+2016-12-10,Burnley,Bournemouth,H,53,11.2,73,13.7,0,0
+2016-12-10,Hull,Crystal Palace,D,66,7.5,79,10.4,50,50
+2016-12-10,Leicester,Man City,H,76,11,115,21.1,37.5,37.5
+2016-12-10,Swansea,Sunderland,H,82,8.5,66,12,20,20
+2016-12-10,Watford,Everton,H,84,13.6,97,13.7,0,50
+2016-12-11,Chelsea,West Brom,H,114,25.9,67,15.7,40,30
+2016-12-11,Liverpool,West Ham,D,135,22.6,74,10.2,50,40
+2016-12-11,Man United,Tottenham,H,106,15.8,121,19.2,40,30
+2016-12-11,Southampton,Middlesbrough,H,104,15.4,76,11.3,37.5,37.5
+2016-12-13,Bournemouth,Leicester,H,74,13,75,12,0,0
+2016-12-13,Everton,Arsenal,H,99,12.5,101,25.9,10,50
+2016-12-14,Crystal Palace,Man United,A,79,10.5,107,17.3,0,75
+2016-12-14,Man City,Watford,H,111,19,86,15.4,50,0
+2016-12-14,Middlesbrough,Liverpool,A,64,10.5,125,21.3,20,40
+2016-12-14,Stoke,Southampton,D,69,15.7,101,16.5,25,25
+2016-12-14,Sunderland,Chelsea,A,65,10.8,112,26.9,20,70
+2016-12-14,Tottenham,Hull,H,117,17.8,65,7.5,62.5,12.5
+2016-12-14,West Brom,Swansea,H,64,14.3,81,10.2,30,60
+2016-12-14,West Ham,Burnley,H,73,9.9,59,13.5,75,25
+2016-12-17,Crystal Palace,Chelsea,A,80,9.5,114,27.9,25,75
+2016-12-17,Middlesbrough,Swansea,H,63,9.6,84,9.6,0,0
+2016-12-17,Stoke,Leicester,D,70,15.3,77,11.5,25,50
+2016-12-17,Sunderland,Watford,H,65,9.7,84,14.1,0,50
+2016-12-17,West Brom,Man United,A,67,16.4,103,18.4,30,50
+2016-12-17,West Ham,Hull,H,73,12,66,6.7,50,25
+2016-12-18,Bournemouth,Southampton,A,72,14.5,101,16.1,50,50
+2016-12-18,Man City,Arsenal,H,113,20.2,97,23.3,30,30
+2016-12-18,Tottenham,Burnley,H,120,18.7,57,12.1,50,25
+2016-12-19,Everton,Liverpool,A,103,14,125,22.7,0,40
+2016-12-26,Arsenal,West Brom,H,91,21.4,65,15,80,10
+2016-12-26,Burnley,Middlesbrough,H,57,11.1,62,11.9,0,0
+2016-12-26,Chelsea,Bournemouth,H,115,28.6,73,14.1,50,50
+2016-12-26,Hull,Man City,A,70,5.9,112,21.4,12.5,50
+2016-12-26,Leicester,Everton,A,76,10.5,99,12.9,20,20
+2016-12-26,Man United,Sunderland,H,102,19.9,64,11.8,70,20
+2016-12-26,Swansea,West Ham,A,85,8.3,75,13.7,25,37.5
+2016-12-26,Watford,Crystal Palace,D,82,12.9,82,8.6,50,50
+2016-12-27,Liverpool,Stoke,H,126,23.6,75,15.4,50,30
+2016-12-28,Southampton,Tottenham,A,102,17.2,127,20.6,20,70
+2016-12-30,Hull,Everton,D,70,5.4,97,14.1,25,50
+2016-12-31,Burnley,Sunderland,H,59,12.7,64,10.8,25,50
+2016-12-31,Chelsea,Stoke,H,111,29.6,74,13.9,60,20
+2016-12-31,Leicester,West Ham,H,75,10.1,75,15.8,50,25
+2016-12-31,Liverpool,Man City,H,127,24.8,113,22.4,40,30
+2016-12-31,Man United,Middlesbrough,H,109,21,59,11,50,10
+2016-12-31,Southampton,West Brom,A,97,15.8,61,13.8,30,30
+2016-12-31,Swansea,Bournemouth,A,83,7.7,74,12.3,0,50
+2017-01-01,Arsenal,Crystal Palace,H,99,22.1,83,8.7,75,0
+2017-01-01,Watford,Tottenham,A,82,12.6,127,21.5,0,75
+2017-01-02,Everton,Southampton,H,98,14.3,96,13.9,40,30
+2017-01-02,Man City,Burnley,H,112,20.6,61,14.7,40,20
+2017-01-02,Middlesbrough,Leicester,D,55,10,71,11.3,42.85714286,14.28571429
+2017-01-02,Sunderland,Liverpool,D,59,9.7,119,25.4,10,60
+2017-01-02,West Brom,Hull,H,60,15.5,72,5.6,14.28571429,28.57142857
+2017-01-02,West Ham,Man United,A,74,14.5,119,22.3,10,50
+2017-01-03,Bournemouth,Arsenal,D,76,14.9,104,23.3,0,100
+2017-01-03,Crystal Palace,Swansea,A,83,7.8,82,6.4,14.28571429,28.57142857
+2017-01-03,Stoke,Watford,H,73,12.9,77,11.7,66.66666667,33.33333333
+2017-01-04,Tottenham,Chelsea,H,127,23.2,111,30.1,10,40
+2017-01-14,Burnley,Southampton,H,61,13.3,94,12.8,33.33333333,66.66666667
+2017-01-14,Hull,Bournemouth,H,72,5.1,82,14.1,0,100
+2017-01-14,Leicester,Chelsea,A,70,12,109,27.8,20,70
+2017-01-14,Sunderland,Stoke,A,60,10,74,14.5,40,20
+2017-01-14,Swansea,Arsenal,A,85,9.1,101,22,50,40
+2017-01-14,Tottenham,West Brom,H,124,23.9,64,17.3,30,10
+2017-01-14,Watford,Middlesbrough,D,73,10.3,50,10.1,66.66666667,33.33333333
+2017-01-14,West Ham,Crystal Palace,H,69,13.3,82,6.8,42.85714286,42.85714286
+2017-01-15,Everton,Man City,H,96,15.2,110,21.3,20,40
+2017-01-15,Man United,Liverpool,D,120,23.4,131,24.6,70,20
+2017-01-21,Bournemouth,Watford,D,85,13.5,77,10.4,0,0
+2017-01-21,Crystal Palace,Everton,A,79,6.2,94,17.3,22.22222222,33.33333333
+2017-01-21,Liverpool,Swansea,A,128,23,79,8.1,60,20
+2017-01-21,Man City,Tottenham,D,111,19.6,131,25.3,60,40
+2017-01-21,Middlesbrough,West Ham,A,49,10.2,69,15.3,20,60
+2017-01-21,Stoke,Man United,D,79,16.5,116,22.4,20,60
+2017-01-21,West Brom,Sunderland,H,61,15.8,60,9.2,50,10
+2017-01-22,Arsenal,Burnley,H,102,23,61,15.1,80,0
+2017-01-22,Chelsea,Hull,H,106,28.1,70,7.2,77.77777778,0
+2017-01-22,Southampton,Leicester,H,93,11.2,67,10.2,30,20
+2017-01-31,Arsenal,Watford,A,106,23.9,78,10.1,100,0
+2017-01-31,Bournemouth,Crystal Palace,A,85,12.6,79,5.2,33.33333333,0
+2017-01-31,Burnley,Leicester,H,66,14,68,9.9,0,66.66666667
+2017-01-31,Liverpool,Chelsea,D,128,21.2,107,28.9,30,30
+2017-01-31,Middlesbrough,West Brom,D,48,9.2,62,17.4,42.85714286,28.57142857
+2017-01-31,Sunderland,Tottenham,D,58,8.5,128,23.7,0,80
+2017-01-31,Swansea,Southampton,H,79,10.6,99,13.4,11.11111111,66.66666667
+2017-02-01,Man United,Hull,D,119,21.5,70,6.8,88.88888889,0
+2017-02-01,Stoke,Everton,D,77,16.1,95,18.2,30,40
+2017-02-01,West Ham,Man City,A,72,17.1,112,18.1,20,60
+2017-02-04,Chelsea,Arsenal,H,99,27.2,104,21.6,60,10
+2017-02-04,Crystal Palace,Sunderland,A,78,7.6,57,8.7,42.85714286,28.57142857
+2017-02-04,Everton,Bournemouth,H,91,18.1,84,12,33.33333333,33.33333333
+2017-02-04,Hull,Liverpool,H,70,6.9,128,19.8,22.22222222,44.44444444
+2017-02-04,Southampton,West Ham,A,94,11.9,71,15.8,30,30
+2017-02-04,Tottenham,Middlesbrough,H,127,22.9,49,9.3,50,20
+2017-02-04,Watford,Burnley,H,78,12.2,69,15.5,0,100
+2017-02-04,West Brom,Stoke,H,65,17.2,83,15.9,40,30
+2017-02-05,Leicester,Man United,A,67,8.1,116,20.7,10,70
+2017-02-05,Man City,Swansea,H,111,19.7,81,12.9,70,10
+2017-02-11,Arsenal,Hull,H,107,19.3,71,9.8,77.77777778,11.11111111
+2017-02-11,Liverpool,Tottenham,H,122,18,124,23.5,50,10
+2017-02-11,Man United,Watford,H,122,22,77,13.8,80,20
+2017-02-11,Middlesbrough,Everton,D,45,8.6,92,19,10,60
+2017-02-11,Stoke,Crystal Palace,H,83,14.4,83,6.6,14.28571429,71.42857143
+2017-02-11,Sunderland,Southampton,A,62,11,96,10.8,20,30
+2017-02-11,West Ham,West Brom,D,71,17.6,67,18.5,30,20
+2017-02-12,Burnley,Chelsea,D,74,14.7,98,28,0,80
+2017-02-12,Swansea,Leicester,H,81,12.1,65,7.9,20,80
+2017-02-13,Bournemouth,Man City,A,87,10,110,20.4,0,100
+2017-02-25,Chelsea,Swansea,H,96,26.5,82,14.1,50,10
+2017-02-25,Crystal Palace,Middlesbrough,H,76,5.8,48,8.7,33.33333333,66.66666667
+2017-02-25,Everton,Sunderland,H,89,19.1,61,10.2,50,40
+2017-02-25,Hull,Burnley,D,73,8.8,76,13.9,0,80
+2017-02-25,Watford,West Ham,D,75,12.6,70,17.3,60,20
+2017-02-25,West Brom,Bournemouth,H,64,18.3,86,9.5,0,66.66666667
+2017-02-26,Tottenham,Stoke,H,117,21.7,83,16.1,50,20
+2017-02-27,Leicester,Liverpool,H,60,6.4,126,18.6,20,60
+2017-03-04,Leicester,Hull,H,64,9.2,73,9.5,33.33333333,33.33333333
+2017-03-04,Liverpool,Arsenal,H,121,17.1,105,20.3,20,40
+2017-03-04,Man United,Bournemouth,D,131,23.4,89,7.8,66.66666667,33.33333333
+2017-03-04,Stoke,Middlesbrough,H,84,14.6,50,8,33.33333333,33.33333333
+2017-03-04,Swansea,Burnley,H,79,13.4,75,14.2,100,0
+2017-03-04,Watford,Southampton,A,73,12.2,98,12.4,0,33.33333333
+2017-03-04,West Brom,Crystal Palace,A,65,19.3,75,8.1,44.44444444,33.33333333
+2017-03-05,Sunderland,Man City,A,58,9.2,103,22,20,60
+2017-03-05,Tottenham,Everton,H,121,22.3,95,20,30,20
+2017-03-06,West Ham,Chelsea,A,71,16.8,99,27.1,20,60
+2017-03-08,Man City,Stoke,D,106,22.7,86,16,50,20
+2017-03-11,Bournemouth,West Ham,H,88,8.3,71,15.4,33.33333333,66.66666667
+2017-03-11,Everton,West Brom,H,96,19.3,59,18.3,50,20
+2017-03-11,Hull,Swansea,H,74,8.5,86,15.1,40,40
+2017-03-12,Liverpool,Burnley,H,122,17.7,78,12.3,80,20
+2017-03-18,Bournemouth,Swansea,H,87,9.9,83,14.4,66.66666667,0
+2017-03-18,Crystal Palace,Watford,H,77,10.6,70,11.3,33.33333333,33.33333333
+2017-03-18,Everton,Hull,H,99,19.9,77,11.1,44.44444444,22.22222222
+2017-03-18,Stoke,Chelsea,A,82,15.6,94,27.5,20,70
+2017-03-18,Sunderland,Burnley,D,59,8.4,78,11.8,40,40
+2017-03-18,West Brom,Arsenal,H,57,16.1,103,18.3,10,80
+2017-03-18,West Ham,Leicester,A,74,13.8,68,11,22.22222222,55.55555556
+2017-03-19,Man City,Liverpool,D,101,22.3,122,19.5,30,50
+2017-03-19,Middlesbrough,Man United,A,49,7,131,22.4,10,60
+2017-03-19,Tottenham,Southampton,H,121,23.8,100,14.3,70,20
+2017-04-01,Burnley,Tottenham,A,78,10.9,119,24.4,20,60
+2017-04-01,Chelsea,Crystal Palace,A,95,27.8,74,12.9,77.77777778,22.22222222
+2017-04-01,Hull,West Ham,H,75,10.1,78,12.5,22.22222222,55.55555556
+2017-04-01,Leicester,Stoke,H,73,13.5,77,13.8,40,20
+2017-04-01,Liverpool,Everton,H,119,18.1,99,22.3,40,0
+2017-04-01,Man United,West Brom,D,128,23.5,64,18.2,50,30
+2017-04-01,Southampton,Bournemouth,D,98,12.9,92,12.4,66.66666667,33.33333333
+2017-04-01,Watford,Sunderland,H,70,9.8,63,8.4,33.33333333,33.33333333
+2017-04-02,Arsenal,Man City,D,102,16.3,96,21,30,30
+2017-04-02,Swansea,Middlesbrough,D,79,12.8,49,6.3,0,100
+2017-04-04,Burnley,Stoke,H,79,10.4,75,12.6,20,40
+2017-04-04,Leicester,Sunderland,H,79,15.1,64,7.7,44.44444444,22.22222222
+2017-04-04,Man United,Everton,D,130,22.7,97,19.7,40,40
+2017-04-04,Watford,West Brom,H,78,12,64,17.1,33.33333333,33.33333333
+2017-04-05,Arsenal,West Ham,H,99,15.6,79,11.2,80,10
+2017-04-05,Chelsea,Man City,H,100,25.2,98,20.5,30,40
+2017-04-05,Hull,Middlesbrough,H,76,12.4,46,6.4,33.33333333,66.66666667
+2017-04-05,Liverpool,Bournemouth,D,115,19.7,92,12,66.66666667,33.33333333
+2017-04-05,Southampton,Crystal Palace,H,88,12.8,70,15.2,55.55555556,22.22222222
+2017-04-05,Swansea,Tottenham,A,76,13.1,122,25.9,0,90
+2017-04-08,Bournemouth,Chelsea,A,87,12.3,97,25.5,33.33333333,66.66666667
+2017-04-08,Man City,Hull,H,97,18.2,79,14.4,55.55555556,11.11111111
+2017-04-08,Middlesbrough,Burnley,D,47,5.7,75,11.7,0,100
+2017-04-08,Stoke,Liverpool,A,73,11.1,106,18.5,20,60
+2017-04-08,Tottenham,Watford,H,125,26.3,80,13.8,80,0
+2017-04-08,West Brom,Southampton,A,61,15.9,95,14.5,40,30
+2017-04-08,West Ham,Swansea,H,79,10.2,76,11.6,44.44444444,22.22222222
+2017-04-09,Everton,Leicester,H,101,19.8,86,17.3,30,20
+2017-04-09,Sunderland,Man United,A,66,6.6,128,21.6,20,70
+2017-04-10,Crystal Palace,Arsenal,H,67,14.2,102,16.9,0,77.77777778
+2017-04-15,Crystal Palace,Leicester,D,68,16.2,88,15.9,40,60
+2017-04-15,Everton,Burnley,H,102,20.5,75,12.3,60,40
+2017-04-15,Southampton,Man City,A,97,16.6,97,19.7,20,60
+2017-04-15,Stoke,Hull,H,71,10.2,73,13.4,55.55555556,11.11111111
+2017-04-15,Sunderland,West Ham,D,66,5.9,82,11.9,20,40
+2017-04-15,Tottenham,Bournemouth,H,128,27.6,86,10.8,66.66666667,0
+2017-04-15,Watford,Swansea,H,74,12.8,74,10.8,33.33333333,33.33333333
+2017-04-16,Man United,Chelsea,H,126,22.8,93,26.2,10,40
+2017-04-16,West Brom,Liverpool,A,61,13.7,108,20.1,30,30
+2017-04-17,Middlesbrough,Arsenal,A,49,5.8,98,15.4,20,30
+2017-04-22,Bournemouth,Middlesbrough,H,84,10,53,5.4,0,100
+2017-04-22,Hull,Watford,H,72,12.4,78,14.6,0,100
+2017-04-22,Swansea,Stoke,H,69,9.3,74,11.8,20,50
+2017-04-22,West Ham,Everton,D,83,12,108,22.5,10,70
+2017-04-23,Burnley,Man United,A,76,10.6,126,23.6,20,40
+2017-04-23,Liverpool,Crystal Palace,A,103,21.1,70,16.2,44.44444444,44.44444444
+2017-04-25,Chelsea,Southampton,H,90,23.5,91,15.1,50,20
+2017-04-26,Arsenal,Leicester,H,100,16.5,88,15.9,60,0
+2017-04-26,Crystal Palace,Tottenham,A,69,17.9,136,27.8,22.22222222,55.55555556
+2017-04-26,Middlesbrough,Sunderland,H,53,4.5,66,5.8,40,30
+2017-04-27,Man City,Man United,D,98,20.7,127,24.6,60,30
+2017-04-29,Crystal Palace,Burnley,A,66,16.8,72,10.1,33.33333333,33.33333333
+2017-04-29,Southampton,Hull,D,95,13.9,73,14.4,80,20
+2017-04-29,Stoke,West Ham,D,73,10.9,83,11.4,30,20
+2017-04-29,Sunderland,Bournemouth,A,69,5.4,86,11.8,33.33333333,33.33333333
+2017-04-29,West Brom,Leicester,A,61,12.8,88,14.5,40,40
+2017-04-30,Everton,Chelsea,A,102,21,92,24.2,30,60
+2017-04-30,Man United,Swansea,D,120,23.4,75,11.6,60,30
+2017-04-30,Middlesbrough,Man City,D,51,7.1,99,20,30,40
+2017-04-30,Tottenham,Arsenal,H,134,28.9,104,18.3,20,40
+2017-05-01,Watford,Liverpool,A,78,13.6,101,19.5,20,80
+2017-05-05,West Ham,Tottenham,H,84,11.5,130,29.1,30,50
+2017-05-06,Bournemouth,Stoke,D,89,14,72,10.5,33.33333333,66.66666667
+2017-05-06,Burnley,West Brom,D,68,11.4,62,10.9,0,66.66666667
+2017-05-06,Hull,Sunderland,A,68,14.5,68,4.5,33.33333333,55.55555556
+2017-05-06,Leicester,Watford,H,84,16.4,75,12.4,66.66666667,33.33333333
+2017-05-06,Man City,Crystal Palace,H,98,19,65,15.2,88.88888889,11.11111111
+2017-05-06,Swansea,Everton,H,74,11.4,102,19.7,10,40
+2017-05-07,Arsenal,Man United,H,105,16.2,124,22.2,10,50
+2017-05-07,Liverpool,Southampton,D,106,20.5,90,13.4,40,40
+2017-05-08,Chelsea,Middlesbrough,H,93,24.8,55,7.3,80,20
+2017-05-10,Southampton,Arsenal,A,87,13.3,99,17.8,20,40
+2017-05-12,Everton,Watford,H,100,17.2,76,11.4,40,20
+2017-05-12,West Brom,Chelsea,A,64,11.1,98,25.5,30,40
+2017-05-13,Bournemouth,Burnley,H,88,13.8,70,11.9,0,100
+2017-05-13,Man City,Leicester,H,106,20.5,83,18.1,33.33333333,44.44444444
+2017-05-13,Middlesbrough,Southampton,A,53,6.9,87,12,33.33333333,44.44444444
+2017-05-13,Stoke,Arsenal,A,72,10.9,97,19,20,50
+2017-05-13,Sunderland,Swansea,A,71,7.1,74,13.4,20,30
+2017-05-14,Crystal Palace,Hull,H,64,14.4,69,13.2,40,40
+2017-05-14,Tottenham,Man United,H,131,26.9,123,20,30,40
+2017-05-14,West Ham,Liverpool,A,82,12.8,110,19.9,40,40
+2017-05-15,Chelsea,Watford,H,97,26.1,76,10.2,60,0
+2017-05-16,Arsenal,Sunderland,H,100,20.6,72,6.5,70,0
+2017-05-16,Man City,West Brom,H,104,21.4,62,9.5,100,0
+2017-05-17,Southampton,Man United,D,87,13.8,119,17.8,20,60
+2017-05-18,Leicester,Tottenham,A,83,16.7,129,27.1,30,40
+2017-05-21,Arsenal,Everton,H,112,21.8,105,18.9,40,20
+2017-05-21,Burnley,West Ham,A,71,10.2,79,11.9,20,80
+2017-05-21,Chelsea,Sunderland,H,100,26.8,70,5.8,70,20
+2017-05-21,Hull,Tottenham,A,64,12.3,132,27.9,11.11111111,66.66666667
+2017-05-21,Leicester,Bournemouth,D,80,15.4,89,15.7,0,33.33333333
+2017-05-21,Liverpool,Middlesbrough,H,117,20.7,52,6,50,10
+2017-05-21,Man United,Crystal Palace,H,115,16.9,66,15.9,77.77777778,0
+2017-05-21,Southampton,Stoke,A,85,13.8,69,9.4,22.22222222,22.22222222
+2017-05-21,Swansea,West Brom,H,75,15.4,63,8.6,50,40
+2017-05-21,Watford,Man City,A,75,9.5,109,22.6,0,60
+2017-08-11,Arsenal,Leicester,H,110,23.1,83,15,70,0
+2017-08-12,Brighton,Man City,A,0,0,112,23.5,0,0
+2017-08-12,Chelsea,Burnley,A,104,27.4,68,9.6,66.66666667,0
+2017-08-12,Crystal Palace,Huddersfield,A,63,15.1,0,0,0,0
+2017-08-12,Everton,Stoke,H,109,16.7,70,11.8,40,30
+2017-08-12,Southampton,Swansea,D,89,12.4,70,17.1,60,20
+2017-08-12,Watford,Liverpool,D,75,8.3,121,22.3,16.66666667,83.33333333
+2017-08-12,West Brom,Bournemouth,H,67,7.3,90,15.7,25,50
+2017-08-13,Man United,West Ham,H,108,18,76,13.2,50,10
+2017-08-13,Newcastle,Tottenham,A,94,13.4,141,28.1,50,40
+2017-08-19,Bournemouth,Watford,A,86,14.3,77,8.6,0,0
+2017-08-19,Burnley,West Brom,A,67,10.9,70,9.4,0,50
+2017-08-19,Leicester,Brighton,H,82,13.8,2,0,0,0
+2017-08-19,Liverpool,Crystal Palace,H,125,21.1,63,13.3,40,50
+2017-08-19,Southampton,West Ham,H,90,12.6,72,12.6,30,40
+2017-08-19,Stoke,Arsenal,H,69,10.4,113,24,20,60
+2017-08-19,Swansea,Man United,A,65,16.8,102,19.3,30,50
+2017-08-20,Huddersfield,Newcastle,H,6,3,95,12.5,0,0
+2017-08-20,Tottenham,Chelsea,A,141,28.9,103,25.1,20,40
+2017-08-21,Man City,Everton,D,114,24.7,106,18.1,40,20
+2017-08-26,Bournemouth,Man City,A,82,13.2,117,23.6,0,100
+2017-08-26,Crystal Palace,Swansea,A,61,12.6,62,15.2,12.5,37.5
+2017-08-26,Huddersfield,Southampton,D,9,6,92,14.2,0,0
+2017-08-26,Man United,Leicester,H,104,20.4,82,15.3,70,10
+2017-08-26,Newcastle,West Ham,H,94,11.4,78,10.9,50,30
+2017-08-26,Watford,Brighton,D,82,10.5,4,0,0,0
+2017-08-27,Chelsea,Everton,H,103,25.7,102,17.2,70,20
+2017-08-27,Liverpool,Arsenal,H,123,22.7,115,22.3,30,30
+2017-08-27,Tottenham,Burnley,D,145,26.1,64,10.6,66.66666667,16.66666667
+2017-08-27,West Brom,Stoke,D,66,11.1,68,12.5,40,30
+2017-09-09,Arsenal,Bournemouth,H,109,20.2,79,12.1,75,0
+2017-09-09,Brighton,West Brom,H,6,1,68,11.2,0,0
+2017-09-09,Everton,Tottenham,A,98,15.4,139,24.9,10,40
+2017-09-09,Leicester,Chelsea,A,84,14.4,107,26.7,10,80
+2017-09-09,Man City,Liverpool,H,120,24.5,129,23.7,20,50
+2017-09-09,Southampton,Watford,A,90,14.3,77,10.7,50,0
+2017-09-09,Stoke,Man United,D,64,12.1,108,21.7,20,50
+2017-09-10,Burnley,Crystal Palace,H,64,9.9,63,10.8,50,25
+2017-09-10,Swansea,Newcastle,A,62,16.8,96,13.5,60,20
+2017-09-11,West Ham,Huddersfield,H,78,10.3,15,6.7,0,0
+2017-09-15,Bournemouth,Brighton,H,75,11.1,12,4,0,0
+2017-09-16,Crystal Palace,Southampton,A,66,10.1,84,12.6,20,60
+2017-09-16,Huddersfield,Leicester,D,17,6.4,84,12.7,0,0
+2017-09-16,Liverpool,Burnley,D,127,22.1,59,12.6,83.33333333,16.66666667
+2017-09-16,Newcastle,Stoke,H,94,15.4,68,12.2,40,40
+2017-09-16,Tottenham,Swansea,D,143,25.4,63,15.5,90,0
+2017-09-16,Watford,Man City,A,77,12.3,120,25.6,0,66.66666667
+2017-09-16,West Brom,West Ham,D,66,9.9,76,11.6,20,30
+2017-09-17,Chelsea,Arsenal,D,108,27,109,21.6,70,10
+2017-09-17,Man United,Everton,H,108,20.8,91,13.7,40,40
+2017-09-23,Burnley,Huddersfield,D,60,12.1,20,7,0,0
+2017-09-23,Everton,Bournemouth,H,89,12.2,76,13,50,25
+2017-09-23,Leicester,Liverpool,A,80,12.8,133,20.9,20,60
+2017-09-23,Man City,Crystal Palace,H,126,26.2,65,8.3,90,10
+2017-09-23,Southampton,Man United,A,86,14.6,109,21.9,20,50
+2017-09-23,Stoke,Chelsea,A,65,11,110,26,20,70
+2017-09-23,Swansea,Watford,A,58,14.8,72,11.5,25,50
+2017-09-23,West Ham,Tottenham,A,76,12.3,148,24.4,40,50
+2017-09-24,Brighton,Newcastle,H,14,3.9,95,17.3,0,0
+2017-09-25,Arsenal,West Brom,H,106,20.8,62,9.9,70,20
+2017-09-30,Bournemouth,Leicester,D,72,12.1,86,11.1,25,0
+2017-09-30,Chelsea,Man City,A,108,26.3,130,27.1,40,30
+2017-09-30,Huddersfield,Tottenham,A,22,7.7,148,24.7,0,0
+2017-09-30,Man United,Crystal Palace,H,104,23,56,7.6,80,0
+2017-09-30,Stoke,Southampton,H,65,10.1,83,13.2,30,20
+2017-09-30,West Brom,Watford,D,61,8.9,69,12.9,25,50
+2017-09-30,West Ham,Swansea,H,76,10.6,59,13.8,50,20
+2017-10-01,Arsenal,Brighton,H,107,22.2,17,6.6,0,0
+2017-10-01,Everton,Burnley,A,83,13.8,56,12.5,66.66666667,33.33333333
+2017-10-01,Newcastle,Liverpool,D,97,16.2,134,22.3,30,40
+2017-10-14,Burnley,West Ham,D,54,14.2,76,13.2,16.66666667,83.33333333
+2017-10-14,Crystal Palace,Chelsea,H,56,6.1,108,24.3,30,70
+2017-10-14,Liverpool,Man United,D,127,21.1,100,23.9,20,60
+2017-10-14,Man City,Stoke,H,131,27.7,67,12,50,20
+2017-10-14,Swansea,Huddersfield,H,56,12.3,23,7.2,0,0
+2017-10-14,Tottenham,Bournemouth,H,153,25.7,75,11.7,75,0
+2017-10-14,Watford,Arsenal,H,69,13.4,112,23.3,16.66666667,83.33333333
+2017-10-15,Brighton,Everton,D,18,6.5,84,12.4,0,0
+2017-10-15,Southampton,Newcastle,D,78,11.9,95,15.8,50,30
+2017-10-16,Leicester,West Brom,D,86,11.1,62,8.9,50,33.33333333
+2017-10-20,West Ham,Brighton,A,80,12.8,21,6.9,0,0
+2017-10-21,Chelsea,Watford,H,108,21.6,70,14.8,66.66666667,0
+2017-10-21,Huddersfield,Man United,H,25,6.8,94,23,0,0
+2017-10-21,Man City,Burnley,H,135,28.6,56,14.5,50,16.66666667
+2017-10-21,Newcastle,Crystal Palace,H,96,15.7,58,8.4,50,12.5
+2017-10-21,Southampton,West Brom,H,69,11.5,59,9.2,40,40
+2017-10-21,Stoke,Bournemouth,A,65,11.1,72,10.8,50,25
+2017-10-21,Swansea,Leicester,A,57,14.3,82,10.4,33.33333333,66.66666667
+2017-10-22,Everton,Arsenal,A,82,12,115,21.4,20,40
+2017-10-22,Tottenham,Liverpool,H,150,26,125,20.2,10,60
+2017-10-28,Arsenal,Swansea,H,127,22.5,51,13.1,50,40
+2017-10-28,Bournemouth,Chelsea,A,74,12.3,112,22.7,25,75
+2017-10-28,Crystal Palace,West Ham,D,54,6.9,80,12.2,37.5,50
+2017-10-28,Liverpool,Huddersfield,H,125,18.2,28,9.3,0,0
+2017-10-28,Man United,Tottenham,H,91,20.9,149,26.7,30,40
+2017-10-28,Watford,Stoke,A,71,14.2,59,10,25,75
+2017-10-28,West Brom,Man City,A,60,8.2,144,29.2,0,100
+2017-10-29,Brighton,Southampton,D,26,9.8,72,13.5,0,0
+2017-10-29,Leicester,Everton,H,83,12.3,81,10.7,20,30
+2017-10-30,Burnley,Newcastle,H,52,13,96,17.5,0,0
+2017-11-04,Huddersfield,West Brom,H,28,8.9,62,7.7,0,0
+2017-11-04,Newcastle,Bournemouth,A,98,16.3,66,11.4,50,50
+2017-11-04,Southampton,Burnley,A,69,13.3,56,15.3,50,50
+2017-11-04,Stoke,Leicester,D,59,12.1,81,13.8,16.66666667,50
+2017-11-04,Swansea,Brighton,A,50,11.8,28,10.1,0,0
+2017-11-04,West Ham,Liverpool,A,75,11.8,130,19.2,30,50
+2017-11-05,Chelsea,Man United,H,110,23.3,91,22,40,20
+2017-11-05,Everton,Watford,H,78,9.5,69,12.4,50,16.66666667
+2017-11-05,Man City,Arsenal,H,146,30.1,129,23.6,30,20
+2017-11-05,Tottenham,Crystal Palace,H,147,24,63,7.2,60,20
+2017-11-18,Arsenal,Tottenham,H,124,21.4,142,24.7,30,30
+2017-11-18,Bournemouth,Huddersfield,H,66,12.7,31,11.1,0,0
+2017-11-18,Burnley,Swansea,H,54,16.8,51,10.9,0,100
+2017-11-18,Crystal Palace,Everton,D,63,6,75,11.2,20,40
+2017-11-18,Leicester,Man City,A,75,13.7,146,30.5,40,40
+2017-11-18,Liverpool,Southampton,H,133,20.5,63,12,40,30
+2017-11-18,Man United,Newcastle,H,90,20.2,100,14.8,50,20
+2017-11-18,West Brom,Chelsea,A,57,6.7,107,24.4,20,50
+2017-11-19,Watford,West Ham,H,62,11.8,69,11.2,50,16.66666667
+2017-11-20,Brighton,Stoke,D,30,12.7,65,12.3,0,0
+2017-11-24,West Ham,Leicester,D,71,9.7,67,12.2,20,60
+2017-11-25,Crystal Palace,Stoke,H,67,6.5,69,12.2,62.5,25
+2017-11-25,Liverpool,Chelsea,D,135,21.5,110,25,20,30
+2017-11-25,Man United,Brighton,H,88,21.1,33,12.9,0,0
+2017-11-25,Newcastle,Watford,A,97,13.6,67,13,25,50
+2017-11-25,Swansea,Bournemouth,D,49,9.6,68,15.1,0,75
+2017-11-25,Tottenham,West Brom,D,138,22.3,58,6.2,30,10
+2017-11-26,Burnley,Arsenal,A,59,18.8,126,22.3,0,83.33333333
+2017-11-26,Huddersfield,Man City,A,34,10.7,143,31.2,0,0
+2017-11-26,Southampton,Everton,H,60,10.8,76,11.3,30,50
+2017-11-28,Brighton,Crystal Palace,D,35,12.2,66,8.6,0,0
+2017-11-28,Leicester,Tottenham,H,65,12.3,137,21,20,50
+2017-11-28,Watford,Man United,A,69,15.7,89,22.4,16.66666667,83.33333333
+2017-11-28,West Brom,Newcastle,D,58,6.5,94,12.1,30,50
+2017-11-29,Arsenal,Huddersfield,H,124,23.4,34,9.6,0,0
+2017-11-29,Bournemouth,Burnley,A,71,14.4,58,17.1,50,50
+2017-11-29,Chelsea,Swansea,H,108,23.8,49,9.7,60,10
+2017-11-29,Everton,West Ham,H,74,10,73,10.1,70,10
+2017-11-29,Man City,Southampton,H,141,31.4,64,12.8,60,20
+2017-11-29,Stoke,Liverpool,A,70,11.3,131,20.6,20,70
+2017-12-02,Arsenal,Man United,A,126,24,90,23.3,20,40
+2017-12-02,Brighton,Liverpool,A,39,12.3,134,21.6,0,0
+2017-12-02,Chelsea,Newcastle,H,118,24.4,95,12,50,40
+2017-12-02,Everton,Huddersfield,H,72,12,36,9.2,0,0
+2017-12-02,Leicester,Burnley,H,67,14.1,60,18.8,50,25
+2017-12-02,Stoke,Swansea,H,67,10.1,48,8.5,40,30
+2017-12-02,Watford,Tottenham,D,65,13.9,129,18.9,0,83.33333333
+2017-12-02,West Brom,Crystal Palace,D,56,7.1,66,9,40,40
+2017-12-03,Bournemouth,Southampton,D,72,13.6,62,11.9,25,50
+2017-12-03,Man City,West Ham,H,148,31.8,70,8.6,60,20
+2017-12-09,Burnley,Watford,H,58,17.4,65,14.3,50,50
+2017-12-09,Crystal Palace,Bournemouth,D,65,9.1,76,12.9,25,25
+2017-12-09,Huddersfield,Brighton,H,39,8.1,41,11.6,0,0
+2017-12-09,Newcastle,Leicester,A,90,10.5,67,16.1,40,30
+2017-12-09,Swansea,West Brom,H,47,7.5,60,7.3,50,40
+2017-12-09,Tottenham,Stoke,H,127,17.8,66,12.2,60,20
+2017-12-09,West Ham,Chelsea,H,71,7.9,120,25.4,20,60
+2017-12-10,Liverpool,Everton,D,138,22.7,69,13.8,40,0
+2017-12-10,Man United,Man City,A,93,24.6,150,32,30,50
+2017-12-10,Southampton,Arsenal,D,64,11.6,137,22.1,20,50
+2017-12-12,Burnley,Stoke,H,63,18.9,66,11,33.33333333,33.33333333
+2017-12-12,Crystal Palace,Watford,H,72,9.5,65,12.8,50,25
+2017-12-12,Huddersfield,Chelsea,A,45,10.7,117,22.7,0,0
+2017-12-13,Liverpool,West Brom,D,140,21.7,57,6.8,40,20
+2017-12-13,Man United,Bournemouth,H,92,22.5,71,13.1,50,25
+2017-12-13,Newcastle,Everton,A,91,9.3,71,13.8,20,70
+2017-12-13,Southampton,Leicester,A,67,11.7,71,17.7,30,20
+2017-12-13,Swansea,Man City,A,44,9.3,153,32.4,0,80
+2017-12-13,Tottenham,Brighton,H,127,19,43,10.6,0,0
+2017-12-13,West Ham,Arsenal,D,70,9.7,139,20.7,10,80
+2017-12-16,Arsenal,Newcastle,H,138,19.8,92,8.1,90,0
+2017-12-16,Brighton,Burnley,D,47,9.9,62,20.5,0,0
+2017-12-16,Chelsea,Southampton,H,115,23.7,68,10.4,50,20
+2017-12-16,Leicester,Crystal Palace,A,77,19.4,71,11.8,50,33.33333333
+2017-12-16,Man City,Tottenham,H,151,32.4,130,20.1,50,40
+2017-12-16,Stoke,West Ham,A,69,10.1,66,10.1,30,10
+2017-12-16,Watford,Huddersfield,A,60,12.1,47,9.6,0,0
+2017-12-17,Bournemouth,Liverpool,A,71,11.3,137,20.8,25,50
+2017-12-17,West Brom,Man United,A,55,6.9,90,23.6,30,40
+2017-12-18,Everton,Swansea,H,71,15.6,43,8.3,30,20
+2017-12-22,Arsenal,Liverpool,D,137,20.6,136,21.7,20,40
+2017-12-23,Brighton,Watford,H,49,9.9,61,10.6,0,0
+2017-12-23,Burnley,Tottenham,A,64,19.7,125,18.3,14.28571429,57.14285714
+2017-12-23,Everton,Chelsea,D,76,17.6,118,24.3,20,70
+2017-12-23,Leicester,Man United,D,75,18,91,24.6,10,70
+2017-12-23,Man City,Bournemouth,H,157,32.6,71,10.7,100,0
+2017-12-23,Southampton,Huddersfield,D,66,9.5,56,11.9,0,0
+2017-12-23,Stoke,West Brom,H,66,8.9,58,6.4,20,40
+2017-12-23,Swansea,Crystal Palace,D,42,7.1,75,14.1,44.44444444,11.11111111
+2017-12-23,West Ham,Newcastle,A,68,11.7,90,7,30,50
+2017-12-26,Bournemouth,West Ham,D,66,9.2,71,11.1,50,50
+2017-12-26,Chelsea,Brighton,H,117,23.3,52,12.2,0,0
+2017-12-26,Huddersfield,Stoke,D,59,11.8,67,11.1,0,0
+2017-12-26,Liverpool,Swansea,H,134,21,41,7.2,60,20
+2017-12-26,Man United,Burnley,D,96,23.4,63,18.3,50,16.66666667
+2017-12-26,Tottenham,Southampton,H,121,19.1,66,9.2,80,10
+2017-12-26,Watford,Leicester,H,59,9.9,73,17.7,25,75
+2017-12-26,West Brom,Everton,D,63,5.5,70,17.1,20,50
+2017-12-27,Newcastle,Man City,A,91,8.9,152,32.6,0,90
+2017-12-28,Crystal Palace,Arsenal,A,76,14.1,128,19.9,10,70
+2017-12-30,Bournemouth,Everton,H,72,9.7,66,16.8,20,60
+2017-12-30,Chelsea,Stoke,H,117,23.9,71,11,70,20
+2017-12-30,Huddersfield,Burnley,D,67,11.8,64,17.5,0,0
+2017-12-30,Liverpool,Leicester,H,133,21.7,73,16.3,60,20
+2017-12-30,Man United,Southampton,D,100,22.1,66,8.6,50,20
+2017-12-30,Newcastle,Brighton,D,83,8.1,53,11.1,0,100
+2017-12-30,Watford,Swansea,A,57,11.4,43,6.3,60,20
+2017-12-31,Crystal Palace,Man City,D,77,13.1,149,32.8,10,90
+2017-12-31,West Brom,Arsenal,D,61,6,128,20.7,20,70
+2018-01-01,Brighton,Bournemouth,D,54,11.1,77,11.5,0,100
+2018-01-01,Burnley,Liverpool,A,63,17.1,134,23.2,14.28571429,71.42857143
+2018-01-01,Everton,Man United,A,63,15.5,97,20.9,30,50
+2018-01-01,Leicester,Huddersfield,H,71,14.9,62,11.6,0,0
+2018-01-01,Stoke,Newcastle,A,71,9.9,82,7.8,40,40
+2018-01-02,Man City,Watford,H,149,30.8,57,10.7,71.42857143,0
+2018-01-02,Southampton,Crystal Palace,A,67,8.3,74,13.3,70,20
+2018-01-02,Swansea,Tottenham,A,47,8.6,114,20.6,0,80
+2018-01-02,West Ham,West Brom,H,72,10.7,58,6.1,30,20
+2018-01-03,Arsenal,Chelsea,D,122,20.2,123,25.1,10,60
+2018-01-04,Tottenham,West Ham,D,113,21.4,76,13.1,50,40
+2018-01-13,Chelsea,Leicester,D,127,23.7,72,16.6,80,10
+2018-01-13,Crystal Palace,Burnley,H,77,15.3,67,15.2,20,60
+2018-01-13,Huddersfield,West Ham,A,60,10.5,69,12.9,0,100
+2018-01-13,Newcastle,Swansea,D,83,10.3,47,8,30,60
+2018-01-13,Tottenham,Everton,H,115,20.9,61,14.1,50,0
+2018-01-13,Watford,Southampton,D,54,8.9,65,7.7,20,40
+2018-01-13,West Brom,Brighton,H,60,5.5,58,11,0,100
+2018-01-14,Bournemouth,Arsenal,H,83,12,122,19,0,80
+2018-01-14,Liverpool,Man City,H,126,23.9,150,31,50,30
+2018-01-15,Man United,Stoke,H,95,21.8,71,9,40,20
+2018-01-20,Arsenal,Crystal Palace,H,125,17.7,76,17.4,80,10
+2018-01-20,Brighton,Chelsea,A,57,9.9,127,22.6,0,100
+2018-01-20,Burnley,Man United,A,66,14,97,22.8,14.28571429,42.85714286
+2018-01-20,Everton,West Brom,D,61,13.1,62,7.8,50,10
+2018-01-20,Leicester,Watford,H,69,16.2,58,9.3,60,40
+2018-01-20,Man City,Newcastle,H,146,28.2,79,9.9,90,0
+2018-01-20,Stoke,Huddersfield,H,74,7.9,56,9.5,0,0
+2018-01-20,West Ham,Bournemouth,D,72,15,85,13.5,40,40
+2018-01-21,Southampton,Tottenham,D,66,7.4,120,21.7,10,80
+2018-01-22,Swansea,Liverpool,H,49,8.1,123,25.2,20,70
+2018-01-30,Huddersfield,Liverpool,A,57,8.7,124,22.9,0,100
+2018-01-30,Swansea,Arsenal,H,47,10.5,127,18.4,30,60
+2018-01-30,West Ham,Crystal Palace,D,73,14.7,76,16.1,44.44444444,33.33333333
+2018-01-31,Chelsea,Bournemouth,A,131,23.4,87,13.9,80,20
+2018-01-31,Everton,Leicester,H,64,12.8,72,17.9,30,30
+2018-01-31,Man City,West Brom,H,148,28.2,64,8.5,100,0
+2018-01-31,Newcastle,Burnley,D,75,9.1,66,12.1,0,33.33333333
+2018-01-31,Southampton,Brighton,D,69,8.1,54,8.7,0,0
+2018-01-31,Stoke,Watford,D,75,10.3,58,7.8,80,20
+2018-01-31,Tottenham,Man United,H,116,21.1,91,23.7,30,40
+2018-02-03,Arsenal,Everton,H,129,17.1,65,14.8,50,20
+2018-02-03,Bournemouth,Stoke,H,89,15.1,75,10.3,40,40
+2018-02-03,Brighton,West Ham,H,54,8.7,75,14.5,100,0
+2018-02-03,Burnley,Man City,D,64,12,148,28.7,14.28571429,57.14285714
+2018-02-03,Leicester,Swansea,D,72,16.4,51,12.8,71.42857143,28.57142857
+2018-02-03,Man United,Huddersfield,H,87,21.7,55,7.8,0,100
+2018-02-03,West Brom,Southampton,A,64,7.6,68,7.8,30,50
+2018-02-04,Crystal Palace,Newcastle,D,76,15.9,76,8.9,11.11111111,55.55555556
+2018-02-04,Liverpool,Tottenham,D,122,24.2,114,21.7,60,10
+2018-02-05,Watford,Chelsea,H,59,8.2,132,21.5,0,71.42857143
+2018-02-10,Everton,Crystal Palace,H,63,13.4,82,15.6,30,20
+2018-02-10,Man City,Leicester,H,146,26.7,70,15.8,50,30
+2018-02-10,Stoke,Brighton,D,77,9.5,56,10.8,0,0
+2018-02-10,Swansea,Burnley,H,49,12.9,64,11.4,80,20
+2018-02-10,Tottenham,Arsenal,H,115,21.3,130,17.8,30,30
+2018-02-10,West Ham,Watford,H,72,13.4,63,10,14.28571429,57.14285714
+2018-02-11,Huddersfield,Bournemouth,H,53,7,93,17.4,0,100
+2018-02-11,Newcastle,Man United,H,79,9.4,90,22.4,20,60
+2018-02-11,Southampton,Liverpool,A,69,10.4,119,22.9,30,40
+2018-02-12,Chelsea,West Brom,H,131,19.3,64,7.2,60,10
+2018-02-24,Bournemouth,Newcastle,D,91,15.6,77,11.4,66.66666667,33.33333333
+2018-02-24,Brighton,Swansea,H,61,10.7,52,15,100,0
+2018-02-24,Burnley,Southampton,D,63,10.3,70,9.3,60,40
+2018-02-24,Leicester,Stoke,D,71,14.4,74,9.4,42.85714286,14.28571429
+2018-02-24,Liverpool,West Ham,H,121,24,72,15.2,50,30
+2018-02-24,Watford,Everton,H,64,9.3,64,15.1,14.28571429,57.14285714
+2018-02-24,West Brom,Huddersfield,A,61,6.4,56,9.2,0,100
+2018-02-25,Crystal Palace,Tottenham,A,85,14.3,114,21.7,20,70
+2018-02-25,Man United,Chelsea,H,89,20.7,137,20.5,10,50
+2018-03-01,Arsenal,Man City,A,119,16.6,151,27.2,20,40
+2018-03-03,Burnley,Everton,H,61,9.7,60,14,42.85714286,57.14285714
+2018-03-03,Leicester,Bournemouth,D,77,13.7,95,15.6,0,20
+2018-03-03,Liverpool,Newcastle,H,128,24.9,76,11.8,30,30
+2018-03-03,Southampton,Stoke,D,74,9.6,75,9.6,20,40
+2018-03-03,Swansea,West Ham,H,50,14,70,14.1,10,60
+2018-03-03,Tottenham,Huddersfield,H,112,23.5,61,11.5,100,0
+2018-03-03,Watford,West Brom,H,67,11.1,63,6,40,20
+2018-03-04,Brighton,Arsenal,H,63,12.8,118,14.3,0,100
+2018-03-04,Man City,Chelsea,H,145,27.4,139,18.6,40,40
+2018-03-05,Crystal Palace,Man United,A,83,12.9,93,21.4,0,80
+2018-03-10,Chelsea,Crystal Palace,H,131,16.5,87,11.6,60,40
+2018-03-10,Everton,Brighton,H,61,12.4,64,14.6,0,0
+2018-03-10,Huddersfield,Swansea,D,61,10.4,54,15.8,0,100
+2018-03-10,Man United,Liverpool,H,98,23,124,25.8,50,20
+2018-03-10,Newcastle,Southampton,H,75,10.6,74,9.5,20,50
+2018-03-10,West Brom,Leicester,A,63,5.3,75,13.4,28.57142857,42.85714286
+2018-03-10,West Ham,Burnley,A,70,12.9,69,11.9,71.42857143,14.28571429
+2018-03-11,Arsenal,Watford,H,111,13.4,66,13.5,71.42857143,28.57142857
+2018-03-11,Bournemouth,Tottenham,A,95,14.9,113,23.9,0,80
+2018-03-12,Stoke,Man City,A,76,9.7,138,27.9,20,60
+2018-03-17,Bournemouth,West Brom,H,97,13.8,61,5,40,40
+2018-03-17,Huddersfield,Crystal Palace,A,65,10.4,80,10.5,100,0
+2018-03-17,Liverpool,Watford,H,118,23.5,70,12.3,71.42857143,14.28571429
+2018-03-17,Stoke,Everton,A,74,8.8,62,14.4,30,50
+2018-03-31,Brighton,Leicester,A,66,13.5,78,14.7,0,100
+2018-03-31,Crystal Palace,Liverpool,A,83,12.2,121,24.1,50,40
+2018-03-31,Everton,Man City,A,66,15.8,139,28.1,20,40
+2018-03-31,Man United,Swansea,H,97,23.5,52,16.1,60,30
+2018-03-31,Newcastle,Huddersfield,H,75,13,64,9.6,0,100
+2018-03-31,Watford,Bournemouth,D,68,11.4,96,15.3,20,0
+2018-03-31,West Brom,Burnley,A,64,4.3,68,13.3,60,0
+2018-03-31,West Ham,Southampton,H,72,11.9,75,8.8,30,40
+2018-04-01,Arsenal,Stoke,H,113,14.1,71,7.8,60,30
+2018-04-01,Chelsea,Tottenham,A,137,17.6,117,25.7,40,20
+2018-04-07,Bournemouth,Crystal Palace,D,97,15.2,79,11.2,20,20
+2018-04-07,Brighton,Huddersfield,D,67,12.3,61,8.5,0,100
+2018-04-07,Everton,Liverpool,D,63,14.5,119,25.1,0,40
+2018-04-07,Leicester,Newcastle,A,78,16.6,74,15.1,40,40
+2018-04-07,Man City,Man United,A,138,28.6,100,24.8,60,20
+2018-04-07,Stoke,Tottenham,A,67,7.2,122,26.1,20,70
+2018-04-07,Watford,Burnley,A,66,11.2,71,15.2,33.33333333,66.66666667
+2018-04-07,West Brom,Swansea,D,65,4,52,14.6,40,50
+2018-04-08,Arsenal,Southampton,H,121,16.5,72,7.9,40,20
+2018-04-08,Chelsea,West Ham,D,133,15.8,76,13.7,60,20
+2018-04-14,Burnley,Leicester,H,68,16.6,79,14.9,20,60
+2018-04-14,Crystal Palace,Brighton,H,80,10.6,68,12.3,0,0
+2018-04-14,Huddersfield,Watford,H,66,9,67,10.3,100,0
+2018-04-14,Liverpool,Bournemouth,H,118,23.7,97,14.7,60,20
+2018-04-14,Southampton,Chelsea,A,80,7.3,132,14.9,20,60
+2018-04-14,Swansea,Everton,D,52,14.8,62,13.9,20,30
+2018-04-14,Tottenham,Man City,A,122,27.6,140,25.8,40,50
+2018-04-15,Man United,West Brom,A,97,25.3,66,4.3,40,30
+2018-04-15,Newcastle,Arsenal,H,73,17.2,123,17.2,0,100
+2018-04-16,West Ham,Stoke,D,72,13.8,68,6.3,20,30
+2018-04-17,Brighton,Tottenham,D,69,11.4,120,25,0,100
+2018-04-18,Bournemouth,Man United,A,96,13.8,97,23.3,20,60
+2018-04-19,Burnley,Chelsea,A,69,18.5,134,16.4,14.28571429,57.14285714
+2018-04-19,Leicester,Southampton,D,83,13.6,82,6.4,30,20
+2018-04-21,Watford,Crystal Palace,D,66,9.3,84,12.7,20,60
+2018-04-21,West Brom,Liverpool,D,66,7,118,24.7,10,40
+2018-04-22,Arsenal,West Ham,H,124,16.3,74,13.3,70,10
+2018-04-22,Man City,Swansea,H,141,26.3,58,14.3,80,0
+2018-04-22,Stoke,Burnley,D,74,6.8,67,16.9,28.57142857,42.85714286
+2018-04-23,Everton,Newcastle,H,60,13.7,75,19,80,10
+2018-04-28,Burnley,Brighton,D,70,16.5,70,11.4,0,0
+2018-04-28,Crystal Palace,Leicester,H,83,12.3,82,12.9,42.85714286,42.85714286
+2018-04-28,Huddersfield,Everton,A,65,10.9,57,15,0,100
+2018-04-28,Liverpool,Stoke,D,115,23.3,74,6.9,80,20
+2018-04-28,Newcastle,West Brom,A,73,17.8,66,7.3,50,20
+2018-04-28,Southampton,Bournemouth,H,82,6.8,93,12.3,40,20
+2018-04-28,Swansea,Chelsea,A,59,13.4,129,17.7,10,70
+2018-04-29,Man United,Arsenal,H,94,23.8,125,17,40,20
+2018-04-29,West Ham,Man City,A,75,12.3,141,26.8,20,70
+2018-04-30,Tottenham,Watford,H,120,24.2,68,9.7,71.42857143,0
+2018-05-04,Brighton,Man United,H,69,11.5,93,25.1,0,100
+2018-05-05,Bournemouth,Swansea,H,95,11.4,59,11.9,60,0
+2018-05-05,Everton,Southampton,D,60,17,84,9.2,40,40
+2018-05-05,Leicester,West Ham,A,80,11.7,72,10.8,50,20
+2018-05-05,Stoke,Crystal Palace,A,72,7.3,84,14.2,22.22222222,66.66666667
+2018-05-05,Watford,Newcastle,H,71,8.7,73,16.3,60,20
+2018-05-05,West Brom,Tottenham,H,67,9.8,121,24.7,10,30
+2018-05-06,Arsenal,Burnley,H,113,16.4,69,16.2,85.71428571,0
+2018-05-06,Chelsea,Liverpool,H,123,19,114,22.3,30,20
+2018-05-06,Man City,Huddersfield,D,140,27.3,64,10.3,100,0
+2018-05-08,Swansea,Southampton,A,59,11,86,9.5,20,60
+2018-05-09,Chelsea,Huddersfield,D,125,20.3,61,9.9,100,0
+2018-05-09,Leicester,Arsenal,H,77,10.2,115,17.1,0,70
+2018-05-09,Man City,Brighton,H,135,25.8,71,13.5,100,0
+2018-05-09,Tottenham,Newcastle,H,115,22.8,70,15.2,50,50
+2018-05-10,West Ham,Man United,D,73,12.8,91,22.6,10,50
+2018-05-13,Burnley,Bournemouth,A,69,14.7,93,13,66.66666667,33.33333333
+2018-05-13,Crystal Palace,West Brom,H,82,15.8,67,12.1,30,40
+2018-05-13,Huddersfield,Arsenal,A,61,10.3,119,16.5,0,100
+2018-05-13,Liverpool,Brighton,H,114,20.1,70,12.5,100,0
+2018-05-13,Man United,Watford,H,95,21.9,77,11.1,85.71428571,14.28571429
+2018-05-13,Newcastle,Chelsea,H,69,13.7,125,19.6,40,50
+2018-05-13,Southampton,Man City,A,90,11.7,132,26.3,20,60
+2018-05-13,Swansea,Stoke,A,59,9.5,67,6.6,30,40
+2018-05-13,Tottenham,Leicester,H,114,23.1,76,12.3,40,30
+2018-05-13,West Ham,Everton,H,75,12.3,59,16.3,10,70
+2018-08-10,Man United,Leicester,H,93,22.4,83,11.1,60,10
+2018-08-11,Bournemouth,Cardiff,H,96,15.2,79,7.2,0,0
+2018-08-11,Fulham,Crystal Palace,A,82,9.7,81,17.5,50,25
+2018-08-11,Huddersfield,Chelsea,A,55,9.1,119,17.6,0,50
+2018-08-11,Newcastle,Tottenham,A,73,15.6,118,24.5,50,50
+2018-08-11,Watford,Brighton,H,77,10.1,69,11.2,0,50
+2018-08-11,Wolves,Everton,D,110,4.3,59,15.1,12.5,37.5
+2018-08-12,Arsenal,Man City,A,118,17,123,27,20,40
+2018-08-12,Liverpool,West Ham,H,118,21.1,72,14.3,60,30
+2018-08-12,Southampton,Burnley,D,91,11,67,13.6,33.33333333,50
+2018-08-18,Cardiff,Newcastle,D,73,6.7,71,14.1,0,100
+2018-08-18,Chelsea,Arsenal,H,115,19.1,117,16.5,50,10
+2018-08-18,Everton,Southampton,H,64,14.6,88,10.9,40,40
+2018-08-18,Leicester,Wolves,H,84,10.2,109,5,0,50
+2018-08-18,Tottenham,Fulham,H,115,24.8,86,9.2,80,10
+2018-08-18,West Ham,Bournemouth,A,68,12.8,99,16.5,33.33333333,33.33333333
+2018-08-19,Brighton,Man United,H,66,10.2,93,23.9,50,50
+2018-08-19,Burnley,Watford,A,71,13.4,81,12.2,75,25
+2018-08-19,Man City,Huddersfield,H,126,27.5,53,8.4,50,0
+2018-08-20,Crystal Palace,Liverpool,A,85,19.1,117,22,40,50
+2018-08-25,Arsenal,West Ham,H,114,14,68,11.8,70,10
+2018-08-25,Bournemouth,Everton,D,94,18.4,68,16.7,33.33333333,50
+2018-08-25,Huddersfield,Cardiff,D,46,7.5,72,6.9,0,0
+2018-08-25,Liverpool,Brighton,H,114,23,68,12,100,0
+2018-08-25,Southampton,Leicester,A,86,10.2,81,12,20,30
+2018-08-25,Wolves,Man City,D,107,4.4,134,28.2,25,62.5
+2018-08-26,Fulham,Burnley,H,78,8.1,72,12.4,50,0
+2018-08-26,Newcastle,Chelsea,A,75,13.7,118,20.4,40,50
+2018-08-26,Watford,Crystal Palace,H,86,14.2,85,17.8,16.66666667,50
+2018-08-27,Man United,Tottenham,A,90,21.4,119,25.9,40,40
+2018-09-01,Brighton,Fulham,D,67,11.3,85,10.6,0,0
+2018-09-01,Chelsea,Bournemouth,H,109,21.7,92,17.4,66.66666667,33.33333333
+2018-09-01,Crystal Palace,Southampton,A,87,16.2,88,9.1,30,70
+2018-09-01,Everton,Huddersfield,D,70,16.2,46,7.9,100,0
+2018-09-01,Leicester,Liverpool,A,85,14.2,116,23.7,20,60
+2018-09-01,Man City,Newcastle,H,136,26.7,75,12.5,90,0
+2018-09-01,West Ham,Wolves,A,68,10.3,106,5.1,50,25
+2018-09-02,Burnley,Man United,A,70,11.1,92,19.7,12.5,50
+2018-09-02,Cardiff,Arsenal,A,69,7.5,120,16.6,0,100
+2018-09-02,Watford,Tottenham,H,87,16,119,26.2,0,75
+2018-09-15,Bournemouth,Leicester,H,85,16.1,85,12.7,16.66666667,0
+2018-09-15,Chelsea,Cardiff,H,109,23,66,6.6,100,0
+2018-09-15,Huddersfield,Crystal Palace,A,51,8.1,89,14.9,50,50
+2018-09-15,Man City,Fulham,H,137,27.4,88,10.8,70,0
+2018-09-15,Newcastle,Arsenal,A,71,11,125,17.4,10,90
+2018-09-15,Tottenham,Liverpool,A,113,24.3,115,24.7,10,50
+2018-09-15,Watford,Man United,A,86,18,95,20.3,12.5,87.5
+2018-09-16,Everton,West Ham,A,71,16.1,70,9.4,60,20
+2018-09-16,Wolves,Burnley,H,103,7.5,68,10.2,100,0
+2018-09-17,Southampton,Brighton,D,91,11.4,66,10.8,0,0
+2018-09-22,Brighton,Tottenham,A,69,11.2,106,21.6,0,50
+2018-09-22,Burnley,Bournemouth,H,68,9,85,17.3,50,50
+2018-09-22,Cardiff,Man City,A,67,6.1,142,27.9,50,50
+2018-09-22,Crystal Palace,Newcastle,D,89,16.4,69,9.9,10,50
+2018-09-22,Fulham,Watford,D,87,10,87,16.5,0,0
+2018-09-22,Leicester,Huddersfield,H,92,11.6,51,7.5,50,0
+2018-09-22,Liverpool,Southampton,H,118,25.4,92,11.4,50,20
+2018-09-22,Man United,Wolves,D,92,21.7,109,10.2,75,25
+2018-09-23,Arsenal,Everton,H,124,19.8,75,14.5,60,20
+2018-09-23,West Ham,Chelsea,D,68,11.2,109,24.3,20,50
+2018-09-29,Arsenal,Watford,H,119,20.4,90,16.2,75,25
+2018-09-29,Chelsea,Liverpool,D,105,23.4,118,26.4,40,20
+2018-09-29,Everton,Fulham,H,77,13.3,86,10.1,70,10
+2018-09-29,Huddersfield,Tottenham,A,50,6.6,111,22.8,0,100
+2018-09-29,Man City,Brighton,H,143,28.6,70,9.7,100,0
+2018-09-29,Newcastle,Leicester,A,68,9.7,95,13.4,40,40
+2018-09-29,West Ham,Man United,H,65,11.4,96,20.3,10,50
+2018-09-29,Wolves,Southampton,H,111,10.3,89,10.4,0,100
+2018-09-30,Cardiff,Burnley,A,64,5.2,71,11.1,0,0
+2018-10-01,Bournemouth,Crystal Palace,H,87,16.1,88,16.4,16.66666667,16.66666667
+2018-10-05,Brighton,West Ham,H,69,9,65,13.2,100,0
+2018-10-06,Burnley,Huddersfield,D,71,12.9,54,6,0,0
+2018-10-06,Crystal Palace,Wolves,A,87,14.9,109,12.7,0,0
+2018-10-06,Leicester,Everton,A,99,15.4,79,14.7,30,40
+2018-10-06,Man United,Newcastle,H,97,18.7,65,8.7,60,20
+2018-10-06,Tottenham,Cardiff,H,111,23.4,68,4.7,100,0
+2018-10-06,Watford,Bournemouth,A,92,14.8,87,17.3,16.66666667,0
+2018-10-07,Fulham,Arsenal,A,83,9.3,117,22.5,10,60
+2018-10-07,Liverpool,Man City,D,117,25.1,141,28.8,60,30
+2018-10-07,Southampton,Chelsea,A,92,9.4,104,22.5,10,70
+2018-10-20,Bournemouth,Southampton,D,86,19.2,93,8.5,16.66666667,50
+2018-10-20,Cardiff,Fulham,H,71,4.1,84,8.3,100,0
+2018-10-20,Chelsea,Man United,D,107,23.8,100,19.5,40,20
+2018-10-20,Huddersfield,Liverpool,A,56,6.1,116,23.8,0,100
+2018-10-20,Man City,Burnley,H,136,27.5,71,12.7,50,12.5
+2018-10-20,Newcastle,Brighton,A,65,7.4,68,10.5,0,50
+2018-10-20,West Ham,Tottenham,A,68,12.4,112,24.4,40,40
+2018-10-20,Wolves,Watford,A,105,15,86,13.4,0,0
+2018-10-21,Everton,Crystal Palace,H,85,16.6,85,13.8,30,20
+2018-10-22,Arsenal,Leicester,H,117,23.1,96,14.2,60,10
+2018-10-27,Brighton,Wolves,H,64,12.9,103,14.1,0,0
+2018-10-27,Fulham,Bournemouth,A,85,7.6,86,18.4,0,0
+2018-10-27,Leicester,West Ham,D,96,12.9,68,11,40,30
+2018-10-27,Liverpool,Cardiff,H,114,24.7,71,6.6,100,0
+2018-10-27,Southampton,Newcastle,D,93,8.6,68,6.5,50,20
+2018-10-27,Watford,Huddersfield,H,85,15.1,53,5.5,0,100
+2018-10-28,Burnley,Chelsea,A,70,11.3,105,22.8,12.5,62.5
+2018-10-28,Crystal Palace,Arsenal,D,84,12.4,122,24.9,10,80
+2018-10-28,Man United,Everton,H,98,18.9,84,18,50,30
+2018-10-29,Tottenham,Man City,A,108,25,135,27.7,30,60
+2018-11-03,Arsenal,Liverpool,D,119,23.5,109,25.4,20,40
+2018-11-03,Bournemouth,Man United,A,86,20.3,103,19.7,16.66666667,66.66666667
+2018-11-03,Cardiff,Leicester,A,70,6.1,94,12.8,0,0
+2018-11-03,Everton,Brighton,H,88,16.6,60,14.4,50,0
+2018-11-03,Newcastle,Watford,H,64,6.3,86,17,16.66666667,66.66666667
+2018-11-03,West Ham,Burnley,H,67,11.2,68,10.1,62.5,25
+2018-11-03,Wolves,Tottenham,A,103,13.2,105,22.8,25,50
+2018-11-04,Chelsea,Crystal Palace,H,106,23.8,84,12.4,60,40
+2018-11-04,Man City,Southampton,H,136,28.4,91,9,70,10
+2018-11-05,Huddersfield,Fulham,H,53,4.5,83,6.6,0,0
+2018-11-10,Cardiff,Brighton,H,63,5.3,57,13.6,0,0
+2018-11-10,Crystal Palace,Tottenham,A,82,11,106,23.4,10,80
+2018-11-10,Huddersfield,West Ham,D,52,7.2,75,13.1,0,100
+2018-11-10,Leicester,Burnley,D,95,14.5,63,8.7,50,33.33333333
+2018-11-10,Newcastle,Bournemouth,H,64,8.7,90,18.4,25,50
+2018-11-10,Southampton,Watford,D,91,8,83,15.4,33.33333333,16.66666667
+2018-11-11,Arsenal,Wolves,D,116,23,107,12.3,87.5,0
+2018-11-11,Chelsea,Everton,D,112,25,87,18,60,20
+2018-11-11,Liverpool,Fulham,H,110,24.3,78,6,60,30
+2018-11-11,Man City,Man United,H,141,28.6,103,21,50,30
+2018-11-24,Brighton,Leicester,D,56,12.1,94,14.4,0,100
+2018-11-24,Everton,Cardiff,H,85,17.6,66,7.8,50,0
+2018-11-24,Fulham,Southampton,H,78,5,93,8.4,20,30
+2018-11-24,Man United,Crystal Palace,D,102,18.8,84,9.9,90,0
+2018-11-24,Tottenham,Chelsea,H,100,24.5,105,23.7,30,40
+2018-11-24,Watford,Liverpool,A,85,15.3,115,25,12.5,75
+2018-11-24,West Ham,Man City,A,76,13.2,140,29.3,20,70
+2018-11-25,Bournemouth,Arsenal,A,91,17.1,112,21.5,16.66666667,66.66666667
+2018-11-25,Wolves,Huddersfield,A,106,12.4,55,7.5,0,0
+2018-11-26,Burnley,Newcastle,A,60,8.6,65,10.5,25,0
+2018-11-30,Cardiff,Wolves,H,64,7.3,101,11.5,0,0
+2018-12-01,Crystal Palace,Burnley,H,80,9.5,60,7.5,33.33333333,50
+2018-12-01,Huddersfield,Brighton,A,59,9.9,56,12.6,50,0
+2018-12-01,Leicester,Watford,H,93,13.9,85,14,66.66666667,33.33333333
+2018-12-01,Man City,Bournemouth,H,142,29.5,91,15.3,100,0
+2018-12-01,Newcastle,West Ham,A,65,12.6,72,11.8,50,30
+2018-12-01,Southampton,Man United,D,101,7.5,102,18.1,20,40
+2018-12-02,Arsenal,Tottenham,H,105,22.9,102,25.1,30,30
+2018-12-02,Chelsea,Fulham,H,103,21.6,83,7.4,60,0
+2018-12-02,Liverpool,Everton,H,112,26.1,84,18.7,40,0
+2018-12-04,Bournemouth,Huddersfield,H,86,14,61,9.2,50,50
+2018-12-04,Brighton,Crystal Palace,H,58,14.1,86,11.4,0,50
+2018-12-04,Watford,Man City,A,80,12.8,142,30.2,0,75
+2018-12-04,West Ham,Cardiff,H,74,13.8,62,9.5,100,0
+2018-12-05,Burnley,Liverpool,A,56,6.6,109,26.5,12.5,75
+2018-12-05,Everton,Newcastle,D,85,17.5,65,11.4,80,10
+2018-12-05,Fulham,Leicester,D,79,6.7,95,16,50,0
+2018-12-05,Man United,Arsenal,D,103,17.2,105,23.6,50,20
+2018-12-05,Tottenham,Southampton,H,104,23.2,99,7.8,70,10
+2018-12-05,Wolves,Chelsea,H,100,10.5,106,22.5,12.5,87.5
+2018-12-08,Arsenal,Huddersfield,H,106,23,62,8.3,100,0
+2018-12-08,Bournemouth,Liverpool,A,83,15.5,118,27.6,16.66666667,66.66666667
+2018-12-08,Burnley,Brighton,H,59,5.8,58,16.5,0,0
+2018-12-08,Cardiff,Southampton,H,63,9,97,6.9,50,50
+2018-12-08,Chelsea,Man City,H,104,20.4,143,30.4,40,40
+2018-12-08,Leicester,Tottenham,A,94,15.7,109,23.8,20,50
+2018-12-08,Man United,Fulham,H,106,16.7,78,6.8,70,10
+2018-12-08,West Ham,Crystal Palace,H,79,15.7,85,10.2,40,30
+2018-12-09,Newcastle,Wolves,A,66,11.5,96,12.6,33.33333333,0
+2018-12-10,Everton,Watford,D,87,16.6,82,11.5,50,25
+2019-08-09,Liverpool,Norwich,H,115,28,60,8.8,80,0
+2019-08-10,West Ham,Man City,A,81,17.5,135,27.8,20,70
+2019-08-10,Bournemouth,Sheffield United,D,84,14.3,107,10.2,0,0
+2019-08-10,Burnley,Southampton,H,61,8.2,96,6.1,42.85714286,28.57142857
+2019-08-10,Crystal Palace,Everton,D,81,8.8,89,16.4,20,40
+2019-08-10,Watford,Brighton,A,83,11.4,54,14.8,33.33333333,33.33333333
+2019-08-10,Tottenham,Aston Villa,H,105,25.2,52,3.3,80,10
+2019-08-11,Leicester,Wolves,D,94,14.5,94,14.6,33.33333333,33.33333333
+2019-08-11,Newcastle,Arsenal,A,68,10.6,100,23.7,10,90
+2019-08-11,Man United,Chelsea,H,113,18,104,21.1,20,40
+2019-08-17,Arsenal,Burnley,H,99,25,58,10.7,87.5,0
+2019-08-17,Aston Villa,Bournemouth,A,53,2.5,85,13.6,50,50
+2019-08-17,Brighton,West Ham,D,56,16.9,83,16.2,100,0
+2019-08-17,Everton,Watford,H,91,15.5,82,10.1,44.44444444,22.22222222
+2019-08-17,Norwich,Newcastle,H,61,7.9,68,9.9,30,40
+2019-08-17,Southampton,Liverpool,A,93,5.2,119,28.9,10,60
+2019-08-17,Man City,Tottenham,D,137,28,109,25.5,60,30
+2019-08-18,Sheffield United,Crystal Palace,H,104,9.7,82,8.7,0,0
+2019-08-18,Chelsea,Leicester,D,108,19.3,94,14.1,70,10
+2019-08-19,Wolves,Man United,D,92,14.4,115,19.4,22.22222222,66.66666667
+2019-08-23,Aston Villa,Everton,H,57,2.4,88,17.3,10,60
+2019-08-24,Norwich,Chelsea,A,68,10.1,109,18,0,80
+2019-08-24,Brighton,Southampton,A,56,16.3,91,4.5,0,0
+2019-08-24,Man United,Crystal Palace,A,114,18.7,77,7.6,80,0
+2019-08-24,Sheffield United,Leicester,A,94,12.4,95,14,0,0
+2019-08-24,Watford,West Ham,A,79,8.9,83,15.7,50,25
+2019-08-24,Liverpool,Arsenal,H,123,29.3,100,25.7,40,10
+2019-08-25,Bournemouth,Man City,A,82,15.4,145,26.7,0,100
+2019-08-25,Tottenham,Newcastle,A,106,24.7,70,9,60,40
+2019-08-25,Wolves,Burnley,D,85,14.2,59,9.8,100,0
+2019-08-31,Southampton,Man United,D,87,6.9,111,17.1,20,40
+2019-08-31,Chelsea,Sheffield United,D,112,19.5,92,10.8,100,0
+2019-08-31,Crystal Palace,Aston Villa,H,78,9.5,57,4.6,50,25
+2019-08-31,Leicester,Bournemouth,H,87,15.5,84,13.6,0,28.57142857
+2019-08-31,Man City,Brighton,H,143,26.9,56,15.2,100,0
+2019-08-31,Newcastle,Watford,D,70,11.3,74,7.7,28.57142857,57.14285714
+2019-08-31,West Ham,Norwich,H,91,17.4,71,9.5,33.33333333,16.66666667
+2019-08-31,Burnley,Liverpool,A,61,10.1,123,30,11.11111111,77.77777778
+2019-09-01,Everton,Wolves,H,86,15.6,86,13.9,33.33333333,11.11111111
+2019-09-01,Arsenal,Tottenham,D,96,23.7,101,22,30,30
+2019-09-14,Liverpool,Newcastle,H,119,30.2,69,11.4,40,20
+2019-09-14,Brighton,Burnley,D,57,13.8,59,9.3,0,33.33333333
+2019-09-14,Man United,Leicester,H,118,16.3,83,17.3,60,10
+2019-09-14,Sheffield United,Southampton,A,91,11.2,86,7.3,0,0
+2019-09-14,Tottenham,Crystal Palace,H,104,21.1,78,11.7,80,10
+2019-09-14,Wolves,Chelsea,A,84,12.7,115,18.4,22.22222222,77.77777778
+2019-09-14,Norwich,Man City,H,71,8.7,147,27.6,10,60
+2019-09-15,Bournemouth,Everton,H,81,12.1,85,17.4,28.57142857,42.85714286
+2019-09-15,Watford,Arsenal,D,74,7.5,100,22.4,22.22222222,77.77777778
+2019-09-16,Aston Villa,West Ham,D,54,4.5,95,19.1,40,30
+2019-09-20,Southampton,Bournemouth,A,90,9.7,83,13.6,42.85714286,14.28571429
+2019-09-21,Leicester,Tottenham,H,82,15.8,104,21.7,20,50
+2019-09-21,Burnley,Norwich,H,54,9.5,69,11.1,0,0
+2019-09-21,Everton,Sheffield United,A,85,15.8,92,9.9,50,0
+2019-09-21,Man City,Watford,H,147,24.8,76,7.6,77.77777778,0
+2019-09-21,Newcastle,Brighton,D,68,10.4,62,13.7,0,66.66666667
+2019-09-22,Crystal Palace,Wolves,D,75,10.6,84,11.4,0,100
+2019-09-22,West Ham,Man United,H,94,18.6,117,17.8,20,40
+2019-09-22,Arsenal,Aston Villa,H,101,21.4,55,4.7,80,10
+2019-09-22,Chelsea,Liverpool,A,117,19.7,120,30.6,30,20
+2019-09-28,Sheffield United,Liverpool,A,92,12.2,117,30.8,0,50
+2019-09-28,Aston Villa,Burnley,D,62,4.7,57,11.7,25,25
+2019-09-28,Bournemouth,West Ham,D,81,15.4,95,20.3,42.85714286,28.57142857
+2019-09-28,Chelsea,Brighton,H,108,17.5,62,13.3,100,0
+2019-09-28,Crystal Palace,Norwich,H,77,10.8,69,10.3,33.33333333,16.66666667
+2019-09-28,Tottenham,Southampton,H,97,20,92,9,70,10
+2019-09-28,Wolves,Watford,H,85,11.2,74,6.3,0,100
+2019-09-28,Everton,Man City,A,81,14.3,144,25.5,10,50
+2019-09-29,Leicester,Newcastle,H,87,17.3,66,10.7,50,30
+2019-09-30,Man United,Arsenal,D,117,16.2,101,22.3,40,20
+2019-10-05,Brighton,Tottenham,H,61,12.1,96,20.6,0,66.66666667
+2019-10-05,Burnley,Everton,H,58,11.9,86,12.8,50,50
+2019-10-05,Liverpool,Leicester,H,113,31.2,87,18.8,60,20
+2019-10-05,Norwich,Aston Villa,A,68,9.4,62,4.9,20,60
+2019-10-05,Watford,Sheffield United,D,74,5.6,86,11,0,100
+2019-10-05,West Ham,Crystal Palace,A,96,19.7,77,13,50,20
+2019-10-06,Arsenal,Bournemouth,H,96,21.2,81,14.9,71.42857143,14.28571429
+2019-10-06,Man City,Wolves,A,147,26,85,13,55.55555556,22.22222222
+2019-10-06,Southampton,Chelsea,A,93,8.2,115,18.8,10,70
+2019-10-06,Newcastle,Man United,H,64,9.7,116,15.7,20,60
+2019-10-19,Everton,West Ham,H,87,11.6,97,18.1,50,30
+2019-10-19,Aston Villa,Brighton,H,73,7.9,62,13.9,0,0
+2019-10-19,Bournemouth,Norwich,D,82,13.7,70,8.6,50,50
+2019-10-19,Chelsea,Newcastle,H,116,19.9,64,12,50,40
+2019-10-19,Leicester,Burnley,H,83,17.3,59,13.8,42.85714286,28.57142857
+2019-10-19,Tottenham,Watford,D,97,19.2,73,5.6,66.66666667,11.11111111
+2019-10-19,Wolves,Southampton,D,81,14.7,90,7.5,33.33333333,66.66666667
+2019-10-19,Crystal Palace,Man City,A,75,15.1,141,23.7,10,80
+2019-10-20,Man United,Liverpool,D,110,14.1,117,31.4,50,20
+2019-10-21,Sheffield United,Arsenal,H,84,11,87,21.8,50,50
+2019-10-25,Southampton,Leicester,A,90,7.7,78,18.8,20,40
+2019-10-26,Man City,Aston Villa,H,142,24,80,10.3,80,10
+2019-10-26,Brighton,Everton,H,63,12.7,93,13.2,0,66.66666667
+2019-10-26,Watford,Bournemouth,D,70,6.2,79,13.2,14.28571429,14.28571429
+2019-10-26,West Ham,Sheffield United,D,97,16.4,81,13.1,50,50
+2019-10-26,Burnley,Chelsea,A,61,12.9,117,21.2,11.11111111,66.66666667
+2019-10-27,Newcastle,Wolves,D,62,11,75,14.3,28.57142857,14.28571429
+2019-10-27,Arsenal,Crystal Palace,D,88,19.9,75,14,70,10
+2019-10-27,Liverpool,Tottenham,H,111,29.8,96,17.8,50,10
+2019-10-27,Norwich,Man United,A,70,8.7,106,13.5,30,70
+2019-11-02,Bournemouth,Man United,H,79,13,111,15.2,14.28571429,71.42857143
+2019-11-02,Arsenal,Wolves,D,89,18.5,72,14,77.77777778,0
+2019-11-02,Aston Villa,Liverpool,A,80,10,120,30,20,60
+2019-11-02,Brighton,Norwich,H,63,14.3,71,8,0,0
+2019-11-02,Man City,Southampton,H,141,25,92,7.3,80,10
+2019-11-02,Sheffield United,Burnley,H,83,13,61,11.5,0,0
+2019-11-02,West Ham,Newcastle,A,100,15.8,61,11,30,50
+2019-11-02,Watford,Chelsea,A,67,6.4,118,22.3,12.5,62.5
+2019-11-03,Crystal Palace,Leicester,A,75,13.8,85,20.3,50,37.5
+2019-11-03,Everton,Tottenham,D,93,12.1,93,16.4,0,60
+2019-11-08,Norwich,Watford,A,68,7,66,5.9,50,50
+2019-11-09,Chelsea,Crystal Palace,H,124,23.6,76,13,60,40
+2019-11-09,Burnley,West Ham,H,59,10.6,103,14.4,22.22222222,66.66666667
+2019-11-09,Newcastle,Bournemouth,H,69,13,80,14.7,40,40
+2019-11-09,Southampton,Everton,A,89,6.5,90,11.4,40,40
+2019-11-09,Tottenham,Sheffield United,D,89,14.9,83,15.1,50,50
+2019-11-09,Leicester,Arsenal,H,85,21.5,91,17.9,10,70
+2019-11-10,Man United,Brighton,H,111,13.8,67,16.2,33.33333333,66.66666667
+2019-11-10,Wolves,Aston Villa,H,74,13.8,81,9.1,12.5,50
+2019-11-10,Liverpool,Man City,H,120,30.6,137,25.3,60,20
+2019-11-23,West Ham,Tottenham,A,103,12.8,87,14.8,30,50
+2019-11-23,Arsenal,Southampton,D,85,15.7,86,6.1,50,20
+2019-11-23,Bournemouth,Wolves,A,76,13.4,77,15.5,0,0
+2019-11-23,Brighton,Leicester,A,65,14.5,90,23,0,66.66666667
+2019-11-23,Crystal Palace,Liverpool,A,73,11.8,123,30.8,40,50
+2019-11-23,Everton,Norwich,A,87,13.3,73,6.3,40,10
+2019-11-23,Watford,Burnley,A,66,8.1,68,12.5,40,60
+2019-11-23,Man City,Chelsea,H,138,23.3,123,24.5,40,40
+2019-11-24,Sheffield United,Man United,D,83,14.9,112,15.3,0,100
+2019-11-25,Aston Villa,Newcastle,H,83,8.8,70,15,0,50
+2019-11-30,Newcastle,Man City,D,69,13.7,132,23.6,0,90
+2019-11-30,Burnley,Crystal Palace,A,73,14.9,76,11,42.85714286,42.85714286
+2019-11-30,Chelsea,West Ham,A,119,22.6,103,11.7,40,20
+2019-11-30,Liverpool,Brighton,H,125,31.2,63,13.1,100,0
+2019-11-30,Tottenham,Bournemouth,H,91,15.5,76,12.1,83.33333333,0
+2019-11-30,Southampton,Watford,H,88,6.3,67,7.6,28.57142857,14.28571429
+2019-12-01,Norwich,Arsenal,D,77,8.3,84,15.3,10,70
+2019-12-01,Wolves,Sheffield United,D,83,17.5,87,14.8,0,0
+2019-12-01,Leicester,Everton,H,97,24.2,90,11.8,30,40
+2019-12-01,Man United,Aston Villa,D,113,14.9,89,10.9,90,0
+2019-12-03,Crystal Palace,Bournemouth,H,75,12.8,77,11.1,14.28571429,28.57142857
+2019-12-03,Burnley,Man City,A,76,13.6,135,22.7,11.11111111,55.55555556
+2019-12-04,Chelsea,Aston Villa,H,117,20.5,88,11.6,80,20
+2019-12-04,Leicester,Watford,H,96,25.4,64,6.5,71.42857143,28.57142857
+2019-12-04,Man United,Tottenham,H,109,14.4,95,17.6,40,50
+2019-12-04,Southampton,Norwich,H,90,8.9,79,8.7,37.5,37.5
+2019-12-04,Wolves,West Ham,H,79,17.2,104,13.1,40,40
+2019-12-04,Liverpool,Everton,H,125,31.2,87,10.7,50,0
+2019-12-05,Sheffield United,Newcastle,A,80,14.5,72,13.4,50,50
+2019-12-05,Arsenal,Brighton,A,89,14.4,67,11.7,50,50
+2019-12-07,Everton,Chelsea,H,88,9.5,120,21.7,10,60
+2019-12-07,Bournemouth,Liverpool,A,73,9.9,126,31.6,14.28571429,71.42857143
+2019-12-07,Tottenham,Burnley,H,92,15.3,75,12.7,62.5,12.5
+2019-12-07,Watford,Crystal Palace,D,64,6.3,75,15,28.57142857,42.85714286
+2019-12-07,Man City,Man United,A,135,23,108,16,50,30
+2019-12-08,Aston Villa,Leicester,A,90,10.4,97,26.3,40,30
+2019-12-08,Newcastle,Southampton,H,74,15.1,89,11.1,20,40
+2019-12-08,Norwich,Sheffield United,A,78,7.7,81,13.3,0,0
+2019-12-08,Brighton,Wolves,D,73,13.6,79,18.9,100,0
+2019-12-09,West Ham,Arsenal,A,97,12,90,13.2,10,70
+2019-12-14,Liverpool,Watford,H,128,31.6,61,6.5,77.77777778,11.11111111
+2019-12-14,Burnley,Newcastle,H,75,11.4,74,16.8,20,20
+2019-12-14,Chelsea,Bournemouth,A,120,19.9,69,9.2,71.42857143,28.57142857
+2019-12-14,Leicester,Norwich,D,100,27.3,76,7.3,100,0
+2019-12-14,Sheffield United,Aston Villa,H,81,14.9,91,10,0,50
+2019-12-14,Southampton,West Ham,A,89,10.5,96,10.2,40,40
+2019-12-15,Man United,Everton,D,114,17.7,94,11.4,60,20
+2019-12-15,Wolves,Tottenham,A,79,18.5,97,17.1,22.22222222,55.55555556
+2019-12-15,Arsenal,Man City,A,90,14.3,135,21.3,20,40
+2019-12-16,Crystal Palace,Brighton,D,71,14.6,74,13.5,33.33333333,33.33333333
+2019-12-21,Everton,Arsenal,D,89,11.5,87,13.2,20,70
+2019-12-21,Aston Villa,Southampton,A,84,8.8,83,9.4,30,40
+2019-12-21,Bournemouth,Burnley,A,66,11,75,13.5,40,60
+2019-12-21,Brighton,Sheffield United,A,81,13.1,74,17,0,0
+2019-12-21,Newcastle,Crystal Palace,H,71,15.5,73,14.5,40,10
+2019-12-21,Norwich,Wolves,A,76,7.3,81,16.9,50,0
+2019-12-21,Man City,Leicester,H,136,21.6,102,26.2,50,30
+2019-12-22,Watford,Man United,H,62,6.3,117,17.3,11.11111111,88.88888889
+2019-12-22,Tottenham,Chelsea,A,93,18.1,123,18.1,40,40
+2019-12-26,Tottenham,Brighton,H,88,16.9,77,11.9,50,25
+2019-12-26,Aston Villa,Norwich,H,88,8.4,81,6.9,70,20
+2019-12-26,Bournemouth,Arsenal,D,65,10.3,82,12.1,12.5,75
+2019-12-26,Chelsea,Southampton,A,117,19.4,85,11.9,70,10
+2019-12-26,Crystal Palace,West Ham,H,68,13,99,12.4,20,50
+2019-12-26,Everton,Burnley,H,86,11.2,76,15.3,44.44444444,55.55555556
+2019-12-26,Sheffield United,Watford,D,70,18.3,65,8.5,66.66666667,0
+2019-12-26,Man United,Newcastle,H,120,15.7,70,17.2,50,30
+2019-12-26,Leicester,Liverpool,A,101,24,127,31.8,20,70
+2019-12-27,Wolves,Man City,H,81,18.5,142,23.2,30,50
+2019-12-28,Brighton,Bournemouth,H,79,10.5,67,9.8,0,50
+2019-12-28,Newcastle,Everton,A,67,16.2,88,13.5,10,80
+2019-12-28,Southampton,Crystal Palace,D,83,13.8,67,14.9,70,30
+2019-12-28,Watford,Aston Villa,H,60,9.3,90,10.2,50,25
+2019-12-28,Norwich,Tottenham,D,81,5.8,85,17.9,20,50
+2019-12-28,West Ham,Leicester,A,97,10.7,96,21.9,30,40
+2019-12-28,Burnley,Man United,A,70,14.1,123,17.3,11.11111111,55.55555556
+2019-12-29,Arsenal,Chelsea,A,80,12.3,117,17.6,10,60
+2019-12-29,Liverpool,Wolves,H,130,31.8,87,19.9,62.5,12.5
+2019-12-29,Man City,Sheffield United,H,138,20.5,72,18.2,50,0
+2020-01-01,Brighton,Chelsea,D,84,12.6,116,18.9,0,100
+2020-01-01,Burnley,Aston Villa,A,67,12.6,90,9.8,20,20
+2020-01-01,Newcastle,Leicester,A,68,14.6,101,23,30,60
+2020-01-01,Southampton,Tottenham,H,87,14.1,90,17.7,10,70
+2020-01-01,Watford,Wolves,H,63,11.2,83,18.2,50,50
+2020-01-01,Man City,Everton,H,138,22.1,92,15.1,50,10
+2020-01-01,Norwich,Crystal Palace,D,81,6.4,65,14.7,14.28571429,42.85714286
+2020-01-01,West Ham,Bournemouth,H,90,9.6,67,9.1,25,37.5
+2020-01-01,Arsenal,Man United,H,80,10.4,117,18.8,20,40
+2020-01-02,Liverpool,Sheffield United,H,121,32,67,16.5,66.66666667,0
+2020-01-10,Sheffield United,West Ham,H,66,15.3,91,11.2,33.33333333,33.33333333
+2020-01-11,Crystal Palace,Arsenal,D,66,14.3,82,12.6,10,60
+2020-01-11,Chelsea,Burnley,H,114,18.1,64,11.4,70,10
+2020-01-11,Everton,Brighton,H,91,14.2,86,12.5,50,25
+2020-01-11,Leicester,Southampton,A,110,24,87,15.7,50,20
+2020-01-11,Man United,Norwich,H,116,17.2,80,6.6,70,30
+2020-01-11,Wolves,Newcastle,D,85,16.6,68,13.7,12.5,25
+2020-01-11,Tottenham,Liverpool,A,88,15.7,124,32,10,50
+2020-01-12,Bournemouth,Watford,A,66,7.8,63,13.9,12.5,12.5
+2020-01-12,Aston Villa,Man City,A,92,11.4,136,22.7,10,80
+2020-01-18,Watford,Tottenham,D,67,15.6,90,14.7,10,60
+2020-01-18,Arsenal,Sheffield United,D,77,12,66,16.6,33.33333333,66.66666667
+2020-01-18,Brighton,Aston Villa,D,84,11.3,86,11,0,100
+2020-01-18,Man City,Crystal Palace,D,138,24,65,14,80,10
+2020-01-18,Norwich,Bournemouth,H,75,6.1,63,7.1,33.33333333,33.33333333
+2020-01-18,Southampton,Wolves,A,94,17.9,87,16.2,50,25
+2020-01-18,West Ham,Everton,D,90,10.4,95,15.6,30,50
+2020-01-18,Newcastle,Chelsea,H,66,13.1,117,19.4,30,60
+2020-01-19,Burnley,Leicester,H,61,10.2,112,21.8,25,50
+2020-01-19,Liverpool,Man United,H,124,32.2,120,18.7,10,50
+2020-01-21,Aston Villa,Watford,H,86,10.3,66,16,20,60
+2020-01-21,Bournemouth,Brighton,H,59,5.9,83,11.4,33.33333333,33.33333333
+2020-01-21,Crystal Palace,Southampton,A,65,13.6,95,16.2,30,60
+2020-01-21,Everton,Newcastle,D,97,15.8,65,15.2,80,10
+2020-01-21,Sheffield United,Man City,A,67,16.5,139,22.6,0,66.66666667
+2020-01-21,Chelsea,Arsenal,D,113,17.5,78,12.2,60,10
+2020-01-22,Leicester,West Ham,H,118,19.6,93,10,50,20
+2020-01-22,Tottenham,Norwich,H,93,14,75,8.2,50,20
+2020-01-22,Man United,Burnley,A,121,17.4,62,12.3,60,10
+2020-01-23,Wolves,Liverpool,A,89,17.7,123,32.2,11.11111111,66.66666667
+2020-01-29,West Ham,Liverpool,A,85,9.2,124,32.4,30,60
+2020-02-01,Leicester,Chelsea,D,121,20.5,116,16.6,10,60
+2020-02-01,Bournemouth,Aston Villa,H,60,8.5,89,12.9,66.66666667,33.33333333
+2020-02-01,Crystal Palace,Sheffield United,A,60,12.2,66,14.8,0,100
+2020-02-01,Liverpool,Southampton,H,122,32.4,99,18.1,60,10
+2020-02-01,Newcastle,Norwich,D,62,14.5,74,8,40,40
+2020-02-01,Watford,Everton,A,65,14.4,99,15.2,20,50
+2020-02-01,West Ham,Brighton,D,81,7.8,89,10.3,0,75
+2020-02-01,Man United,Wolves,D,120,15.7,87,16.3,60,20
+2020-02-02,Burnley,Arsenal,D,62,14.1,72,11.8,0,88.88888889
+2020-02-02,Tottenham,Man City,H,87,16.1,138,23.7,30,50
+2020-02-08,Everton,Crystal Palace,H,99,17.3,57,11,40,10
+2020-02-08,Brighton,Watford,D,90,10.3,60,13.7,50,25
+2020-02-09,Sheffield United,Bournemouth,H,65,16.6,60,10.3,0,0
+2020-02-14,Wolves,Leicester,D,86,15.6,122,19.6,25,25
+2020-02-15,Southampton,Burnley,A,96,16.7,63,14,25,50
+2020-02-15,Norwich,Liverpool,A,75,7.8,122,32.6,0,80
+2020-02-16,Aston Villa,Tottenham,A,89,11.4,85,17.3,10,80
+2020-02-16,Arsenal,Newcastle,H,70,11.9,66,14.6,90,10
+2020-02-17,Chelsea,Man United,A,113,16,120,15.4,30,30
+2020-02-19,Man City,West Ham,H,135,21.5,86,8.3,70,20
+2020-09-12,Fulham,Arsenal,A,79,6.1,71,13.5,10,60
+2020-09-12,Crystal Palace,Southampton,H,55,9.9,92,15.4,30,60
+2020-09-12,Liverpool,Leeds,H,125,32.6,96,9.9,50,25
+2020-09-12,West Ham,Newcastle,A,80,7.2,64,12.9,30,60
+2020-09-13,West Brom,Leicester,A,63,11.3,118,18.5,25,50
+2020-09-13,Tottenham,Everton,A,91,19.2,104,18.9,60,0
+2020-09-14,Brighton,Chelsea,A,89,10.2,112,14.1,0,75
+2020-09-14,Sheffield United,Wolves,A,70,18,85,15.2,0,0
+2020-09-19,Everton,West Brom,H,100,20.7,57,10.4,40,10
+2020-09-19,Leeds,Fulham,H,95,8.7,77,5.4,33.33333333,50
+2020-09-19,Man United,Crystal Palace,A,120,16.8,55,11.7,70,10
+2020-09-19,Arsenal,West Ham,H,72,15.6,77,6.7,70,10
+2020-09-20,Southampton,Tottenham,A,91,14.3,92,17.4,20,60
+2020-09-20,Newcastle,Brighton,A,66,14.9,91,9.2,0,50
+2020-09-20,Chelsea,Liverpool,A,107,15.7,127,32.8,20,30
+2020-09-20,Leicester,Burnley,H,120,19.5,63,15.5,44.44444444,33.33333333
+2020-09-21,Aston Villa,Sheffield United,H,84,10.7,70,16.5,33.33333333,33.33333333
+2020-09-21,Wolves,Man City,A,87,16.4,131,22.6,30,50
+2020-09-26,Brighton,Man United,A,91,11.1,120,15.7,50,50
+2020-09-26,Crystal Palace,Everton,A,56,13.7,105,22,0,50
+2020-09-26,West Brom,Chelsea,D,58,9.6,103,13.8,10,60
+2020-09-26,Burnley,Southampton,A,65,14.4,95,13,55.55555556,22.22222222
+2020-09-27,Sheffield United,Leeds,A,68,14.9,97,11.3,0,0
+2020-09-27,Tottenham,Newcastle,D,95,19,64,13.3,50,50
+2020-09-27,Man City,Leicester,A,131,23.4,125,20.6,60,20
+2020-09-27,West Ham,Wolves,H,76,5.9,86,15,33.33333333,50
+2020-09-28,Fulham,Aston Villa,A,80,5,83,12.3,30,30
+2020-09-28,Liverpool,Arsenal,H,125,32.8,73,17.2,40,10
+2020-10-03,Chelsea,Crystal Palace,H,105,13.4,55,12.5,70,30
+2020-10-03,Everton,Brighton,H,100,23.5,91,10.1,60,20
+2020-10-03,Leeds,Man City,D,105,13.1,134,21.5,50,33.33333333
+2020-10-03,Newcastle,Burnley,H,65,13,64,12.9,16.66666667,33.33333333
+2020-10-04,Leicester,West Ham,A,129,21.6,79,8.5,60,10
+2020-10-04,Southampton,West Brom,H,91,14.9,58,9.7,60,20
+2020-10-04,Arsenal,Sheffield United,H,73,16.1,70,13.4,25,50
+2020-10-04,Wolves,Fulham,H,87,13.2,81,4.3,37.5,25
+2020-10-04,Man United,Tottenham,A,120,16.8,105,18.5,50,40
+2020-10-04,Aston Villa,Liverpool,H,76,14.6,129,33,20,60
+2020-10-17,Everton,Liverpool,D,100,24.5,124,30,0,50
+2020-10-17,Chelsea,Southampton,D,104,14.8,95,16.6,70,20
+2020-10-17,Man City,Arsenal,H,126,20.3,72,17.7,50,20
+2020-10-17,Newcastle,Man United,A,68,14.7,120,15.8,20,60
+2020-10-18,Sheffield United,Fulham,D,68,11.9,78,4,50,50
+2020-10-18,Crystal Palace,Brighton,D,51,11.5,90,9,25,25
+2020-10-18,Tottenham,West Ham,D,109,19.8,81,10.7,60,20
+2020-10-18,Leicester,Aston Villa,A,114,19.4,79,16,40,40
+2020-10-19,West Brom,Burnley,D,57,9,63,11.9,50,16.66666667
+2020-10-19,Leeds,Wolves,A,106,13.4,87,15.1,50,50
+2020-10-23,Aston Villa,Leeds,A,78,18.3,104,11.9,25,37.5
+2020-10-24,West Ham,Man City,D,79,11,122,21.4,10,80
+2020-10-24,Fulham,Crystal Palace,A,78,4.3,49,11.3,40,40
+2020-10-24,Man United,Chelsea,D,123,16.6,99,14.6,40,30
+2020-10-24,Liverpool,Sheffield United,H,126,28,68,11.7,75,0
+2020-10-25,Southampton,Everton,H,98,16.3,102,24,30,50
+2020-10-25,Wolves,Newcastle,D,82,16.4,63,13.3,11.11111111,22.22222222
+2020-10-25,Arsenal,Leicester,A,71,16.6,114,17.4,60,20
+2020-10-26,Brighton,West Brom,D,88,9,59,9.1,50,50
+2020-10-26,Burnley,Tottenham,A,62,11.7,113,19.3,11.11111111,66.66666667
+2020-10-30,Wolves,Crystal Palace,H,80,16.1,58,13.4,50,0
+2020-10-31,Sheffield United,Man City,A,66,10.3,125,20.4,0,75
+2020-10-31,Burnley,Chelsea,A,66,10.7,95,14,10,70
+2020-10-31,Liverpool,West Ham,H,126,28.3,77,11,60,30
+2020-11-01,Aston Villa,Southampton,A,80,16.7,101,17.7,20,50
+2020-11-01,Newcastle,Everton,H,56,12.8,99,21.7,10,70
+2020-11-01,Man United,Arsenal,A,123,16.7,74,15,30,30
+2020-11-01,Tottenham,Brighton,H,111,20.3,89,9.2,60,20
+2020-11-02,Fulham,West Brom,H,78,4.1,57,9.4,40,20
+2020-11-02,Leeds,Leicester,A,109,14.1,109,18.5,50,33.33333333
+2020-11-06,Brighton,Burnley,D,91,8.4,54,9.4,0,25
+2020-11-06,Southampton,Newcastle,H,99,19.3,55,14.7,40,20
+2020-11-07,Everton,Man United,A,96,20.2,114,14.5,10,60
+2020-11-07,Crystal Palace,Leeds,H,54,12.1,105,12.6,0,0
+2020-11-07,Chelsea,Sheffield United,H,102,16,59,9.3,66.66666667,0
+2020-11-07,West Ham,Fulham,H,76,10.2,72,6.3,50,30
+2020-11-08,West Brom,Tottenham,A,57,8.7,108,21.8,20,20
+2020-11-08,Leicester,Wolves,H,108,19.8,78,17.2,20,20
+2020-11-08,Man City,Liverpool,D,130,21.5,127,28.5,20,60
+2020-11-08,Arsenal,Aston Villa,A,71,17,86,15.7,80,10
+2020-11-21,Newcastle,Chelsea,A,54,13.4,105,17.6,30,60
+2020-11-21,Aston Villa,Brighton,A,84,17.1,89,8.5,50,0
+2020-11-21,Tottenham,Man City,H,108,22.6,128,20.7,40,40
+2020-11-21,Man United,West Brom,H,114,16.5,56,8,40,40
+2020-11-22,Fulham,Everton,A,70,6.1,94,18.2,0,80
+2020-11-22,Sheffield United,West Ham,A,58,8,79,12.1,50,25
+2020-11-22,Leeds,Arsenal,D,105,11.5,66,15.4,37.5,50
+2020-11-22,Liverpool,Leicester,H,123,26.8,105,20.9,70,20
+2020-11-23,Burnley,Crystal Palace,H,50,9.4,58,13.9,37.5,50
+2020-11-23,Wolves,Southampton,D,77,16.1,101,20.4,40,40
+2020-11-27,Crystal Palace,Newcastle,A,61,12.6,51,12,10,50
+2020-11-28,Brighton,Liverpool,D,83,10.7,131,27,0,100
+2020-11-28,Man City,Burnley,H,124,18.5,50,11.4,60,10
+2020-11-28,Everton,Leeds,A,97,19.7,103,11.3,37.5,25
+2020-11-28,West Brom,Sheffield United,H,57,7.3,57,7.1,0,0
+2020-11-29,Southampton,Man United,A,98,19.8,115,17.6,20,40
+2020-11-29,Chelsea,Tottenham,D,99,19.3,105,24.1,40,40
+2020-11-29,Arsenal,Wolves,A,63,15.2,79,15.2,70,0
+2020-11-30,Leicester,Fulham,A,103,19.2,73,5.3,0,40
+2020-11-30,West Ham,Aston Villa,H,79,14.3,85,16.1,30,30
+2020-12-05,Burnley,Everton,D,49,10.6,98,17.7,50,50
+2020-12-05,Man City,Fulham,H,122,19.9,75,8.2,80,0
+2020-12-05,West Ham,Man United,A,77,16.2,114,19.4,30,30
+2020-12-05,Chelsea,Leeds,H,98,18.6,104,13.3,37.5,25
+2020-12-06,West Brom,Crystal Palace,A,60,9.6,64,11.4,40,40
+2020-12-06,Sheffield United,Leicester,A,59,5.9,98,17.3,0,100
+2020-12-06,Tottenham,Arsenal,H,99,22.9,62,13.7,30,20
+2020-12-06,Liverpool,Wolves,H,124,25.5,79,17.2,70,10
+2020-12-07,Brighton,Southampton,A,82,10.7,99,17.9,0,25
+2020-12-11,Leeds,West Ham,A,104,12.1,79,15.1,66.66666667,16.66666667
+2020-12-12,Wolves,Aston Villa,A,77,15.5,88,14.5,22.22222222,44.44444444
+2020-12-12,Newcastle,West Brom,H,52,13.8,62,8.9,40,30
+2020-12-12,Man United,Man City,D,113,20.3,123,20.8,40,40
+2020-12-12,Everton,Chelsea,H,101,16.9,104,20.3,20,50
+2020-12-13,Southampton,Sheffield United,H,100,19.5,57,5,100,0
+2020-12-13,Crystal Palace,Tottenham,D,66,13.4,97,24.1,10,80
+2020-12-13,Fulham,Liverpool,D,76,7.4,124,25.7,20,70
+2020-12-13,Arsenal,Burnley,A,63,12.4,51,10.3,80,0
+2020-12-13,Leicester,Brighton,H,97,18.9,76,9.9,75,0
+2020-12-15,Wolves,Chelsea,H,80,14.3,104,18.5,20,80
+2020-12-15,Man City,West Brom,D,118,20.2,63,7.9,100,0
+2020-12-16,Arsenal,Southampton,D,67,11.2,98,20.6,40,20
+2020-12-16,Leeds,Newcastle,H,104,10.8,59,15.7,12.5,75
+2020-12-16,Leicester,Everton,A,101,20.3,105,18.2,40,40
+2020-12-16,Fulham,Brighton,D,77,8.1,78,8.9,0,0
+2020-12-16,Liverpool,Tottenham,H,124,24.4,102,23.1,50,10
+2020-12-16,West Ham,Crystal Palace,D,85,16.7,67,13.3,40,30
+2020-12-17,Aston Villa,Burnley,D,88,16.6,49,12.5,33.33333333,16.66666667
+2020-12-17,Sheffield United,Man United,A,55,4.1,107,20.1,0,66.66666667
+2020-12-19,Crystal Palace,Liverpool,A,65,13.1,132,24.6,40,60
+2020-12-19,Southampton,Man City,A,98,19.9,113,18.8,10,80
+2020-12-19,Everton,Arsenal,H,106,19.4,69,10.9,10,70
+2020-12-19,Newcastle,Fulham,D,60,14.5,77,8.3,30,60
+2020-12-20,Brighton,Sheffield United,D,77,9.2,57,3.5,0,100
+2020-12-20,Tottenham,Leicester,A,99,21.3,103,18.7,50,30
+2020-12-20,Man United,Leeds,H,107,21,104,12.9,50,12.5
+2020-12-20,West Brom,Aston Villa,A,58,8.2,95,16,30,20
+2020-12-21,Burnley,Wolves,H,52,12.1,76,15.6,0,75
+2020-12-21,Chelsea,West Ham,H,104,16.9,83,16.9,40,30
+2020-12-26,Leicester,Man United,D,99,19.8,111,22.8,10,60
+2020-12-26,Aston Villa,Crystal Palace,H,99,17.8,66,11.9,22.22222222,55.55555556
+2020-12-26,Fulham,Southampton,D,80,8.9,96,18,30,20
+2020-12-26,Arsenal,Chelsea,H,69,9.8,107,18.4,10,50
+2020-12-26,Man City,Newcastle,H,115,20.4,63,14.1,80,0
+2020-12-26,Sheffield United,Everton,A,60,3.9,99,20.5,33.33333333,33.33333333
+2020-12-27,Leeds,Burnley,H,104,11.6,56,14.3,0,0
+2020-12-27,West Ham,Brighton,D,76,15.2,76,9.2,0,60
+2020-12-27,Liverpool,West Brom,D,133,25.5,56,7.2,40,0
+2020-12-27,Wolves,Tottenham,D,77,14.7,95,19.2,20,60
+2020-12-28,Crystal Palace,Leicester,D,69,10.9,91,19.2,44.44444444,44.44444444
+2020-12-28,Chelsea,Aston Villa,D,105,16.8,107,19.1,90,10
+2020-12-29,Brighton,Arsenal,A,75,9.4,72,11.5,66.66666667,33.33333333
+2020-12-29,Burnley,Sheffield United,H,61,13.1,60,3.4,0,100
+2020-12-29,Southampton,West Ham,D,95,17.5,78,15.3,40,50
+2020-12-29,West Brom,Leeds,A,56,7.4,101,13.7,0,50
+2020-12-29,Man United,Wolves,H,110,21.4,79,14,50,20
+2020-12-30,Newcastle,Liverpool,D,60,13.2,128,23.7,20,50
+2021-01-01,Everton,West Ham,A,100,21.7,75,14.9,40,30
+2021-01-01,Man United,Aston Villa,H,109,23.2,107,18.6,80,0
+2021-01-02,Tottenham,Leeds,H,93,18.7,105,15.7,50,37.5
+2021-01-02,Crystal Palace,Sheffield United,H,67,10.8,60,2.7,0,100
+2021-01-02,Brighton,Wolves,D,75,8.6,80,13.1,50,0
+2021-01-02,West Brom,Arsenal,A,53,6.4,71,13.4,20,60
+2021-01-03,Newcastle,Leicester,A,60,12.7,89,18.3,30,70
+2021-01-03,Chelsea,Man City,A,102,16.3,117,21.2,30,50
+2021-01-04,Southampton,Liverpool,H,88,16.7,127,22.6,10,60
+2021-01-12,Sheffield United,Newcastle,H,58,2.2,61,11.8,33.33333333,66.66666667
+2021-01-12,Burnley,Man United,A,63,15,112,24,10,60
+2021-01-12,Wolves,Everton,A,80,12.3,96,19.8,10,40
+2021-01-13,Man City,Brighton,H,116,22.5,77,8.8,100,0
+2021-01-13,Tottenham,Fulham,D,96,19.7,80,9,90,10
+2021-01-14,Arsenal,Crystal Palace,D,79,15.1,68,12.9,50,10
+2021-01-16,Wolves,West Brom,A,80,11.5,50,5.6,25,50
+2021-01-16,Leeds,Brighton,A,104,14.6,70,8,0,0
+2021-01-16,West Ham,Burnley,H,78,16.9,61,13.8,60,30
+2021-01-16,Fulham,Chelsea,A,81,9.5,100,14.8,0,60
+2021-01-16,Leicester,Southampton,H,84,19.9,86,18.4,50,20
+2021-01-17,Sheffield United,Tottenham,A,61,4.8,97,19.1,33.33333333,33.33333333
+2021-01-17,Liverpool,Man United,D,122,20,115,25.5,10,50
+2021-01-17,Man City,Crystal Palace,H,110,23.3,70,12.8,70,10
+2021-01-18,Arsenal,Newcastle,H,81,14.8,62,10.2,90,10
+2021-01-19,West Ham,West Brom,H,78,18.5,53,7.9,30,20
+2021-01-19,Leicester,Chelsea,H,81,20.9,98,16.5,10,50
+2021-01-20,Man City,Aston Villa,H,110,24.6,106,16.9,80,10
+2021-01-20,Fulham,Man United,A,79,8.5,112,24.3,0,80
+2021-01-21,Liverpool,Burnley,A,120,19.1,58,12.4,80,10
+2021-01-23,Aston Villa,Newcastle,H,109,15.3,61,9.4,10,50
+2021-01-26,Crystal Palace,West Ham,A,67,11.7,78,20.2,20,40
+2021-01-26,Newcastle,Leeds,A,57,8.1,102,13.3,66.66666667,22.22222222
+2021-01-26,Southampton,Arsenal,A,83,16.8,85,16.3,20,40
+2021-01-26,West Brom,Man City,A,54,7.2,114,25.4,0,90
+2021-01-27,Burnley,Aston Villa,H,60,14.2,111,16.9,14.28571429,28.57142857
+2021-01-27,Chelsea,Wolves,D,100,15,83,9.9,70,30
+2021-01-27,Brighton,Fulham,D,66,10.2,80,7.9,0,0
+2021-01-27,Everton,Leicester,D,96,20.7,83,22.2,50,40
+2021-01-27,Man United,Sheffield United,A,112,25.5,63,4.4,75,0
+2021-01-28,Tottenham,Liverpool,A,99,19.8,117,16.8,10,50
+2021-01-30,Everton,Newcastle,A,90,20.1,60,7.4,60,20
+2021-01-30,Crystal Palace,Wolves,H,68,10.5,80,10.1,0,66.66666667
+2021-01-30,Man City,Sheffield United,H,116,26.5,60,6.7,80,0
+2021-01-30,West Brom,Fulham,D,54,6.5,76,8.2,10,50
+2021-01-30,Arsenal,Man United,D,83,18,113,23.2,40,30
+2021-01-30,Southampton,Aston Villa,A,84,15.2,116,15.3,60,10
+2021-01-31,Chelsea,Burnley,H,104,14.5,63,16.1,70,10
+2021-01-31,Leicester,Leeds,A,86,21.2,97,15.2,42.85714286,42.85714286
+2021-01-31,West Ham,Liverpool,A,85,21.5,118,18.1,20,70
+2021-01-31,Brighton,Tottenham,H,69,10.4,98,18.2,16.66666667,66.66666667
+2021-02-02,Sheffield United,West Brom,H,59,6.6,56,7.1,0,100
+2021-02-02,Wolves,Arsenal,H,80,8.6,80,17.3,10,60
+2021-02-02,Man United,Southampton,H,112,22.2,87,13.9,40,20
+2021-02-02,Newcastle,Crystal Palace,A,61,9.2,67,12.4,50,10
+2021-02-03,Burnley,Man City,A,57,14.9,114,27.3,10,70
+2021-02-03,Fulham,Leicester,A,79,8.6,87,19.3,50,0
+2021-02-03,Leeds,Everton,A,104,16.9,88,17.8,33.33333333,33.33333333
+2021-02-03,Aston Villa,West Ham,A,115,16.7,84,20,20,40
+2021-02-03,Liverpool,Brighton,A,117,19.1,71,12.4,80,0
+2021-02-04,Tottenham,Chelsea,A,92,15.9,107,16.1,40,30
+2021-02-06,Aston Villa,Arsenal,H,113,15.4,80,16,20,70
+2021-02-06,Burnley,Brighton,D,52,13.6,69,14.6,20,0
+2021-02-06,Newcastle,Southampton,H,66,8.5,83,12.3,20,50
+2021-02-06,Fulham,West Ham,D,78,7.9,91,21,30,50
+2021-02-06,Man United,Everton,D,123,23.2,86,19.2,60,10
+2021-02-07,Tottenham,West Brom,H,89,14.6,56,6.4,30,20
+2021-02-07,Wolves,Leicester,D,86,10.8,86,20.3,16.66666667,33.33333333
+2021-02-07,Liverpool,Man City,A,112,17.4,111,28.1,60,10
+2021-02-07,Sheffield United,Chelsea,A,64,8.9,106,17.5,0,75
+2021-02-08,Leeds,Crystal Palace,H,108,15.6,65,14.2,0,100
+2021-02-13,Leicester,Liverpool,H,82,19.7,107,15.4,20,80
+2021-02-13,Crystal Palace,Burnley,A,67,13.1,57,13.7,44.44444444,44.44444444
+2021-02-13,Man City,Tottenham,H,111,28.9,89,15.6,30,50
+2021-02-13,Brighton,Aston Villa,D,66,14.3,119,16.5,33.33333333,33.33333333
+2021-02-14,Southampton,Wolves,A,81,11,85,10.6,33.33333333,33.33333333
+2021-02-14,West Brom,Man United,D,54,5.9,126,22.1,30,50
+2021-02-14,Arsenal,Leeds,H,80,14.5,108,17,44.44444444,33.33333333
+2021-02-14,Everton,Fulham,A,85,18.2,74,8.2,80,0
+2021-02-15,West Ham,Sheffield United,H,85,20.5,63,8.8,40,40
+2021-02-15,Chelsea,Newcastle,H,99,19.1,69,10.3,60,30
+2021-02-17,Burnley,Fulham,D,58,15.4,74,10.5,0,66.66666667
+2021-02-17,Everton,Man City,A,80,16.6,115,29.7,10,50
+2021-02-19,Wolves,Leeds,H,84,12.5,104,15.7,66.66666667,33.33333333
+2021-02-20,Southampton,Chelsea,D,83,9.4,98,20.2,20,70
+2021-02-20,Burnley,West Brom,D,57,15.4,55,6.2,14.28571429,42.85714286
+2021-02-20,Liverpool,Everton,A,103,14,77,14.8,50,0
+2021-02-20,Fulham,Sheffield United,H,75,10.7,66,7.8,33.33333333,33.33333333
+2021-02-21,West Ham,Tottenham,H,88,21.2,80,14.3,20,50
+2021-02-21,Aston Villa,Leicester,A,115,16.2,88,20.7,40,40
+2021-02-21,Arsenal,Man City,A,80,16.5,117,30.2,20,60
+2021-02-21,Man United,Newcastle,H,119,21.1,68,9.6,60,20
+2021-02-22,Brighton,Crystal Palace,A,72,14.5,70,11.9,20,20
+2021-02-23,Leeds,Southampton,H,104,14.1,77,9.1,37.5,37.5
+2021-02-27,Man City,West Ham,H,113,30.8,88,22.9,70,10
+2021-02-27,West Brom,Brighton,H,52,6.8,74,13.1,33.33333333,33.33333333
+2021-02-27,Leeds,Aston Villa,A,109,16.1,106,14.3,44.44444444,22.22222222
+2021-02-27,Newcastle,Wolves,D,70,8.2,86,14.2,20,10
+2021-02-28,Crystal Palace,Fulham,D,71,13.8,76,12.7,50,33.33333333
+2021-02-28,Leicester,Arsenal,A,90,22.3,78,15,30,60
+2021-02-28,Tottenham,Burnley,H,76,12.3,54,14.8,70,10
+2021-02-28,Chelsea,Man United,D,96,19.6,122,21.9,20,40
+2021-02-28,Sheffield United,Liverpool,A,62,7.7,101,12.3,0,80
+2021-03-01,Everton,Southampton,H,77,16.5,76,7.8,50,30
+2021-03-02,Man City,Wolves,H,108,31.3,87,14.1,60,30
+2021-03-03,Burnley,Leicester,D,57,13.8,91,20,30,50
+2021-03-03,Sheffield United,Aston Villa,H,62,6.7,106,16.2,25,50
+2021-03-03,Crystal Palace,Man United,D,61,13.6,124,21.1,20,60
+2021-03-04,Fulham,Tottenham,A,77,12.8,77,14.1,10,80
+2021-03-04,West Brom,Everton,A,51,9,73,18,10,50
+2021-03-04,Liverpool,Chelsea,A,104,13.9,101,18.7,40,10
+2021-03-06,Burnley,Arsenal,D,63,13.1,78,17,10,80
+2021-03-06,Sheffield United,Southampton,A,63,9.7,71,6.7,0,100
+2021-03-06,Aston Villa,Wolves,D,106,14.6,83,12.8,50,20
+2021-03-06,Brighton,Leicester,A,77,12.2,87,19.3,0,80
+2021-03-07,West Brom,Newcastle,D,53,8.6,75,8.8,30,40
+2021-03-07,Liverpool,Fulham,A,100,12.3,74,11.6,70,20
+2021-03-07,Man City,Man United,A,116,31.7,120,19.7,30,40
+2021-03-07,Tottenham,Crystal Palace,H,76,15.4,61,13.3,80,10
+2021-03-08,Chelsea,Everton,H,97,20.1,74,19.7,40,30
+2021-03-08,West Ham,Leeds,H,89,20.6,103,14.6,28.57142857,57.14285714
+2021-03-10,Man City,Southampton,H,117,29.2,72,8.5,80,10
+2021-03-12,Newcastle,Aston Villa,D,76,8.4,97,14.5,40,20
+2021-03-13,Leeds,Chelsea,D,101,13.3,97,21.2,22.22222222,44.44444444
+2021-03-13,Crystal Palace,West Brom,H,56,12.3,54,8.6,50,30
+2021-03-13,Everton,Burnley,A,71,18,64,13.1,50,40
+2021-03-13,Fulham,Man City,A,74,13.6,121,29.4,0,80
+2021-03-14,Southampton,Brighton,A,70,7.7,77,10.9,40,0
+2021-03-14,Leicester,Sheffield United,H,88,20.3,62,8.7,100,0
+2021-03-14,Arsenal,Tottenham,H,79,16.5,78,17,20,40
+2021-03-14,Man United,West Ham,H,119,20.8,91,22.1,30,30
+2021-03-15,Wolves,Liverpool,A,83,12.7,100,10.9,10,80
+2021-03-19,Fulham,Leeds,A,68,12.7,102,13.1,42.85714286,42.85714286
+2021-03-20,Brighton,Newcastle,H,80,13.1,77,9,60,0
+2021-03-21,West Ham,Arsenal,D,84,19.9,80,18.2,10,70
+2021-03-21,Aston Villa,Tottenham,A,97,13.9,76,15.3,10,90
+2021-04-03,Chelsea,West Brom,A,102,20.6,53,8.2,60,10
+2021-04-03,Leeds,Sheffield United,H,102,14.8,57,8.4,100,0
+2021-04-03,Leicester,Man City,A,94,21.8,122,29.9,30,60
+2021-04-03,Arsenal,Liverpool,A,85,17.9,91,12.6,10,50
+2021-04-04,Southampton,Burnley,H,72,6.5,68,14.4,30,50
+2021-04-04,Newcastle,Tottenham,D,77,7.8,77,16.9,40,50
+2021-04-04,Aston Villa,Fulham,H,94,12.7,69,11.4,30,30
+2021-04-04,Man United,Brighton,H,117,21.6,83,14.8,60,40
+2021-04-05,Everton,Crystal Palace,D,74,16.4,55,13.9,50,0
+2021-04-05,Wolves,West Ham,A,79,11.7,86,19.1,42.85714286,42.85714286
+2021-04-09,Fulham,Wolves,A,75,10.5,79,10.5,22.22222222,44.44444444
+2021-04-10,Man City,Leeds,A,124,30.1,103,16.5,28.57142857,42.85714286
+2021-04-10,Liverpool,Aston Villa,H,96,14.3,92,14.3,60,30
+2021-04-10,Crystal Palace,Chelsea,A,58,14.2,107,18.7,30,70
+2021-04-11,Burnley,Newcastle,A,70,13.6,76,8.3,28.57142857,28.57142857
+2021-04-11,West Ham,Leicester,H,90,20.2,93,19.8,20,50
+2021-04-11,Tottenham,Man United,A,81,16.5,118,22.7,50,50
+2021-04-11,Sheffield United,Arsenal,A,53,7.4,85,16.3,40,40
+2021-04-12,West Brom,Southampton,H,54,10.1,76,9,20,60
+2021-04-12,Brighton,Everton,D,83,13.8,74,15.7,16.66666667,66.66666667
+2021-04-16,Everton,Tottenham,D,67,15.1,81,15.1,10,50
+2021-04-17,Newcastle,West Ham,H,74,10.1,88,21.6,70,30
+2021-04-17,Wolves,Sheffield United,H,79,12.6,54,7.1,50,0
+2021-04-18,Arsenal,Fulham,D,88,18,73,9.5,60,10
+2021-04-18,Man United,Burnley,H,123,23.5,72,11.6,60,10
+2021-04-19,Leeds,Liverpool,D,102,18,100,16,22.22222222,55.55555556
+2021-04-20,Chelsea,Brighton,D,106,20.3,82,13.5,80,0
+2021-04-21,Tottenham,Southampton,H,78,14.7,77,7.9,70,20
+2021-04-21,Aston Villa,Man City,A,95,13.1,124,27.6,10,80
+2021-04-22,Leicester,West Brom,H,94,18,56,12.7,55.55555556,22.22222222
+2021-04-23,Arsenal,Everton,A,87,17.4,68,14.6,70,20
+2021-04-24,Liverpool,Newcastle,D,101,15.5,78,12.8,40,20
+2021-04-24,West Ham,Chelsea,A,86,19.7,107,19.5,30,40
+2021-04-24,Sheffield United,Brighton,H,56,6.1,80,13.6,50,0
+2021-04-25,Wolves,Burnley,A,77,14.7,71,10.9,60,20
+2021-04-25,Leeds,Man United,D,100,17.7,124,24.6,11.11111111,55.55555556
+2021-04-25,Aston Villa,West Brom,D,91,11.4,54,11.6,30,20
+2021-04-26,Leicester,Crystal Palace,H,95,19,53,12.5,40,40
+2021-04-30,Southampton,Leicester,D,76,7.1,98,20.5,20,50
+2021-05-01,Crystal Palace,Man City,A,50,11.7,122,27.6,10,70
+2021-05-01,Brighton,Leeds,H,80,12.2,93,16.9,100,0
+2021-05-01,Chelsea,Fulham,H,110,21.1,70,9.6,60,0
+2021-05-01,Everton,Aston Villa,A,65,15.9,92,11.5,60,20
+2021-05-02,Newcastle,Arsenal,A,77,12.6,86,15.8,10,90
+2021-05-02,Tottenham,Sheffield United,H,79,16.6,53,8.8,50,25
+2021-05-03,West Brom,Wolves,D,57,11.9,75,13.5,60,20
+2021-05-03,Burnley,West Ham,A,74,12.2,86,17.8,30,60
+2021-05-07,Leicester,Newcastle,A,103,19.5,76,12,80,20
+2021-05-08,Leeds,Tottenham,H,92,15.5,87,18.2,33.33333333,55.55555556
+2021-05-08,Sheffield United,Crystal Palace,A,51,7.8,52,10.3,66.66666667,33.33333333
+2021-05-08,Man City,Chelsea,A,119,28.2,108,22.2,60,30
+2021-05-08,Liverpool,Southampton,H,99,15.2,76,7.3,50,20
+2021-05-09,Wolves,Brighton,H,82,13.3,80,14.2,0,33.33333333
+2021-05-09,Aston Villa,Man United,A,87,12.9,114,23.2,0,80
+2021-05-09,West Ham,Everton,A,90,19.2,62,14.4,40,30
+2021-05-09,Arsenal,West Brom,H,89,17.1,60,11.8,70,20
+2021-05-10,Fulham,Burnley,A,69,8.7,71,11.6,50,0
+2021-05-11,Man United,Leicester,A,117,24.3,110,17.7,60,0
+2021-05-11,Southampton,Crystal Palace,H,79,6.8,57,12.6,50,40
+2021-05-12,Chelsea,Arsenal,A,110,23.5,89,18.6,50,20
+2021-05-13,Aston Villa,Everton,D,90,12.2,63,15.7,30,60
+2021-05-13,Man United,Liverpool,A,115,22.1,97,16.7,40,10
+2021-05-14,Newcastle,Man City,A,80,13.8,117,25.2,0,80
+2021-05-15,Burnley,Leeds,A,73,12.9,95,16.9,0,100
+2021-05-15,Southampton,Fulham,H,83,9,71,7.8,20,30
+2021-05-15,Brighton,West Ham,D,79,12.9,86,17.4,50,0
+2021-05-16,Crystal Palace,Aston Villa,H,55,11.3,87,11.6,50,30
+2021-05-16,Tottenham,Wolves,H,87,16.8,82,15.4,50,20
+2021-05-16,West Brom,Liverpool,A,58,11.1,103,18.6,0,30
+2021-05-16,Everton,Sheffield United,A,65,15.5,49,7.2,50,25
+2021-05-18,Man United,Fulham,D,109,20,70,7,80,0
+2021-05-18,Southampton,Leeds,A,87,11.5,95,18.5,33.33333333,44.44444444
+2021-05-18,Brighton,Man City,H,79,12.7,117,25.8,0,100
+2021-05-18,Chelsea,Leicester,H,110,21.6,110,18.9,40,20
+2021-05-19,Everton,Wolves,H,69,13.8,80,14.1,40,10
+2021-05-19,Newcastle,Sheffield United,H,83,13.2,49,9.3,50,50
+2021-05-19,Tottenham,Aston Villa,A,93,18.1,88,11,90,10
+2021-05-19,Crystal Palace,Arsenal,A,62,13.3,88,19.6,10,40
+2021-05-19,Burnley,Liverpool,A,77,12.3,105,20.1,20,70
+2021-05-19,West Brom,West Ham,A,60,9.9,86,16.5,20,40
+2021-05-23,Arsenal,Brighton,H,79,21.1,81,14.5,50,50
+2021-05-23,Aston Villa,Chelsea,H,87,12.3,114,22.6,10,80
+2021-05-23,Fulham,Newcastle,A,72,7.2,85,14.8,50,30
+2021-05-23,Leeds,West Brom,H,97,19.9,61,9.3,66.66666667,0
+2021-05-23,Leicester,Tottenham,A,110,17.2,91,16.8,40,40
+2021-05-23,Liverpool,Crystal Palace,H,107,21.8,64,12,70,30
+2021-05-23,Man City,Everton,H,115,23.1,70,15.8,50,10
+2021-05-23,Sheffield United,Burnley,H,48,8.7,79,10.6,50,50
+2021-05-23,West Ham,Southampton,H,90,17.8,87,10.5,40,40
+2021-05-23,Wolves,Man United,A,79,13,108,19.1,10,60
+2021-08-13,Brentford,Arsenal,H,0,0,80,22.1,0,0
+2021-08-14,Man United,Leeds,H,108,20.3,104,21.5,50,10
+2021-08-14,Burnley,Brighton,A,78,10,81,13.2,16.66666667,0
+2021-08-14,Chelsea,Crystal Palace,H,115,20.8,66,10.8,70,30
+2021-08-14,Everton,Southampton,H,71,14.1,89,9.8,50,30
+2021-08-14,Leicester,Wolves,H,111,15.2,80,11.7,28.57142857,14.28571429
+2021-08-14,Watford,Aston Villa,H,58,13.2,80,14.7,50,33.33333333
+2021-08-14,Norwich,Liverpool,A,74,7.6,109,23.1,0,80
+2021-08-15,Newcastle,West Ham,A,88,17.2,93,18.9,70,30
+2021-08-15,Tottenham,Man City,H,90,18.1,117,23.7,40,40
+2021-08-21,Liverpool,Burnley,H,111,24.5,76,8.3,70,20
+2021-08-21,Aston Villa,Newcastle,H,78,13,90,15.5,20,40
+2021-08-21,Crystal Palace,Brentford,D,67,9.8,3,3,0,0
+2021-08-21,Leeds,Everton,D,105,19.6,74,16.1,30,40
+2021-08-21,Man City,Norwich,H,114,21.3,74,6.6,60,20
+2021-08-21,Brighton,Watford,H,87,14.8,60,15.6,40,20
+2021-08-22,Southampton,Man United,D,87,9.1,111,21.6,10,50
+2021-08-22,Wolves,Tottenham,A,77,10.7,91,19.9,20,50
+2021-08-22,Arsenal,Chelsea,A,78,20.6,116,21.5,30,40
+2021-08-23,West Ham,Leicester,H,96,20.2,110,16.8,30,40
+2021-08-28,Man City,Arsenal,H,113,21.9,76,18.4,70,10
+2021-08-28,Aston Villa,Brentford,D,78,15.1,6,4,0,0
+2021-08-28,Brighton,Everton,A,85,16.5,76,15.5,14.28571429,57.14285714
+2021-08-28,Newcastle,Southampton,D,86,14.6,85,9.4,30,40
+2021-08-28,Norwich,Leicester,A,69,6.4,105,15.1,0,66.66666667
+2021-08-28,West Ham,Crystal Palace,D,96,21.3,66,9.7,40,20
+2021-08-28,Liverpool,Chelsea,D,113,25.6,116,23,40,20
+2021-08-29,Burnley,Leeds,D,79,8,102,18.9,0,100
+2021-08-29,Tottenham,Watford,H,93,21.2,59,14,60,10
+2021-08-29,Wolves,Man United,A,83,9.4,111,20.6,10,60
+2021-09-11,Crystal Palace,Tottenham,H,66,9.7,99,22.7,0,90
+2021-09-11,Arsenal,Norwich,H,73,17.2,72,5.4,60,10
+2021-09-11,Brentford,Brighton,A,8,4.7,83,15.1,0,0
+2021-09-11,Leicester,Man City,A,100,16.7,117,22.8,30,60
+2021-09-11,Man United,Newcastle,H,111,21.9,88,13.9,60,20
+2021-09-11,Southampton,West Ham,D,90,9.7,98,20.6,30,50
+2021-09-11,Watford,Wolves,A,59,13.1,85,8.4,66.66666667,33.33333333
+2021-09-11,Chelsea,Aston Villa,H,111,21.4,75,14.7,70,20
+2021-09-12,Leeds,Liverpool,A,97,18.3,115,24.7,20,50
+2021-09-13,Everton,Burnley,H,78,17.2,82,7.6,40,50
+2021-09-17,Newcastle,Leeds,D,86,13,94,16.8,60,30
+2021-09-18,Wolves,Brentford,A,83,10.2,9,4.6,0,0
+2021-09-18,Burnley,Arsenal,A,81,7.3,77,18.3,10,70
+2021-09-18,Liverpool,Crystal Palace,H,123,25.8,67,11.5,80,20
+2021-09-18,Man City,Southampton,D,120,23.4,88,9.9,80,10
+2021-09-18,Norwich,Watford,A,70,5.2,58,11.6,33.33333333,66.66666667
+2021-09-18,Aston Villa,Everton,H,80,13.5,82,18.8,30,50
+2021-09-19,Brighton,Leicester,H,81,16.6,96,15.1,0,83.33333333
+2021-09-19,West Ham,Man United,A,91,19.7,104,22.8,30,40
+2021-09-19,Tottenham,Chelsea,A,94,20.7,113,22.7,30,40
+2021-09-25,Chelsea,Man City,A,120,23.3,115,22.3,40,60
+2021-09-25,Man United,Aston Villa,A,109,23.9,81,15.3,80,0
+2021-09-25,Everton,Norwich,H,81,17.3,75,4.3,30,20
+2021-09-25,Leeds,West Ham,A,98,16.1,94,17.9,50,37.5
+2021-09-25,Leicester,Burnley,D,96,13.4,80,5.8,50,30
+2021-09-25,Watford,Newcastle,D,63,13.8,89,12.5,50,25
+2021-09-25,Brentford,Liverpool,D,12,7.2,130,27.1,0,0
+2021-09-26,Southampton,Wolves,A,87,10.1,82,9.2,28.57142857,42.85714286
+2021-09-26,Arsenal,Tottenham,H,77,20.2,93,18.9,30,30
+2021-09-27,Crystal Palace,Brighton,D,66,10.7,84,18.5,33.33333333,16.66666667
+2021-10-02,Man United,Everton,D,106,21.8,79,18.6,60,0
+2021-10-02,Burnley,Norwich,D,80,6.6,72,4.1,100,0
+2021-10-02,Chelsea,Southampton,H,115,21.6,92,9.2,70,10
+2021-10-02,Leeds,Watford,H,96,14.9,65,13.4,0,0
+2021-10-02,Wolves,Newcastle,H,81,11,91,12.6,10,20
+2021-10-02,Brighton,Arsenal,D,79,18,79,21,40,60
+2021-10-03,Crystal Palace,Leicester,D,66,10.5,95,13.1,30,50
+2021-10-03,Tottenham,Aston Villa,H,93,17.2,80,17.2,80,20
+2021-10-03,West Ham,Brentford,A,92,19.2,16,8.1,0,0
+2021-10-03,Liverpool,Man City,D,132,25.9,112,22.9,50,20
+2021-10-16,Watford,Liverpool,A,62,12.3,130,24.9,10,80
+2021-10-16,Aston Villa,Wolves,A,79,15.7,79,13.1,40,20
+2021-10-16,Leicester,Man United,H,93,12.5,105,20.7,10,50
+2021-10-16,Man City,Burnley,H,112,22,83,6.4,70,10
+2021-10-16,Norwich,Brighton,D,69,4.2,76,17.7,0,100
+2021-10-16,Southampton,Leeds,H,89,8.3,93,16.1,30,50
+2021-10-16,Brentford,Chelsea,A,22,10.4,121,22.2,0,0
+2021-10-17,Everton,West Ham,A,80,18.1,93,17.5,40,40
+2021-10-17,Newcastle,Tottenham,A,87,11.3,94,18.4,40,40
+2021-10-18,Arsenal,Crystal Palace,D,80,20.6,68,10.7,40,10
+2021-10-22,Arsenal,Aston Villa,H,82,19.4,83,14.6,70,30
+2021-10-23,Chelsea,Norwich,H,116,23.8,64,5,80,0
+2021-10-23,Crystal Palace,Newcastle,D,74,10.4,81,10.3,20,40
+2021-10-23,Everton,Watford,A,79,16.4,61,11.1,50,20
+2021-10-23,Leeds,Wolves,D,90,14.9,79,14.9,25,75
+2021-10-23,Southampton,Burnley,D,93,10.5,82,6.2,40,40
+2021-10-23,Brighton,Man City,A,73,17.2,115,22.6,16.66666667,83.33333333
+2021-10-24,Brentford,Leicester,A,29,10.2,101,14.4,0,0
+2021-10-24,West Ham,Tottenham,H,94,18.8,96,19.7,30,50
+2021-10-24,Man United,Liverpool,A,107,18.7,130,25.6,30,20
+2021-10-30,Leicester,Arsenal,A,103,16,88,20.9,30,60
+2021-10-30,Burnley,Brentford,H,80,6,34,9.2,0,0
+2021-10-30,Liverpool,Brighton,D,137,26.5,76,15.8,66.66666667,16.66666667
+2021-10-30,Man City,Crystal Palace,A,119,23.9,75,10.8,80,0
+2021-10-30,Newcastle,Chelsea,A,78,10,124,24.2,20,70
+2021-10-30,Watford,Southampton,A,68,13,92,10.6,12.5,37.5
+2021-10-30,Tottenham,Man United,A,95,17.9,110,16.8,50,50
+2021-10-31,Norwich,Leeds,A,62,4.3,92,14.1,0,0
+2021-10-31,Aston Villa,West Ham,A,81,13.1,93,20.4,20,40
+2021-11-01,Wolves,Everton,H,82,15,82,15.1,0,50
+2021-11-05,Southampton,Aston Villa,H,87,12.5,83,12.1,50,20
+2021-11-06,Man United,Man City,A,108,17.9,116,21.5,40,30
+2021-11-06,Brentford,Norwich,A,39,9,61,4.1,0,0
+2021-11-06,Chelsea,Burnley,D,121,25.6,81,8.8,70,10
+2021-11-06,Crystal Palace,Wolves,H,77,12.5,84,16.6,25,50
+2021-11-06,Brighton,Newcastle,D,76,15.2,76,9.1,66.66666667,0
+2021-11-07,Arsenal,Watford,H,90,21.9,69,11.8,70,20
+2021-11-07,Everton,Tottenham,D,83,13.7,92,16.2,10,40
+2021-11-07,Leeds,Leicester,D,94,15.9,107,14.6,50,37.5
+2021-11-07,West Ham,Liverpool,H,102,21.4,137,25.2,20,70
+2021-11-20,Leicester,Chelsea,A,100,14,117,24,20,40
+2021-11-20,Aston Villa,Brighton,H,82,10.7,75,14.8,25,25
+2021-11-20,Burnley,Crystal Palace,D,78,8.6,79,14.9,50,40
+2021-11-20,Newcastle,Brentford,D,76,8.8,46,8,0,0
+2021-11-20,Norwich,Southampton,H,63,6.4,86,14.8,33.33333333,44.44444444
+2021-11-20,Watford,Man United,H,68,10.4,105,16.1,20,80
+2021-11-20,Wolves,West Ham,H,81,15.6,100,23,37.5,50
+2021-11-20,Liverpool,Arsenal,H,138,22.8,89,23.2,60,0
+2021-11-21,Man City,Everton,H,111,22.8,78,13.4,60,10
+2021-11-21,Tottenham,Leeds,H,89,15.7,95,15,50,40
+2021-11-27,Arsenal,Newcastle,H,90,21.2,79,9,90,10
+2021-11-27,Crystal Palace,Aston Villa,A,81,14.3,82,12.7,60,30
+2021-11-27,Liverpool,Southampton,H,140,23.4,82,13.4,60,20
+2021-11-27,Norwich,Wolves,D,60,9.2,81,17,33.33333333,33.33333333
+2021-11-27,Brighton,Leeds,D,74,13.4,94,13.6,100,0
+2021-11-28,Brentford,Everton,H,50,8.8,78,12,0,0
+2021-11-28,Leicester,Watford,H,101,12.9,72,12.3,75,25
+2021-11-28,Man City,West Ham,H,111,23.4,97,20.7,80,0
+2021-11-28,Chelsea,Man United,D,116,25.4,101,14.2,20,40
+2021-11-30,Newcastle,Norwich,D,79,7.6,58,9.3,40,30
+2021-11-30,Leeds,Crystal Palace,H,96,12.9,83,13.7,50,50
+2021-12-01,Southampton,Leicester,D,81,12.4,104,14.5,20,50
+2021-12-01,Watford,Chelsea,A,75,10.9,112,23.8,11.11111111,66.66666667
+2021-12-01,West Ham,Brighton,D,96,19.1,75,13.2,0,42.85714286
+2021-12-01,Wolves,Burnley,D,80,17,82,9.2,50,33.33333333
+2021-12-01,Aston Villa,Man City,A,82,14.6,116,24.7,10,80
+2021-12-01,Everton,Liverpool,A,76,10.7,136,24.3,10,50
+2021-12-02,Tottenham,Brentford,H,88,17,54,10.8,0,0
+2021-12-02,Man United,Arsenal,H,96,13.7,91,22.3,30,30
+2021-12-04,West Ham,Chelsea,H,96,18.1,112,24.9,30,40
+2021-12-04,Newcastle,Burnley,H,72,7.8,79,9.2,37.5,25
+2021-12-04,Southampton,Brighton,D,83,12.3,76,12.8,33.33333333,16.66666667
+2021-12-04,Wolves,Liverpool,A,77,16.1,136,24.9,10,80
+2021-12-04,Watford,Man City,A,75,9.8,116,25.3,0,80
+2021-12-05,Leeds,Brentford,D,94,14.8,56,10.5,0,0
+2021-12-05,Man United,Crystal Palace,H,97,15.1,82,12.1,50,20
+2021-12-05,Tottenham,Norwich,H,91,18.7,62,9.8,50,20
+2021-12-05,Aston Villa,Leicester,H,74,13.3,103,14.4,40,40
+2021-12-06,Everton,Arsenal,H,77,9.4,94,20.3,30,60
+2021-12-10,Brentford,Watford,H,59,10.2,76,8.5,0,0
+2021-12-11,Man City,Wolves,H,126,26.6,76,15.3,60,30
+2021-12-11,Arsenal,Southampton,H,94,18.4,84,12.3,40,20
+2021-12-11,Chelsea,Leeds,H,113,22.5,97,14.3,40,20
+2021-12-11,Liverpool,Aston Villa,H,132,25.8,73,14.9,70,20
+2021-12-11,Norwich,Man United,A,59,8.8,96,16.8,20,80
+2021-12-12,Burnley,West Ham,D,77,8.7,99,19.8,20,70
+2021-12-12,Leicester,Newcastle,H,103,12.7,72,9.7,80,20
+2021-12-12,Crystal Palace,Everton,H,80,11.5,79,11.2,0,50
+2021-12-14,Norwich,Aston Villa,A,61,8.3,68,13.7,20,70
+2021-12-14,Man City,Leeds,H,133,26.9,100,13,25,50
+2021-12-15,Brighton,Wolves,A,76,12.6,67,13.6,25,25
+2021-12-15,Crystal Palace,Southampton,D,78,12.9,84,11.1,30,60
+2021-12-15,Arsenal,West Ham,H,94,19.5,98,18.7,60,10
+2021-12-16,Chelsea,Everton,D,114,23.4,82,10.2,40,30
+2021-12-16,Liverpool,Newcastle,H,131,26.2,74,9.1,40,20
+2021-12-18,Leeds,Arsenal,A,96,11.5,95,20.6,30,50
+2021-12-19,Newcastle,Man City,A,70,7.8,144,28.2,0,80
+2021-12-19,Wolves,Chelsea,D,66,15.8,119,22.3,30,60
+2021-12-19,Tottenham,Liverpool,D,95,19.8,131,26.9,10,60
+2021-12-26,Man City,Leicester,H,145,28.5,99,14.8,60,30
+2021-12-26,Norwich,Arsenal,A,59,7.4,105,21.7,10,60
+2021-12-26,Tottenham,Crystal Palace,H,97,19.2,80,13.3,80,10
+2021-12-26,West Ham,Southampton,A,99,17.1,82,11.1,50,30
+2021-12-26,Aston Villa,Chelsea,A,72,15.3,115,21.2,20,70
+2021-12-26,Brighton,Brentford,H,73,11.2,64,12.9,100,0
+2021-12-27,Newcastle,Man United,D,66,7.2,94,18.2,20,60
+2021-12-28,Crystal Palace,Norwich,H,72,11.7,59,6.9,37.5,12.5
+2021-12-28,Southampton,Tottenham,D,81,12.9,92,20.1,20,70
+2021-12-28,Watford,West Ham,A,72,7.7,101,15.2,44.44444444,33.33333333
+2021-12-28,Leicester,Liverpool,H,98,13.4,131,25.3,30,70
+2021-12-29,Chelsea,Brighton,D,113,22.3,75,12.9,66.66666667,0
+2021-12-29,Brentford,Man City,A,70,11.5,150,29.5,0,0
+2021-12-30,Man United,Burnley,H,97,17.7,71,8.6,70,10
+2022-01-01,Arsenal,Man City,A,108,22.8,142,29.8,0,80
+2022-01-01,Watford,Tottenham,A,75,6.7,100,19.7,10,60
+2022-01-01,Crystal Palace,West Ham,A,72,14,98,16.6,20,40
+2022-01-02,Brentford,Aston Villa,H,72,10.9,68,14.1,0,0
+2022-01-02,Everton,Brighton,A,80,9.7,79,12.8,62.5,12.5
+2022-01-02,Leeds,Burnley,H,92,10.2,71,8.1,66.66666667,0
+2022-01-02,Chelsea,Liverpool,D,111,21.1,132,23,20,30
+2022-01-03,Man United,Wolves,A,100,19.1,64,15.2,60,10
+2022-01-11,Southampton,Brentford,H,80,13.1,76,12.5,0,0
+2022-01-12,West Ham,Norwich,H,96,17.8,58,6.3,42.85714286,14.28571429
+2022-01-14,Brighton,Crystal Palace,D,78,14.2,74,12.7,14.28571429,28.57142857
+2022-01-15,Man City,Chelsea,H,140,30.5,111,20.2,60,40
+2022-01-15,Newcastle,Watford,D,69,7.2,77,6.2,22.22222222,44.44444444
+2022-01-15,Norwich,Everton,H,60,5.8,80,9,20,30
+2022-01-15,Wolves,Southampton,H,67,17.4,81,14.9,50,25
+2022-01-15,Aston Villa,Man United,D,69,12.5,96,17.5,10,70
+2022-01-16,Liverpool,Brentford,H,133,21.6,80,11.9,0,0
+2022-01-16,West Ham,Leeds,A,92,19.2,92,12,44.44444444,44.44444444
+2022-01-18,Brighton,Chelsea,D,81,14.1,107,17.9,0,57.14285714
+2022-01-19,Leicester,Tottenham,A,96,15.3,96,20.6,40,40
+2022-01-19,Brentford,Man United,A,78,10.2,98,16.6,0,0
+2022-01-21,Watford,Norwich,A,80,6.3,60,8.3,75,25
+2022-01-22,Everton,Aston Villa,A,81,7.5,75,12.3,50,40
+2022-01-22,Brentford,Wolves,A,83,9.6,68,18.7,100,0
+2022-01-22,Leeds,Newcastle,A,88,14,66,7.6,30,50
+2022-01-22,Man United,West Ham,H,95,18.1,90,17.4,50,30
+2022-01-22,Southampton,Man City,D,88,14,142,30.8,10,70
+2022-01-23,Arsenal,Burnley,D,105,20.9,68,7.2,70,10
+2022-01-23,Crystal Palace,Liverpool,A,74,12.7,138,22.6,10,90
+2022-01-23,Leicester,Brighton,D,97,13.9,75,13.5,71.42857143,14.28571429
+2022-01-23,Chelsea,Tottenham,H,107,17.2,102,22.1,50,30
+2022-02-05,Burnley,Watford,D,65,7.7,82,5.8,66.66666667,33.33333333
+2022-02-08,Newcastle,Everton,H,66,9.8,79,6.8,20,60
+2022-02-08,West Ham,Watford,H,87,15.8,80,5.8,40,40
+2022-02-08,Burnley,Man United,D,63,8.1,94,19.4,10,70
+2022-02-09,Man City,Brentford,H,137,29.2,82,8.2,100,0
+2022-02-09,Norwich,Crystal Palace,D,62,10.8,77,11.4,11.11111111,44.44444444
+2022-02-09,Tottenham,Southampton,A,101,20,88,13.5,70,10
+2022-02-09,Aston Villa,Leeds,D,76,14,89,12.8,30,40
+2022-02-10,Liverpool,Leicester,H,136,23.4,96,13.8,70,30
+2022-02-10,Wolves,Arsenal,A,67,20.6,106,20,20,50
+2022-02-12,Man United,Southampton,D,96,18.9,92,15.6,40,10
+2022-02-12,Brentford,Crystal Palace,D,83,7.7,80,11.3,0,0
+2022-02-12,Everton,Leeds,H,76,5.6,93,12.8,40,20
+2022-02-12,Watford,Brighton,A,80,5.4,77,13.3,16.66666667,50
+2022-02-12,Norwich,Man City,A,59,11,136,29.5,20,60
+2022-02-13,Burnley,Liverpool,A,63,8.5,140,24.4,20,70
+2022-02-13,Newcastle,Aston Villa,H,74,12.4,78,14,30,30
+2022-02-13,Tottenham,Wolves,A,101,18.2,65,18.6,60,10
+2022-02-13,Leicester,West Ham,D,92,12.4,87,17.3,40,40
+2022-02-15,Man United,Brighton,H,97,18,80,14.9,66.66666667,33.33333333
+2022-02-19,West Ham,Newcastle,D,86,16.8,71,14.3,30,70
+2022-02-19,Arsenal,Brentford,H,105,21.4,82,7.4,0,100
+2022-02-19,Aston Villa,Watford,A,74,12.4,79,4.6,28.57142857,57.14285714
+2022-02-19,Brighton,Burnley,A,81,13.9,65,7.8,14.28571429,14.28571429
+2022-02-19,Crystal Palace,Chelsea,A,79,11.1,110,18.2,20,80
+2022-02-19,Liverpool,Norwich,H,135,25.2,61,10.2,90,0
+2022-02-19,Southampton,Everton,H,93,15.1,78,7.9,30,50
+2022-02-19,Man City,Tottenham,A,144,30.1,102,16.4,40,40
+2022-02-20,Leeds,Man United,A,91,11.6,94,19.7,10,50
+2022-02-20,Wolves,Leicester,H,66,20.2,93,12.2,12.5,37.5
+2022-02-23,Burnley,Tottenham,H,66,10.1,99,17.9,10,70
+2022-02-23,Watford,Crystal Palace,A,81,7.2,77,10,25,37.5
+2022-02-23,Liverpool,Leeds,H,133,26,93,10.6,60,10
+2022-02-24,Arsenal,Wolves,H,113,22.4,64,21.2,50,20
+2022-02-25,Southampton,Norwich,H,102,17,57,9.3,40,40
+2022-02-26,Leeds,Tottenham,A,86,9.5,100,16.4,30,60
+2022-02-26,Brentford,Newcastle,A,80,6.9,71,14.6,0,0
+2022-02-26,Crystal Palace,Burnley,D,79,12,67,12.4,40,50
+2022-02-26,Man United,Watford,D,99,21,74,6.4,70,30
+2022-02-26,Brighton,Aston Villa,A,77,12.2,69,11.6,20,40
+2022-02-26,Everton,Man City,A,73,7,144,27.4,10,60
+2022-02-27,West Ham,Wolves,H,82,16.1,66,19.5,44.44444444,44.44444444
+2022-03-01,Burnley,Leicester,A,62,12.4,97,11.1,30,40
+2022-03-05,Leicester,Leeds,H,102,12.8,84,8.5,33.33333333,44.44444444
+2022-03-05,Aston Villa,Southampton,H,70,13.1,105,18.5,20,50
+2022-03-05,Burnley,Chelsea,A,61,11.5,103,19.5,10,70
+2022-03-05,Newcastle,Brighton,H,75,16.3,74,11.5,0,57.14285714
+2022-03-05,Norwich,Brentford,A,56,8.5,75,5.8,100,0
+2022-03-05,Wolves,Crystal Palace,A,64,17.5,79,11.9,40,40
+2022-03-05,Liverpool,West Ham,H,142,26.8,81,17.5,70,20
+2022-03-06,Watford,Arsenal,A,72,6.7,111,23.5,20,70
+2022-03-06,Man City,Man United,H,149,27.8,96,20.7,40,40
+2022-03-07,Tottenham,Everton,H,109,17.9,69,6.1,30,10
+2022-03-10,Norwich,Chelsea,A,61,7.6,108,20.5,0,80
+2022-03-10,Southampton,Newcastle,A,104,17.2,73,18.5,30,30
+2022-03-10,Wolves,Watford,H,66,15.8,78,6.2,50,50
+2022-03-10,Leeds,Aston Villa,A,84,7.5,76,15.3,40,20
+2022-03-12,Brighton,Liverpool,A,76,10.1,143,27.6,14.28571429,57.14285714
+2022-03-12,Brentford,Burnley,H,74,8.4,59,10.4,0,100
+2022-03-12,Man United,Tottenham,H,92,18.7,112,19.4,50,50
+2022-03-13,Chelsea,Newcastle,H,106,21.8,75,20,70,20
+2022-03-13,Everton,Wolves,A,68,5.5,67,17.1,50,10
+2022-03-13,Leeds,Norwich,H,85,6.5,61,6.8,100,0
+2022-03-13,Southampton,Watford,A,104,15.4,76,5.5,44.44444444,11.11111111
+2022-03-13,West Ham,Aston Villa,H,82,16,82,16.8,50,10
+2022-03-13,Arsenal,Leicester,H,112,24.2,103,15,60,30
+2022-03-14,Crystal Palace,Man City,D,81,13.7,153,28.4,10,70
+2022-03-16,Brighton,Tottenham,A,76,9.5,107,17.6,28.57142857,57.14285714
+2022-03-16,Arsenal,Liverpool,A,113,25.3,144,28.2,0,70
+2022-03-17,Everton,Newcastle,H,66,4.9,76,19,50,30
+2022-03-18,Wolves,Leeds,A,66,18.7,88,8.8,60,20
+2022-03-19,Aston Villa,Arsenal,A,84,16,113,23,30,70
+2022-03-20,Leicester,Brentford,H,101,13.4,73,10.6,100,0
+2022-03-20,Tottenham,West Ham,H,110,18.8,82,17.1,40,40
+2022-04-02,Liverpool,Watford,H,139,28.8,73,8,80,10
+2022-04-02,Brighton,Norwich,D,71,8.2,64,6,50,0
+2022-04-02,Burnley,Man City,A,56,9.5,143,26.6,10,80
+2022-04-02,Chelsea,Brentford,A,108,22.5,74,9.9,100,0
+2022-04-02,Leeds,Southampton,D,88,10.8,107,14.1,50,30
+2022-04-02,Wolves,Aston Villa,H,70,17,81,14.2,30,30
+2022-04-02,Man United,Leicester,D,94,20.4,100,15.3,50,20
+2022-04-03,West Ham,Everton,H,74,15.9,67,7.3,40,40
+2022-04-03,Tottenham,Newcastle,H,110,20.3,80,17.2,50,30
+2022-04-04,Crystal Palace,Arsenal,H,79,13.6,110,24.1,10,40
+2022-04-06,Burnley,Everton,H,55,8.5,67,7,50,40
+2022-04-08,Newcastle,Wolves,H,80,16.2,73,18.4,20,20
+2022-04-09,Everton,Man United,H,67,6.2,95,19.4,0,50
+2022-04-09,Arsenal,Brighton,A,104,21.9,69,8.7,50,33.33333333
+2022-04-09,Southampton,Chelsea,A,112,13.6,103,20.8,10,70
+2022-04-09,Watford,Leeds,A,71,7.3,86,10.9,0,100
+2022-04-09,Aston Villa,Tottenham,A,83,13.4,116,21.5,20,80
+2022-04-10,Brentford,West Ham,H,73,11.8,76,17,100,0
+2022-04-10,Leicester,Crystal Palace,H,92,14.8,81,15.2,50,20
+2022-04-10,Norwich,Burnley,H,61,6.3,54,10.7,0,50
+2022-04-10,Man City,Liverpool,D,146,27.2,139,29.4,20,40
+2022-04-16,Tottenham,Brighton,A,121,22.7,67,10.4,62.5,25
+2022-04-16,Man United,Norwich,H,98,17.8,62,8.5,80,20
+2022-04-16,Southampton,Arsenal,H,110,12.4,103,19.8,10,50
+2022-04-16,Watford,Brentford,A,71,6.8,76,14.1,0,100
+2022-04-17,Newcastle,Leicester,H,83,17.5,89,16.5,20,80
+2022-04-17,West Ham,Burnley,D,74,16.1,52,9.7,60,20
+2022-04-19,Liverpool,Man United,H,138,28,104,19,30,20
+2022-04-20,Chelsea,Arsenal,A,111,21.5,103,17.9,40,30
+2022-04-20,Everton,Leicester,D,65,8.9,83,15.2,50,40
+2022-04-20,Newcastle,Crystal Palace,H,81,19.5,78,14.1,40,20
+2022-04-20,Man City,Brighton,H,146,25.6,70,12.9,85.71428571,14.28571429
+2022-04-21,Burnley,Southampton,H,51,9.7,108,14.1,40,30
+2022-04-23,Arsenal,Man United,H,104,19.1,103,17.4,30,30
+2022-04-23,Leicester,Aston Villa,D,83,14.9,88,11.6,40,50
+2022-04-23,Man City,Watford,H,144,25.9,68,6.1,90,0
+2022-04-23,Norwich,Newcastle,A,62,7.7,80,20.6,20,40
+2022-04-23,Brentford,Tottenham,D,77,15.7,117,20.6,0,100
+2022-04-24,Brighton,Southampton,D,67,11.4,108,13.2,14.28571429,28.57142857
+2022-04-24,Burnley,Wolves,H,48,12,70,17,28.57142857,42.85714286
+2022-04-24,Chelsea,West Ham,H,109,20.1,79,15.2,40,30
+2022-04-24,Liverpool,Everton,H,134,28.4,66,9.1,60,10
+2022-04-25,Crystal Palace,Leeds,D,72,12.7,84,12.9,33.33333333,66.66666667
+2022-04-28,Man United,Chelsea,D,98,15.3,107,20.8,40,20
+2022-04-30,Newcastle,Liverpool,A,86,22.4,132,28.9,20,40
+2022-04-30,Aston Villa,Norwich,H,86,11.8,60,6.9,70,20
+2022-04-30,Southampton,Crystal Palace,A,106,12.6,76,12.9,50,30
+2022-04-30,Watford,Burnley,A,65,5.6,52,14,28.57142857,57.14285714
+2022-04-30,Wolves,Brighton,A,72,15.1,69,11.6,40,20
+2022-04-30,Leeds,Man City,A,82,13,143,26.5,44.44444444,33.33333333
+2022-05-01,Everton,Chelsea,H,66,8.5,107,20.5,20,40
+2022-05-01,Tottenham,Leicester,H,111,19.6,82,14.6,50,40
+2022-05-01,West Ham,Arsenal,A,75,14.3,105,20.5,0,70
+2022-05-02,Man United,Brentford,H,98,14.8,77,15.8,100,0
+2022-05-07,Brentford,Southampton,H,78,14.4,105,11.7,0,100
+2022-05-07,Burnley,Aston Villa,A,57,16.1,89,13,25,25
+2022-05-07,Chelsea,Wolves,D,108,18.2,71,14,50,30
+2022-05-07,Crystal Palace,Watford,H,80,14.6,60,5.2,44.44444444,22.22222222
+2022-05-07,Brighton,Man United,H,74,13.2,98,16,28.57142857,71.42857143
+2022-05-07,Liverpool,Tottenham,D,135,29.3,111,20.8,60,10
+2022-05-08,Arsenal,Leeds,H,104,21.4,81,11.7,60,20
+2022-05-08,Leicester,Everton,A,76,13.3,65,10.7,30,50
+2022-05-08,Norwich,West Ham,A,57,6.4,73,12.3,12.5,50
+2022-05-08,Man City,Newcastle,H,142,26.8,84,20.2,80,0
+2022-05-10,Aston Villa,Liverpool,A,93,15.4,133,27.8,20,70
+2022-05-11,Leeds,Chelsea,A,77,10.8,107,17.9,20,50
+2022-05-11,Leicester,Norwich,H,79,11.9,58,5.7,75,0
+2022-05-11,Watford,Everton,D,57,4.7,67,13.1,30,40
+2022-05-11,Wolves,Man City,A,74,13.2,138,27.4,30,60
+2022-05-12,Tottenham,Arsenal,H,109,20,110,22.8,30,40
+2022-05-15,Tottenham,Burnley,H,109,21.2,62,14.9,70,10
+2022-05-15,Aston Villa,Crystal Palace,D,93,13.6,85,16.7,40,50
+2022-05-15,Leeds,Brighton,D,72,9.8,78,15.4,0,66.66666667
+2022-05-15,Watford,Leicester,A,55,5.3,82,13.9,22.22222222,77.77777778
+2022-05-15,West Ham,Man City,D,75,14.5,133,27.7,0,90
+2022-05-15,Wolves,Norwich,D,76,12.2,58,5.3,25,25
+2022-05-15,Everton,Brentford,A,67,13,78,16.4,0,100
+2022-05-16,Newcastle,Arsenal,H,84,18.8,109,20.4,10,90
+2022-05-17,Southampton,Liverpool,A,103,10.1,134,28.2,10,70
+2022-05-19,Everton,Crystal Palace,H,66,12.1,83,16.1,50,10
+2022-05-19,Aston Villa,Burnley,D,97,13.7,60,13.7,33.33333333,22.22222222
+2022-05-19,Chelsea,Leicester,D,105,18.9,84,15.6,50,10
+2022-05-22,Arsenal,Everton,H,103,18.5,69,14.2,50,40
+2022-05-22,Brentford,Leeds,A,79,18.1,74,10,0,0
+2022-05-22,Brighton,West Ham,H,79,14.8,76,13.8,37.5,0
+2022-05-22,Burnley,Newcastle,A,63,13.6,86,19.9,22.22222222,44.44444444
+2022-05-22,Chelsea,Watford,H,102,18.5,55,4.8,70,10
+2022-05-22,Crystal Palace,Man United,H,82,14.9,99,14.7,20,60
+2022-05-22,Leicester,Southampton,H,77,15.3,101,9.3,40,20
+2022-05-22,Liverpool,Wolves,H,131,28.9,75,11.3,80,10
+2022-05-22,Man City,Aston Villa,H,126,26.3,100,13.2,90,0
+2022-05-22,Norwich,Tottenham,A,57,5.6,106,22.4,20,50
