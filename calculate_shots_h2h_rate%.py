@@ -13,22 +13,22 @@ def is_away_bigger(df, HomeColumnName, AwayColumnName):
     return df[HomeColumnName] < df[AwayColumnName]
 
 
-def calculate_all_pct(df, HomeColumnName, AwayColumnName):
+def calculate_all_pct(df, HomeColumnName, AwayColumnName, Home, Away):
     better_win = 0
     total_match_better = 0
     for index, row in df.iterrows():
         if (
-            is_home_bigger(row, HomeColumnName, AwayColumnName) and row["FTR"] == "H"
+            is_home_bigger(row, HomeColumnName, AwayColumnName) and row["FTR"] == Home
         ) or (
-            is_away_bigger(row, HomeColumnName, AwayColumnName) and row["FTR"] == "A"
+            is_away_bigger(row, HomeColumnName, AwayColumnName) and row["FTR"] == Away
         ):
             # bigger shots on target and win
             better_win += 1
             total_match_better += 1
         elif (
-            is_home_bigger(row, HomeColumnName, AwayColumnName) and (row["FTR"] == "A")
+            is_home_bigger(row, HomeColumnName, AwayColumnName) and (row["FTR"] == Away)
         ) or (
-            is_away_bigger(row, HomeColumnName, AwayColumnName) and (row["FTR"] == "H")
+            is_away_bigger(row, HomeColumnName, AwayColumnName) and (row["FTR"] == Home)
         ):  # bigger shots on target but lose or draw
             total_match_better += 1
 
@@ -53,9 +53,9 @@ def all_team_shots_target_win_pct(df, HomeColumnName, AwayColumnName):
     return target_dict
 
 
-def calculate_pct(df, HomeColumnName, AwayColumnName, feature):
+def calculate_pct(df, HomeColumnName, AwayColumnName, feature, Home, Away):
     # for all teams
-    result = calculate_all_pct(df, HomeColumnName, AwayColumnName)
+    result = calculate_all_pct(df, HomeColumnName, AwayColumnName, Home, Away)
     print(f"All {feature} Percentage: {result}")
 
     # for each team
@@ -73,30 +73,50 @@ def print_all_pct(dict, feature):
 def main():
     # ==== NORMAL STATS LAST 20 ======= #
     # PointLast20
-    calculate_pct(df, "HomeTeamPointLast20", "AwayTeamPointLast20", "Point")
+    calculate_pct(df, "HomeTeamPointLast20", "AwayTeamPointLast20", "Point", "H", "A")
 
     # GoalScoredLast20
     calculate_pct(
-        df, "HomeTeamGoalScoredLast20", "AwayTeamGoalScoredLast20", "GoalScored"
+        df,
+        "HomeTeamGoalScoredLast20",
+        "AwayTeamGoalScoredLast20",
+        "GoalScored",
+        "H",
+        "A",
     )
 
     # GoalConcededLast20
     calculate_pct(
-        df, "HomeTeamGoalConcededLast20", "AwayTeamGoalConcededLast20", "GoalConceded"
+        df,
+        "HomeTeamGoalConcededLast20",
+        "AwayTeamGoalConcededLast20",
+        "GoalConceded",
+        "A",
+        "H",
     )
 
     # ShotsOnTargetLast20
     calculate_pct(
-        df, "HomeTeamShotTargetLast20", "AwayTeamShotTargetLast20", "ShotsTarget"
+        df,
+        "HomeTeamShotTargetLast20",
+        "AwayTeamShotTargetLast20",
+        "ShotsTarget",
+        "H",
+        "A",
     )
 
     # RedCardLast20
-    calculate_pct(df, "HomeTeamRedLast20", "AwayTeamRedLast20", "Red")
+    calculate_pct(df, "HomeTeamRedLast20", "AwayTeamRedLast20", "Red", "A", "H")
 
     # ==== H2H STATS LAST 10 ======= #
     # PointH2HLast10
     calculate_pct(
-        df, "HomeTeamPointH2HLast10", "AwayTeamPointH2HLast10", "PointH2HLast10"
+        df,
+        "HomeTeamPointH2HLast10",
+        "AwayTeamPointH2HLast10",
+        "PointH2HLast10",
+        "H",
+        "A",
     )
 
     # GoalScoredH2HLast10
@@ -105,6 +125,8 @@ def main():
         "HomeTeamGoalScoredH2HLast10",
         "AwayTeamGoalScoredH2HLast10",
         "GoalScoredH2HLast10",
+        "H",
+        "A",
     )
 
     # GoalConcededH2HLast10
@@ -113,6 +135,8 @@ def main():
         "HomeTeamGoalConcededH2HLast10",
         "AwayTeamGoalConcededH2HLast10",
         "GoalConcededH2HLast10",
+        "A",
+        "H",
     )
 
     # ShotTargetH2HLast10
@@ -121,18 +145,19 @@ def main():
         "HomeTeamShotTargetH2HLast10",
         "AwayTeamShotTargetH2HLast10",
         "ShotTargetH2HLast10",
+        "H",
+        "A",
     )
 
     # RedH2HLast10
     calculate_pct(
-        df,
-        "HomeTeamRedH2HLast10",
-        "AwayTeamRedH2HLast10",
-        "RedH2HLast10",
+        df, "HomeTeamRedH2HLast10", "AwayTeamRedH2HLast10", "RedH2HLast10", "A", "H"
     )
 
     # Win%H2HLast10
-    calculate_pct(df, "HomeTeamWin%H2HLast10", "AwayTeamWin%H2HLast10", "Win%H2HLast10")
+    calculate_pct(
+        df, "HomeTeamWin%H2HLast10", "AwayTeamWin%H2HLast10", "Win%H2HLast10", "H", "A"
+    )
 
 
 if __name__ == "__main__":

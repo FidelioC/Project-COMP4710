@@ -1,0 +1,1024 @@
+Combo,Accuracy
+"('RedH2HLast10', 'GoalConcededLast20')",57.33788395904437
+"('RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",57.33788395904437
+"('RedH2HLast10', 'RedLast20')",57.67918088737202
+"('RedLast20', 'GoalConcededLast20')",58.02047781569966
+"('ShotTargetH2HLast10',)",58.703071672354945
+"('ShotTargetLast20',)",59.38566552901023
+"('PointH2HLast10', 'RedH2HLast10', 'RedLast20')",59.72696245733788
+"('GoalScoredLast20',)",60.40955631399317
+"('GoalScoredH2HLast10', 'GoalConcededH2HLast10')",60.40955631399317
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",60.75085324232082
+"('GoalConcededH2HLast10',)",60.75085324232082
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",60.75085324232082
+"('PointH2HLast10', 'RedLast20')",60.75085324232082
+"('GoalScoredLast20', 'RedH2HLast10')",61.092150170648466
+"('PointH2HLast10', 'RedH2HLast10')",61.092150170648466
+"('GoalScoredH2HLast10',)",61.092150170648466
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",61.43344709897611
+"('ShotTargetH2HLast10', 'GoalConcededH2HLast10')",61.43344709897611
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",61.43344709897611
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",61.43344709897611
+"('ShotTargetLast20', 'PointH2HLast10')",61.774744027303754
+"('ShotTargetH2HLast10', 'RedLast20')",61.774744027303754
+"('PointH2HLast10', 'GoalScoredH2HLast10')",62.116040955631405
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10')",62.116040955631405
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",62.116040955631405
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",62.116040955631405
+"('PointH2HLast10', 'ShotTargetH2HLast10')",62.116040955631405
+"('RedH2HLast10',)",62.116040955631405
+"('ShotTargetLast20', 'GoalConcededLast20')",62.45733788395904
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",62.45733788395904
+"('GoalConcededLast20',)",62.45733788395904
+"('PointH2HLast10', 'GoalConcededH2HLast10')",62.79863481228669
+"('RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",62.79863481228669
+"('PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",62.79863481228669
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",62.79863481228669
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",63.13993174061433
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",63.13993174061433
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",63.13993174061433
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",63.13993174061433
+"('PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",63.48122866894198
+"('GoalScoredH2HLast10', 'GoalConcededLast20')",63.48122866894198
+"('GoalScoredH2HLast10', 'RedLast20')",63.48122866894198
+"('RedLast20',)",63.48122866894198
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",63.48122866894198
+"('ShotTargetLast20', 'RedH2HLast10')",63.48122866894198
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",63.48122866894198
+"('PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",63.48122866894198
+"('ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",63.48122866894198
+"('ShotTargetLast20', 'RedLast20', 'GoalConcededLast20')",63.48122866894198
+"('PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",63.82252559726962
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",63.82252559726962
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",63.82252559726962
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",63.82252559726962
+"('PointH2HLast10', 'GoalConcededLast20')",63.82252559726962
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",63.82252559726962
+"('GoalScoredH2HLast10', 'RedH2HLast10')",63.82252559726962
+"('RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",63.82252559726962
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",63.82252559726962
+"('RedLast20', 'GoalConcededH2HLast10')",63.82252559726962
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",63.82252559726962
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",64.16382252559727
+"('GoalScoredLast20', 'RedH2HLast10', 'GoalConcededLast20')",64.16382252559727
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10')",64.16382252559727
+"('GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('GoalScoredLast20', 'ShotTargetH2HLast10')",64.16382252559727
+"('ShotTargetLast20', 'GoalScoredH2HLast10')",64.16382252559727
+"('ShotTargetH2HLast10', 'RedH2HLast10')",64.16382252559727
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",64.16382252559727
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",64.16382252559727
+"('PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",64.16382252559727
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",64.16382252559727
+"('ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.16382252559727
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",64.16382252559727
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.50511945392492
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",64.50511945392492
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.50511945392492
+"('GoalScoredLast20', 'GoalConcededLast20')",64.50511945392492
+"('PointH2HLast10',)",64.50511945392492
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",64.50511945392492
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.50511945392492
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.50511945392492
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",64.50511945392492
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",64.84641638225256
+"('ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.84641638225256
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.84641638225256
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",64.84641638225256
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",64.84641638225256
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",64.84641638225256
+"('ShotTargetH2HLast10', 'GoalConcededLast20')",64.84641638225256
+"('GoalConcededLast20', 'GoalConcededH2HLast10')",64.84641638225256
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalConcededLast20')",64.84641638225256
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",64.84641638225256
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",64.84641638225256
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",64.84641638225256
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",64.84641638225256
+"('GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",64.84641638225256
+"('GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",64.84641638225256
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",64.84641638225256
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",65.18771331058021
+"('PointLast20', 'RedH2HLast10', 'RedLast20')",65.18771331058021
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.18771331058021
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.18771331058021
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",65.18771331058021
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",65.18771331058021
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('ShotTargetLast20', 'ShotTargetH2HLast10')",65.18771331058021
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",65.18771331058021
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('GoalScoredLast20', 'RedLast20', 'GoalConcededLast20')",65.18771331058021
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.18771331058021
+"('GoalScoredLast20', 'RedH2HLast10', 'RedLast20')",65.18771331058021
+"('ShotTargetLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",65.18771331058021
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",65.18771331058021
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",65.52901023890784
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.52901023890784
+"('PointLast20', 'RedH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.52901023890784
+"('PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",65.52901023890784
+"('ShotTargetLast20', 'RedH2HLast10', 'RedLast20')",65.52901023890784
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",65.52901023890784
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",65.52901023890784
+"('RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.52901023890784
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredLast20')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.8703071672355
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.8703071672355
+"('RedH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",65.8703071672355
+"('PointLast20', 'PointH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.8703071672355
+"('PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20')",65.8703071672355
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",65.8703071672355
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'RedH2HLast10', 'GoalConcededLast20')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'PointH2HLast10', 'RedLast20')",65.8703071672355
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",65.8703071672355
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'RedLast20')",65.8703071672355
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",65.8703071672355
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",66.21160409556313
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",66.21160409556313
+"('GoalScoredLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",66.21160409556313
+"('ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedLast20')",66.21160409556313
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",66.21160409556313
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.21160409556313
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",66.21160409556313
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.21160409556313
+"('GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.21160409556313
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.21160409556313
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",66.21160409556313
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",66.21160409556313
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10')",66.21160409556313
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.55290102389078
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",66.55290102389078
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.55290102389078
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",66.55290102389078
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",66.55290102389078
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",66.55290102389078
+"('ShotTargetLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.55290102389078
+"('ShotTargetLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'RedLast20')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedLast20')",66.89419795221842
+"('PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",66.89419795221842
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",66.89419795221842
+"('PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",66.89419795221842
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('ShotTargetLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('PointLast20', 'ShotTargetH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",66.89419795221842
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",66.89419795221842
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'PointH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('PointLast20', 'PointH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",67.23549488054607
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",67.23549488054607
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('PointLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('PointLast20', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredLast20', 'PointLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",67.23549488054607
+"('PointLast20', 'GoalScoredH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",67.23549488054607
+"('PointLast20', 'RedH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.23549488054607
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.23549488054607
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.23549488054607
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",67.23549488054607
+"('ShotTargetLast20', 'PointLast20', 'RedLast20')",67.23549488054607
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('PointLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",67.57679180887372
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('PointLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",67.57679180887372
+"('GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('PointLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'RedLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.57679180887372
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'ShotTargetH2HLast10', 'RedLast20')",67.91808873720136
+"('PointLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.91808873720136
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.91808873720136
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'RedLast20')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20')",67.91808873720136
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",67.91808873720136
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",67.91808873720136
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20',)",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",67.91808873720136
+"('PointLast20', 'GoalConcededLast20')",67.91808873720136
+"('PointLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'GoalScoredH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",68.25938566552901
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedLast20')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",68.25938566552901
+"('PointLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.25938566552901
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.25938566552901
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.25938566552901
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",68.25938566552901
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'GoalScoredH2HLast10', 'RedLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'RedLast20')",68.60068259385666
+"('PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20')",68.60068259385666
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",68.60068259385666
+"('PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.60068259385666
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.60068259385666
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.60068259385666
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.60068259385666
+"('GoalScoredLast20', 'GoalConcededH2HLast10')",68.60068259385666
+"('PointLast20', 'RedLast20')",68.60068259385666
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.94197952218431
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",68.94197952218431
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'RedLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",68.94197952218431
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",68.94197952218431
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalConcededLast20')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'RedLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'RedLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.28327645051195
+"('PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.28327645051195
+"('PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.6245733788396
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.6245733788396
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",69.6245733788396
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'RedH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",69.96587030716724
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",69.96587030716724
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",69.96587030716724
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.30716723549489
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",70.30716723549489
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededLast20')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",70.30716723549489
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",70.30716723549489
+"('PointLast20', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.30716723549489
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.30716723549489
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",70.64846416382252
+"('PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.64846416382252
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",70.64846416382252
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.64846416382252
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",70.98976109215018
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",70.98976109215018
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20')",70.98976109215018
+"('PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededLast20')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.98976109215018
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",70.98976109215018
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",70.98976109215018
+"('PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",70.98976109215018
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",71.33105802047781
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",71.33105802047781
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",71.33105802047781
+"('GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",71.33105802047781
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10')",71.33105802047781
+"('GoalScoredLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20')",71.33105802047781
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",71.33105802047781
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",71.33105802047781
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",71.33105802047781
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10')",71.67235494880546
+"('PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",71.67235494880546
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'GoalConcededLast20')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'GoalScoredH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'GoalConcededH2HLast10')",71.67235494880546
+"('GoalScoredLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",71.67235494880546
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededH2HLast10')",71.67235494880546
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10')",72.01365187713311
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20')",72.01365187713311
+"('PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",72.01365187713311
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",72.01365187713311
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10')",72.01365187713311
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",72.01365187713311
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10')",72.01365187713311
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",72.01365187713311
+"('PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedH2HLast10', 'RedLast20')",72.35494880546075
+"('ShotTargetLast20', 'PointLast20', 'ShotTargetH2HLast10', 'GoalConcededLast20', 'GoalConcededH2HLast10')",72.35494880546075
+"('PointLast20', 'GoalScoredH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",72.35494880546075
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededLast20')",72.35494880546075
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20', 'GoalConcededH2HLast10')",72.6962457337884
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",72.6962457337884
+"('ShotTargetLast20', 'PointLast20', 'PointH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",72.6962457337884
+"('ShotTargetLast20', 'GoalScoredLast20', 'PointLast20', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededLast20')",72.6962457337884
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'RedH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",73.03754266211604
+"('GoalScoredLast20', 'ShotTargetH2HLast10', 'RedH2HLast10', 'GoalConcededH2HLast10')",73.03754266211604
+"('GoalScoredLast20', 'PointLast20', 'PointH2HLast10', 'GoalScoredH2HLast10', 'ShotTargetH2HLast10', 'RedLast20', 'GoalConcededH2HLast10')",73.37883959044369
