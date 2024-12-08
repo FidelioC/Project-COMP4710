@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 directory = "./training_data/Datasets"
-output = "./training_data/combined_file_Referee.csv"
+output = "./training_data/combined_file.csv"
 data_frames = []
 
 for filename in os.listdir(directory):
@@ -25,7 +25,6 @@ for filename in os.listdir(directory):
                 "HR",
                 "AR",
                 "FTR",
-                "Referee",
             ],
         )
 

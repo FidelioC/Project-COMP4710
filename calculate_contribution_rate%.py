@@ -59,8 +59,8 @@ def calculate_pct(df, HomeColumnName, AwayColumnName, feature, Home, Away):
     print(f"All {feature} Percentage: {result}")
 
     # for each team
-    # dict = all_team_shots_target_win_pct(df, HomeColumnName, AwayColumnName)
-    # print_all_pct(dict, feature)
+    dict = all_team_shots_target_win_pct(df, HomeColumnName, AwayColumnName)
+    print_all_pct(dict, feature)
 
     print("\n")
 
