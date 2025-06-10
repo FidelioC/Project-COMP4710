@@ -16,7 +16,8 @@ def calculate_prediction(file_name):
     total_rows = len(data)
     match_count = len(matches)
     # print(f"Match count: {match_count}. Total rows: {total_rows_non_draw}")
-    accuracy_percentage = (match_count / total_rows_non_draw) * 100
+    # accuracy_percentage = (match_count / total_rows_non_draw) * 100
+    accuracy_percentage = (match_count / total_rows) * 100
 
     # Print the results
     # if total_rows > 0:
@@ -28,6 +29,27 @@ def calculate_prediction(file_name):
 
 
 if __name__ == "__main__":
-    file_name = "./results/random_forest_stats_stats20_h2h10_top4.csv"
+    # normal_size = [10, 15, 20, 25, 30]
+    # h2h_size = [5, 10]
+    
+    # # Random Forest Stats and H2H
+    # for num_game_stats in normal_size:
+    #     for num_game_h2h in h2h_size:
+    #         file_name = f"./results/random_forest_normal{num_game_stats}_h2h{num_game_h2h}.csv"
+    #         accuracy = calculate_prediction(file_name)
+    #         print(
+    #             f"Accuracy for RF normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
+    #         )
+    #         file_name = f"./results/gradient_boosting_normal{num_game_stats}_h2h{num_game_h2h}.csv"
+    #         accuracy = calculate_prediction(file_name)
+    #         print(
+    #             f"Accuracy for GB normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
+    #         )
+    #         print("--" * 20)
 
+            
+
+    ## Testing
+    file_name = "./results/random_forest_stats20_h2h10.csv"
     calculate_prediction(file_name)
+    print(f"Accuracy for RF 5 and h2h 5: {calculate_prediction(file_name):.2f}%")
