@@ -1,74 +1,145 @@
 import pandas as pd
-
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
-from sklearn.impute import SimpleImputer
+from sklearn.metrics import accuracy_score
+import click
+import itertools
+import check_predictions
 
-training_data = "./training_data/team_stats_stats20_h2h10_differences.csv"
-prediction_file = "./prediction_test/team_stats_stats20_h2h10_differences.csv"
-output_file = "./results/gboost_stats20_h2h10_differences.csv"
+# """
+# "HomeTeamShotTargetLast20",
+# "AwayTeamShotTargetLast20",
+# "HomeTeamGoalScoredLast20",
+# "AwayTeamGoalScoredLast20",
+# "HomeTeamPointLast20",
+# "AwayTeamPointLast20",
+# "HomeTeamPointH2HLast10",
+# "AwayTeamPointH2HLast10",
+# "HomeTeamWin%H2HLast10",
+# "AwayTeamWin%H2HLast10",
+# "HomeTeamGoalScoredH2HLast10",
+# "AwayTeamGoalScoredH2HLast10",
+# "HomeTeamShotTargetH2HLast10",
+# "AwayTeamShotTargetH2HLast10",
+# "HomeTeamRedH2HLast10",
+# "AwayTeamRedH2HLast10",
+# "HomeTeamRedLast20",
+# "AwayTeamRedLast20",
+# "HomeTeamGoalConcededLast20",
+# "AwayTeamGoalConcededLast20",
+# "HomeTeamGoalConcededH2HLast10",
+# "AwayTeamGoalConcededH2HLast10",
+# """
 
 
-# Load the dataset
-data = pd.read_csv(training_data)
+def calculate_all_possible_attributes(training_data, prediction_file, output_file):
+    all_possible_dict = {}
+    # List of attributes
+    attributes = [
+        "ShotTargetLast20",
+        "GoalScoredLast20",
+        "PointLast20",
+        "PointH2HLast10",
+        "GoalScoredH2HLast10",
+        "ShotTargetH2HLast10",
+        "RedH2HLast10",
+        "RedLast20",
+        "GoalConcededLast20",
+        "GoalConcededH2HLast10",
+    ]
 
-# Split data into features and target
-X = data.drop(
-    columns=[
-        "Date",
-        "HomeTeam",
-        "AwayTeam",
-        "FTR",
-        "FTHG",
-        "FTAG",
-        "HR",
-        "AR",
-        "HST",
-        "AST",
-    ],
-    errors="ignore",
-)
-Y = data["FTR"]
+    # Generate all non-empty combinations of attributes
 
-# Split data into train and test sets
-X_train, X_test, Y_train, Y_test = train_test_split(
-    X, Y, test_size=0.2, random_state=42
-)
+    for r in range(1, len(attributes) + 1):  # r is the size of the subset
+        for combo in itertools.combinations(attributes, r):
+            # Add HomeTeam and AwayTeam prefixes
+            modified_combo = [f"HomeTeam{item}" for item in combo] + [
+                f"AwayTeam{item}" for item in combo
+            ]
+            random_forest(training_data, prediction_file, output_file, modified_combo)
+            all_possible_dict[combo] = check_predictions.calculate_prediction(
+                output_file
+            )
+            print(
+                f"combo: {combo}, accuracy: {check_predictions.calculate_prediction(output_file)}"
+            )
 
-# Train the Gradient Boosting Classifier
-gb_model = GradientBoostingClassifier(random_state=42)
-gb_model.fit(X_train, Y_train)
+    return all_possible_dict
 
-# Evaluate the model
-# Make prediction
-Y_pred = gb_model.predict(X_test)
 
-# Calculate accuracy
-accuracy = accuracy_score(Y_test, Y_pred)
-# print(f"Model accuracy: {accuracy * 100:.2f}%")
+def random_forest(training_data, prediction_file, output_file, feature_columns):
+    # Load data
+    df = pd.read_csv(training_data)
 
-# Fetch new data (2022-2023)
-new_data = pd.read_csv(prediction_file)
+    # Drop rows where FTR is 'D'
+    df = df[df["FTR"] != "D"]
 
-X_new = new_data.drop(
-    columns=[
-        "Date",
-        "HomeTeam",
-        "AwayTeam",
-        "FTR",
-        "FTHG",
-        "FTAG",
-        "HR",
-        "AR",
-        "HST",
-        "AST",
-    ],
-    errors="ignore",
-)
+    # # Define the feature columns
+    # feature_columns = [
+    #     "HomeTeamShotTargetLast20",
+    #     "AwayTeamShotTargetLast20",
+    #     "HomeTeamGoalScoredLast20",
+    #     "AwayTeamGoalScoredLast20",
+    #     "HomeTeamPointLast20",
+    #     "AwayTeamPointLast20",
+    #     "HomeTeamPointH2HLast10",
+    #     "AwayTeamPointH2HLast10",
+    # ]
 
-# Make predictions on the new data
-new_data["FTR_Prediction"] = gb_model.predict(X_new)
+    # Select features and target
+    X = df[feature_columns]
+    y = df["FTR"]
 
-# Save the results with predictions to a new CSV file
-new_data.to_csv(output_file, index=False)
+    # Split the data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42
+    )
+
+    # Initialize and train the Random Forest Classifier
+    model = GradientBoostingClassifier(random_state=42)
+    model.fit(X_train, y_train)
+
+    # Make predictions on the test set for accuracy
+    # y_test_pred = model.predict(X_test)
+    # accuracy = accuracy_score(y_test, y_test_pred)
+    # print(f"Model accuracy: {accuracy * 100:.2f}%")
+
+    # Load new data (2023-teams.csv) for prediction
+    new_data = pd.read_csv(prediction_file)
+
+    # Select features in the new data
+    X_new = new_data[feature_columns]
+
+    # Make predictions on the new data
+    new_data["FTR_Prediction"] = model.predict(X_new)
+
+    # Save the results with predictions to a new CSV file
+    new_data.to_csv(output_file, index=False)
+
+    # print("Predictions saved successfully.")
+
+
+@click.command()
+@click.option("--trainingdata", required=True)
+@click.option("--predictionfile", required=True)
+@click.option("--outputfile", required=True)
+def commands_processing(trainingdata, predictionfile, outputfile):
+    # random_forest(trainingdata, predictionfile, outputfile)
+    all_possible_dict = calculate_all_possible_attributes(
+        trainingdata, predictionfile, outputfile
+    )
+
+    # Convert the dictionary to a Pandas DataFrame
+
+    df = pd.DataFrame(list(all_possible_dict.items()), columns=["Combo", "Accuracy"])
+
+    # Sort the DataFrame by the "Accuracy" column
+    df_sorted = df.sort_values(by="Accuracy", ascending=True)
+
+    # Save the sorted DataFrame to a CSV file
+    df_sorted.to_csv("./results/random_forest_all_possible_combo.csv", index=False)
+
+
+if __name__ == "__main__":
+    commands_processing()

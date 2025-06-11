@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="KN65hLm4yYceDflaokGm">
+    <mxGraphModel dx="1593" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-7" target="zFVZxi6Tb9LmwrEhL_wa-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="122.5" as="sourcePoint" />
+            <mxPoint x="190" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-6" value="Get Dataset from the Internet." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="75" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-7" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="77.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-6" target="zFVZxi6Tb9LmwrEhL_wa-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="132.5" as="sourcePoint" />
+            <mxPoint x="360" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-16" target="zFVZxi6Tb9LmwrEhL_wa-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-16" value="English Premier League Datasets. 2001 - 2022 csv files" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="67.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-19" target="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="808" y="108" />
+              <mxPoint x="808" y="20" />
+              <mxPoint x="960" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-19" value="Remove unused columns and combine all csv files using combined_all_data.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="60" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-24" value="Resulting Columns in Combined File" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="40" width="219" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-25" value="Date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="30" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-26" value="HomeTeam" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="60" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-27" value="AwayTeam" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="90" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-29" value="FTHG (Full Time Home Goals)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="120" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-30" value="FTAG (Full Time Away Goals)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="150" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-31" value="FTR (Full Time Result)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="180" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-32" value="HST (Home Shot on Target)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="210" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-33" value="AST (Away Shot on Target)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="240" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-34" value="HR (Home Red)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="270" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-35" value="AR (Away Red)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-24">
+          <mxGeometry y="300" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-36" target="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-36" value="Run calculate_ind_team_stats.py (sliding window algorithm) to get each team stats and H2H used for the training data 2015-2021." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="265" width="170" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-30" target="zFVZxi6Tb9LmwrEhL_wa-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-38" value="Resulting Columns Used in Training File" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="270" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-42" value="Home &amp;amp; Away TeamGoalScoredLast20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-43" value="Home &amp;amp; Away TeamGoalConcededLast20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-45" value="Home &amp;amp; Away TeamShotTargetLast20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-46" value="Home &amp;amp; Away TeamRedLast20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="120" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-47" value="Home &amp;amp; Away TeamPointH2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="150" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-48" value="Home &amp;amp; Away TeamGoalScoredH2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="180" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-50" value="Home&amp;amp; Away TeamGoalConcededH2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="210" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-51" value="Home &amp;amp; Away TeamShotTargetH2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="240" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-53" value="Home &amp;amp; Away TeamRedH2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="270" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-52" value="Home &amp;amp; Away TeamWin%H2HLast10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zFVZxi6Tb9LmwrEhL_wa-38">
+          <mxGeometry y="300" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-52" target="zFVZxi6Tb9LmwrEhL_wa-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-55" target="zFVZxi6Tb9LmwrEhL_wa-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-55" value="Run calculate_contribution_rate%.py to find out contribution of each attribute." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-56" value="end" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-59" target="zFVZxi6Tb9LmwrEhL_wa-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-59" value="Run random forest and gradient boosting algorithm to predict the 2022-2023 season and calculate the accuracy." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFVZxi6Tb9LmwrEhL_wa-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFVZxi6Tb9LmwrEhL_wa-50" target="zFVZxi6Tb9LmwrEhL_wa-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="560" as="sourcePoint" />
+            <mxPoint x="460" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

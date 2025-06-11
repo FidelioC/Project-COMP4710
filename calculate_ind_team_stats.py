@@ -4,7 +4,6 @@ from dateutil import parser
 import click
 import calculate_stats_points
 import calculate_h2h
-import calculate_weighted
 
 # input_file = "./prediction_test/combined_file.csv"  # "./training_data/combined_file.csv" "./prediction_test/combined_file.csv"
 # output_file = "./prediction_test/team_stats_noh2h.csv"  # "./training_data/team_stats.csv" "./prediction_test/team_stats.csv"
@@ -27,7 +26,6 @@ def main(input_file, output_file, num_game_stats, num_game_h2h, date_end, start_
 
     calculate_stats_points.stats_new_columns(df_read, num_game_stats)
     calculate_h2h.h2h_new_columns(df_read, num_game_h2h)
-    # calculate_weighted.weighted_new_columns(df_read, num_game_stats)
 
     df_read.to_csv(output_file, index=False)
 
@@ -35,7 +33,6 @@ def main(input_file, output_file, num_game_stats, num_game_h2h, date_end, start_
 
     calculate_stats_points.update_all_stats_last20(df_write, date_end, num_game_stats)
     calculate_h2h.update_h2h_stats_last10(df_write, date_end, num_game_h2h)
-    # calculate_weighted.update_all_weight_last20(df_write, date_end, num_game_stats)
 
     df_write["Date"] = df_write["Date"].apply(parse_date)
 
