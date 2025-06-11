@@ -1,6 +1,29 @@
 import pandas as pd
 
 
+def calculate_prediction_draw_init(file_name):
+    data = pd.read_csv(file_name)
+
+    # Find rows where FTR matches FTR_Prediction (including draws)
+    matches = data[data["FTR"] == data["FTR_Prediction"]]
+
+    # Total number of rows
+    total_rows = len(data)
+
+    # Number of correct predictions
+    match_count = len(matches)
+
+    # Calculate accuracy
+    if total_rows > 0:
+        accuracy_percentage = (match_count / total_rows) * 100
+        print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
+    else:
+        print("No data to calculate accuracy.")
+        accuracy_percentage = 0.0
+
+    return accuracy_percentage
+
+
 def calculate_prediction(file_name):
     data = pd.read_csv(file_name)
     # Find rows where FTR does not match FTR_Prediction
@@ -19,15 +42,16 @@ def calculate_prediction(file_name):
     accuracy_percentage = (match_count / total_rows_non_draw) * 100
 
     # Print the results
-    # if total_rows > 0:
-    #     print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
-    # else:
-    #     print("No data to calculate accuracy.")
+    if total_rows > 0:
+        print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
+    else:
+        print("No data to calculate accuracy.")
 
     return accuracy_percentage
 
 
 if __name__ == "__main__":
-    file_name = "./results/random_forest_stats_stats20_h2h10_top4.csv"
+    file_name = "./results/random_forest_stats10_h2h5.csv"
 
-    calculate_prediction(file_name)
+    # calculate_prediction(file_name)
+    calculate_prediction_draw_init(file_name)
