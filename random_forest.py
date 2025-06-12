@@ -161,7 +161,7 @@ def random_forest(training_data, prediction_file, output_file, feature_columns, 
 
 if __name__ == "__main__":
     # commands_processing()
-    normal_size = [10, 15, 20, 25, 30]
+    normal_size = [5, 10, 15, 20, 25, 30]
     h2h_size = [5, 10]
     for num_game_stats in normal_size:
         for num_game_h2h in h2h_size:
