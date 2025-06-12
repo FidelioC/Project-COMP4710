@@ -50,6 +50,6 @@ if __name__ == "__main__":
             
 
     ## Testing
-    file_name = "./results/random_forest_stats20_h2h10.csv"
+    file_name = "./results/random_forest_stats10_h2h5.csv"
     calculate_prediction(file_name)
-    print(f"Accuracy for RF 5 and h2h 5: {calculate_prediction(file_name):.2f}%")
+    print(f"Accuracy for RF 10 and h2h 5: {calculate_prediction(file_name):.2f}%")

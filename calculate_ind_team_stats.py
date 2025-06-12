@@ -39,6 +39,11 @@ def main(input_file, output_file, num_game_stats, num_game_h2h, date_end, start_
     # Filter rows with dates from 08/08/15 to the end
     start_date = pd.to_datetime(start_date)
     df_filtered = df_write[df_write["Date"] >= start_date].copy()
+    
+    df_filtered = df_filtered.drop(columns=[f"HomeTeamRatingLast{num_game_stats}",
+                                            f"AwayTeamRatingLast{num_game_stats}",
+                                            f"HomeTeamWin%H2HLast{num_game_h2h}",
+                                            f"AwayTeamWin%H2HLast{num_game_h2h}"], errors="ignore")
 
     df_filtered.to_csv(output_file, index=False)
 

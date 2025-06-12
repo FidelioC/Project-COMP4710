@@ -68,7 +68,7 @@ def calculate_all_possible_attributes(training_data, prediction_file, output_fil
     return all_possible_dict
 
 
-def gradient_boosting(training_data, prediction_file, output_file, feature_columns):
+def gradient_boosting(training_data, prediction_file, output_file, feature_columns, num_game_stats, num_game_h2h):
     # Load data
     df = pd.read_csv(training_data)
 
@@ -108,16 +108,21 @@ def gradient_boosting(training_data, prediction_file, output_file, feature_colum
     # Load new data (2023-teams.csv) for prediction
     new_data = pd.read_csv(prediction_file)
 
+    # new_data = new_data.drop(columns=[f"HomeTeamRatingLast{num_game_stats}",
+    #                                   f"AwayTeamRatingLast{num_game_stats}",
+    #                                   f"HomeTeamWin%H2HLast{num_game_h2h}",
+    #                                   f"AwayTeamWin%H2HLast{num_game_h2h}"], errors="ignore")
+    
     # Select features in the new data
     X_new = new_data[feature_columns]
-
+    
     # Make predictions on the new data
     new_data["FTR_Prediction"] = model.predict(X_new)
 
     # Save the results with predictions to a new CSV file
     new_data.to_csv(output_file, index=False)
 
-    # print("Predictions saved successfully.")
+    print("Predictions saved successfully.")
 
 
 # @click.command()
@@ -162,7 +167,7 @@ if __name__ == "__main__":
                 f"AwayTeamPointH2HLast{num_game_h2h}",
             ]
             print(f'Start calculating all possible attributes for: Normal = {num_game_stats}, H2H = {num_game_h2h}')
-            calculate_all_possible_attributes(
-                training_data, prediction_file, output_file, feature_columns
+            gradient_boosting(
+                training_data, prediction_file, output_file, feature_columns, num_game_stats, num_game_h2h
             )
             print("=" * 50)

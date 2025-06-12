@@ -54,8 +54,8 @@ def calculate_all_possible_attributes(training_data, prediction_file, output_fil
     for r in range(1, len(attributes) + 1):  # r is the size of the subset
         for combo in itertools.combinations(attributes, r):
             # Add HomeTeam and AwayTeam prefixes
-            modified_combo = [f"HomeTeam{item}" for item in combo] + [
-                f"AwayTeam{item}" for item in combo
+            modified_combo = [f"{item}" for item in combo] + [
+                f"{item}" for item in combo
             ]
             random_forest(training_data, prediction_file, output_file, modified_combo)
             all_possible_dict[combo] = check_predictions.calculate_prediction(
@@ -68,9 +68,14 @@ def calculate_all_possible_attributes(training_data, prediction_file, output_fil
     return all_possible_dict
 
 
-def random_forest(training_data, prediction_file, output_file, feature_columns):
+def random_forest(training_data, prediction_file, output_file, feature_columns, num_game_stats, num_game_h2h):
     # Load data
     df = pd.read_csv(training_data)
+    
+    # df = df.drop(columns=[f"HomeTeamRatingLast{num_game_stats}",
+    #                    f"AwayTeamRatingLast{num_game_stats}",
+    #                    f"HomeTeamWin%H2HLast{num_game_h2h}",
+    #                    f"AwayTeamWin%H2HLast{num_game_h2h}"], errors="ignore")
 
     # Drop rows where FTR is 'D'
     df = df[df["FTR"] != "D"]
@@ -90,6 +95,8 @@ def random_forest(training_data, prediction_file, output_file, feature_columns):
     # Select features and target
     X = df[feature_columns]
     
+    # print(X.columns)
+    
     y = df["FTR"]
 
     # Split the data into training and testing sets
@@ -108,17 +115,27 @@ def random_forest(training_data, prediction_file, output_file, feature_columns):
 
     # Load new data (2023-teams.csv) for prediction
     new_data = pd.read_csv(prediction_file)
+    
+    # new_data = new_data.drop(columns=[f"HomeTeamRatingLast{num_game_stats}",
+    #                                   f"AwayTeamRatingLast{num_game_stats}",
+    #                                   f"HomeTeamWin%H2HLast{num_game_h2h}",
+    #                                   f"AwayTeamWin%H2HLast{num_game_h2h}"], errors="ignore")
 
     # Select features in the new data
     X_new = new_data[feature_columns]
+    
+    # print(X_new.columns)
 
+    
+    # print(new_data.columns)
+    
     # Make predictions on the new data
     new_data["FTR_Prediction"] = model.predict(X_new)
 
     # Save the results with predictions to a new CSV file
     new_data.to_csv(output_file, index=False)
 
-    # print("Predictions saved successfully.")
+    print("Predictions saved successfully.")
 
 
 # @click.command()
@@ -162,8 +179,25 @@ if __name__ == "__main__":
                 f"AwayTeamPointH2HLast{num_game_h2h}",
             ]
             print(f'Start calculating all possible attributes for: Normal = {num_game_stats}, H2H = {num_game_h2h}')
-            calculate_all_possible_attributes(
-                training_data, prediction_file, output_file, feature_columns
+            random_forest(
+                training_data, prediction_file, output_file, feature_columns, num_game_stats, num_game_h2h
             )
             print("=" * 50)
-            
+    # normal_size = 10 
+    # h2h_size = 5
+    # training_data = f"./training_data/team_stats_stats{normal_size}_h2h{h2h_size}.csv"
+    # prediction_file = f"./prediction_test/team_stats_stats{normal_size}_h2h{h2h_size}.csv"
+    # output_file = f"./results/test_random_forest_stats{normal_size}_h2h{h2h_size}.csv"
+    # feature_columns = [
+    #     f"HomeTeamShotTargetLast{normal_size}",
+    #     f"AwayTeamShotTargetLast{normal_size}",
+    #     f"HomeTeamGoalScoredLast{normal_size}",
+    #     f"AwayTeamGoalScoredLast{normal_size}",
+    #     f"HomeTeamPointLast{normal_size}",
+    #     f"AwayTeamPointLast{normal_size}",
+    #     f"HomeTeamPointH2HLast{h2h_size}",
+    #     f"AwayTeamPointH2HLast{h2h_size}",
+    # ]
+    # random_forest(
+    #     training_data, prediction_file, output_file, feature_columns, normal_size, h2h_size
+    # )
