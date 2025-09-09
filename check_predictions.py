@@ -42,7 +42,7 @@ def calculate_prediction_draw_init(file_name):
     # Calculate accuracy
     if total_rows > 0:
         accuracy_percentage = (match_count / total_rows) * 100
-        print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
+        # print(f"Accuracy percentage: {accuracy_percentage:.2f}%")
     else:
         # print("No data to calculate accuracy.")
         accuracy_percentage = 0.0
@@ -51,26 +51,27 @@ def calculate_prediction_draw_init(file_name):
 
 
 if __name__ == "__main__":
-    # normal_size = [5, 10, 15, 20, 25, 30]
-    # h2h_size = [5, 10]
+    normal_size = [5, 10, 15, 20, 25, 30]
+    h2h_size = [5, 10]
     
-    # # Random Forest Stats and H2H
-    # for num_game_stats in normal_size:
-    #     for num_game_h2h in h2h_size:
-    #         file_name = f"./results/random_forest_normal{num_game_stats}_h2h{num_game_h2h}.csv"
-    #         accuracy = calculate_prediction_draw_init(file_name)
-    #         print(
-    #             f"Accuracy for RF normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
-    #         )
-    #         file_name = f"./results/gradient_boosting_normal{num_game_stats}_h2h{num_game_h2h}.csv"
-    #         accuracy = calculate_prediction_draw_init(file_name)
-    #         print(
-    #             f"Accuracy for GB normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
-    #         )
-    #         print("--" * 20)
+    # Random Forest Stats and H2H
+    for num_game_stats in normal_size:
+        for num_game_h2h in h2h_size:
+            file_name = f"./results/random_forest_normal{num_game_stats}_h2h{num_game_h2h}_withDraw.csv"
+            accuracy = calculate_prediction_draw_init(file_name)
+            print(
+                f"Accuracy for RF normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
+            )
+            file_name = f"./results/gradient_boosting_normal{num_game_stats}_h2h{num_game_h2h}_withDraw.csv"
+            accuracy = calculate_prediction_draw_init(file_name)
+            print(
+                f"Accuracy for GB normal {num_game_stats} and h2h {num_game_h2h}: {accuracy:.2f}%"
+            )
+            print("--" * 20)
 
             
 
-    ## Testing
-    file_name = "./results/random_forest_stats5_h2h5.csv"
-    calculate_prediction_draw_init(file_name)
+    # ## Testing
+    # file_name = "./results/test_random_forest_stats10_h2h5.csv"
+    # print(calculate_prediction_draw_init(file_name))
+    

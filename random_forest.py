@@ -78,7 +78,7 @@ def random_forest(training_data, prediction_file, output_file, feature_columns, 
     #                    f"AwayTeamWin%H2HLast{num_game_h2h}"], errors="ignore")
 
     # Drop rows where FTR is 'D'
-    df = df[df["FTR"] != "D"]
+    # df = df[df["FTR"] != "D"]
 
     # # Define the feature columns
     # feature_columns = [
@@ -167,7 +167,7 @@ if __name__ == "__main__":
         for num_game_h2h in h2h_size:
             training_data = f"./training_data/team_stats_normal{num_game_stats}_h2h{num_game_h2h}.csv"
             prediction_file = f"./prediction_test/team_stats_normal{num_game_stats}_h2h{num_game_h2h}.csv"
-            output_file = f"./results/random_forest_normal{num_game_stats}_h2h{num_game_h2h}.csv"
+            output_file = f"./results/random_forest_normal{num_game_stats}_h2h{num_game_h2h}_withDraw.csv"
             feature_columns = [
                 f"HomeTeamShotTargetLast{num_game_stats}",
                 f"AwayTeamShotTargetLast{num_game_stats}",
@@ -183,7 +183,8 @@ if __name__ == "__main__":
                 training_data, prediction_file, output_file, feature_columns, num_game_stats, num_game_h2h
             )
             print("=" * 50)
-    # normal_size = 10 
+    
+    # normal_size = 15
     # h2h_size = 5
     # training_data = f"./training_data/team_stats_stats{normal_size}_h2h{h2h_size}.csv"
     # prediction_file = f"./prediction_test/team_stats_stats{normal_size}_h2h{h2h_size}.csv"

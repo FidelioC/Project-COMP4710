@@ -73,7 +73,7 @@ def gradient_boosting(training_data, prediction_file, output_file, feature_colum
     df = pd.read_csv(training_data)
 
     # Drop rows where FTR is 'D'
-    df = df[df["FTR"] != "D"]
+    # df = df[df["FTR"] != "D"]
 
     # # Define the feature columns
     # feature_columns = [
@@ -155,7 +155,7 @@ if __name__ == "__main__":
         for num_game_h2h in h2h_size:
             training_data = f"./training_data/team_stats_normal{num_game_stats}_h2h{num_game_h2h}.csv"
             prediction_file = f"./prediction_test/team_stats_normal{num_game_stats}_h2h{num_game_h2h}.csv"
-            output_file = f"./results/gradient_boosting_normal{num_game_stats}_h2h{num_game_h2h}.csv"
+            output_file = f"./results/gradient_boosting_normal{num_game_stats}_h2h{num_game_h2h}_withDraw.csv"
             feature_columns = [
                 f"HomeTeamShotTargetLast{num_game_stats}",
                 f"AwayTeamShotTargetLast{num_game_stats}",

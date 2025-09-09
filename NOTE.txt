@@ -1,0 +1,5 @@
+Objective:
+    - Integrating weather condition into the research using specific timestamp
+        Challenge: The official data started tracking the time on season 19-20 and beyond, which covers only 4-5 years out of 22 years of (training) data
+    - Proposed Solution:
+        For every missing time and date, fill it with 15:00 for the weatherAPI to retrieve the weather -> This might lead to inaccurate result.

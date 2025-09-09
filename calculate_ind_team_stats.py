@@ -66,7 +66,7 @@ if __name__ == "__main__":
     input_file = "./prediction_test/combined_file.csv"  # "./training_data/combined_file.csv" "./prediction_test/combined_file.csv"
     # normal_size = [10, 15, 20, 25, 30]
     # h2h_size = [5, 10]
-    normal_size = [5]
+    normal_size = [20]
     h2h_size = [10]
     test_date_end = "22/05/2022"  # date/month/year "24/05/15" "22/05/2022"
     test_date_start = "2022-08-05"  # year - month - date "2015-08-08" "2022-08-05"
